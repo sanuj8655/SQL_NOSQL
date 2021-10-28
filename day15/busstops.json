@@ -1,0 +1,920 @@
+{"_id":{"$oid":"5a0720b478597fc11004d951"},"stop":"Non-BRTS","code":"103B-D-04","seq":4.0,"stage":1.0,"name":"Aranyeshwar Corner","location":{"type":"Point","coordinates":[73.857675,18.486381]}}
+{"_id":{"$oid":"5a0720b478597fc11004d952"},"stop":"Non-BRTS","code":"103B-D-05","seq":5.0,"stage":2.0,"name":"Natubaug","location":{"type":"Point","coordinates":[73.857167,18.48103]}}
+{"_id":{"$oid":"5a0720b478597fc11004d953"},"stop":"Non-BRTS","code":"103B-D-07","seq":7.0,"stage":2.0,"name":"Shankar Maharaj Math","location":{"type":"Point","coordinates":[73.857234,18.470738]}}
+{"_id":{"$oid":"5a0720b478597fc11004d954"},"stop":"Non-BRTS","code":"103B-D-06","seq":6.0,"stage":2.0,"name":"Padmawati","location":{"type":"Point","coordinates":[73.857244,18.477347]}}
+{"_id":{"$oid":"5a0720b478597fc11004d955"},"stop":"Non-BRTS","code":"103B-D-08","seq":8.0,"stage":3.0,"name":"Balajinagar","location":{"type":"Point","coordinates":[73.858154,18.464405]}}
+{"_id":{"$oid":"5a0720b478597fc11004d95b"},"stop":"Non-BRTS","code":"103B-D-09","seq":9.0,"stage":3.0,"name":"Bharati Vidyapeeth Gate","location":{"type":"Point","coordinates":[73.8582,18.457434]}}
+{"_id":{"$oid":"5a0720b478597fc11004d95d"},"stop":"Non-BRTS","code":"103B-U-03","seq":3.0,"stage":1.0,"name":"Bharati Vidyapeeth Gate","location":{"type":"Point","coordinates":[73.858154,18.457616]}}
+{"_id":{"$oid":"5a0720b478597fc11004d95e"},"stop":"Non-BRTS","code":"103B-U-04","seq":4.0,"stage":2.0,"name":"Balajinagar","location":{"type":"Point","coordinates":[73.857973,18.464558]}}
+{"_id":{"$oid":"5a0720b478597fc11004d95f"},"stop":"Non-BRTS","code":"103B-U-05","seq":5.0,"stage":2.0,"name":"Shankar Maharaj Math","location":{"type":"Point","coordinates":[73.857067,18.470349]}}
+{"_id":{"$oid":"5a0720b478597fc11004d960"},"stop":"Non-BRTS","code":"103B-U-06","seq":6.0,"stage":2.0,"name":"Padmawati","location":{"type":"Point","coordinates":[73.85701,18.47736]}}
+{"_id":{"$oid":"5a0720b478597fc11004d961"},"stop":"Non-BRTS","code":"103B-U-07","seq":7.0,"stage":3.0,"name":"Natubaug","location":{"type":"Point","coordinates":[73.857094,18.481595]}}
+{"_id":{"$oid":"5a0720b478597fc11004d962"},"stop":"Non-BRTS","code":"103B-U-08","seq":8.0,"stage":3.0,"name":"Aranyeshwar Corner","location":{"type":"Point","coordinates":[73.857507,18.486482]}}
+{"_id":{"$oid":"5a0720b478597fc11004d968"},"stop":"Non-BRTS","code":"117D-U-01","seq":1.0,"stage":2.0,"name":"Parvati Payatha","location":{"type":"Point","coordinates":[73.853275,18.499445]}}
+{"_id":{"$oid":"5a0720b478597fc11004d969"},"stop":"Non-BRTS","code":"117D-U-02","seq":2.0,"stage":2.0,"name":"Dandekar Pul","location":{"type":"Point","coordinates":[73.846635,18.501123]}}
+{"_id":{"$oid":"5a0720b478597fc11004d96b"},"stop":"Non-BRTS","code":"117D-U-04","seq":4.0,"stage":2.0,"name":"Parvati Jalshuddhikaran Kendra","location":{"type":"Point","coordinates":[73.840965,18.497685]}}
+{"_id":{"$oid":"5a0720b478597fc11004d96f"},"stop":"Non-BRTS","code":"117D-U-08","seq":8.0,"stage":3.0,"name":"Saritanagari","location":{"type":"Point","coordinates":[73.83195,18.48992]}}
+{"_id":{"$oid":"5a0720b478597fc11004d970"},"stop":"Non-BRTS","code":"117F-U-00","seq":0.0,"stage":1.0,"name":"Shaniwarwada Stand","location":{"type":"Point","coordinates":[73.855842,18.521895]}}
+{"_id":{"$oid":"5a0720b478597fc11004d971"},"stop":"Non-BRTS","code":"117F-U-02","seq":2.0,"stage":2.0,"name":"Vasant Talkies","location":{"type":"Point","coordinates":[73.856275,18.517085]}}
+{"_id":{"$oid":"5a0720b478597fc11004d972"},"stop":"Non-BRTS","code":"117F-U-03","seq":3.0,"stage":2.0,"name":"Ganpati Chowk Laxmi Road","location":{"type":"Point","coordinates":[73.851635,18.514378]}}
+{"_id":{"$oid":"5a0720b478597fc11004d973"},"stop":"Non-BRTS","code":"117F-U-01","seq":1.0,"stage":1.0,"name":"Kasba Peth Police Chowky","location":{"type":"Point","coordinates":[73.855922,18.520501]}}
+{"_id":{"$oid":"5a0720b478597fc11004d974"},"stop":"Non-BRTS","code":"117F-U-05","seq":5.0,"stage":2.0,"name":"Gokhale Hall","location":{"type":"Point","coordinates":[73.849176,18.514064]}}
+{"_id":{"$oid":"5a0720b478597fc11004d976"},"stop":"Non-BRTS","code":"117F-U-06","seq":6.0,"stage":2.0,"name":"Vijay Talkies","location":{"type":"Point","coordinates":[73.846405,18.513753]}}
+{"_id":{"$oid":"5a0720b478597fc11004d977"},"stop":"Non-BRTS","code":"117F-U-07","seq":7.0,"stage":2.0,"name":"Kulkarni Petrol Pump","location":{"type":"Point","coordinates":[73.844905,18.513314]}}
+{"_id":{"$oid":"5a0720b478597fc11004d978"},"stop":"Non-BRTS","code":"117F-U-08","seq":8.0,"stage":3.0,"name":"Ganjavewadi","location":{"type":"Point","coordinates":[73.843322,18.510527]}}
+{"_id":{"$oid":"5a0720b478597fc11004d979"},"stop":"Non-BRTS","code":"117F-U-09","seq":9.0,"stage":3.0,"name":"Prakash Chicken Center","location":{"type":"Point","coordinates":[73.843972,18.508598]}}
+{"_id":{"$oid":"5a0720b478597fc11004d97a"},"stop":"Non-BRTS","code":"117F-U-11","seq":11.0,"stage":3.0,"name":"Panmala","location":{"type":"Point","coordinates":[73.844882,18.50053]}}
+{"_id":{"$oid":"5a0720b478597fc11004d97b"},"stop":"Non-BRTS","code":"117F-U-10","seq":10.0,"stage":3.0,"name":"Lokmanyanagar","location":{"type":"Point","coordinates":[73.844965,18.505246]}}
+{"_id":{"$oid":"5a0720b478597fc11004d97c"},"stop":"Non-BRTS","code":"117F-U-12","seq":12.0,"stage":4.0,"name":"Parvati Jalshuddhikaran Kendra","location":{"type":"Point","coordinates":[73.840863,18.49774]}}
+{"_id":{"$oid":"5a0720b478597fc11004d97f"},"stop":"Non-BRTS","code":"117F-U-15","seq":15.0,"stage":5.0,"name":"Vitthalwadi Jakat Naka","location":{"type":"Point","coordinates":[73.83324,18.49102]}}
+{"_id":{"$oid":"5a0720b478597fc11004d989"},"stop":"Non-BRTS","code":"117F-U-22","seq":22.0,"stage":6.0,"name":"Manikbaug","location":{"type":"Point","coordinates":[73.821676,18.473185]}}
+{"_id":{"$oid":"5a0720b478597fc11004d98a"},"stop":"Non-BRTS","code":"117F-U-26","seq":26.0,"stage":7.0,"name":"Patil Colony","location":{"type":"Point","coordinates":[73.815133,18.46319]}}
+{"_id":{"$oid":"5a0720b478597fc11004d98b"},"stop":"Non-BRTS","code":"117F-U-28","seq":28.0,"stage":7.0,"name":"Garmal","location":{"type":"Point","coordinates":[73.81172,18.45566]}}
+{"_id":{"$oid":"5a0720b478597fc11004d98c"},"stop":"Non-BRTS","code":"117F-U-27","seq":27.0,"stage":7.0,"name":"Dhayari Phata","location":{"type":"Point","coordinates":[73.813098,18.461066]}}
+{"_id":{"$oid":"5a0720b478597fc11004d98d"},"stop":"Non-BRTS","code":"117F-U-29","seq":29.0,"stage":7.0,"name":"Raykarvasti","location":{"type":"Point","coordinates":[73.811604,18.45435]}}
+{"_id":{"$oid":"5a0720b478597fc11004d98e"},"stop":"Non-BRTS","code":"117F-U-30","seq":30.0,"stage":7.0,"name":"Poultry Farm Dhayari","location":{"type":"Point","coordinates":[73.81067,18.448786]}}
+{"_id":{"$oid":"5a0720b478597fc11004d98f"},"stop":"Non-BRTS","code":"117F-U-31","seq":31.0,"stage":7.0,"name":"Ganeshnagar Dhayari","location":{"type":"Point","coordinates":[73.810979,18.450584]}}
+{"_id":{"$oid":"5a0720b478597fc11004d990"},"stop":"Non-BRTS","code":"117F-U-34","seq":34.0,"stage":8.0,"name":"Benkarvasti","location":{"type":"Point","coordinates":[73.81481,18.44663]}}
+{"_id":{"$oid":"5a0720b478597fc11004d991"},"stop":"Non-BRTS","code":"117F-U-33","seq":33.0,"stage":8.0,"name":"Saipuram Corner","location":{"type":"Point","coordinates":[73.81424,18.447]}}
+{"_id":{"$oid":"5a0720b478597fc11004d992"},"stop":"Non-BRTS","code":"117F-U-36","seq":36.0,"stage":9.0,"name":"Dhayari Maruti Mandir","location":{"type":"Point","coordinates":[73.813432,18.442317]}}
+{"_id":{"$oid":"5a0720b478597fc11004d994"},"stop":"Non-BRTS","code":"117F-U-32","seq":32.0,"stage":8.0,"name":"Dhayarigaon","location":{"type":"Point","coordinates":[73.810357,18.44763]}}
+{"_id":{"$oid":"5a0720b478597fc11004d995"},"stop":"Non-BRTS","code":"117F-U-35","seq":35.0,"stage":8.0,"name":"Dhayareshwar Mandir","location":{"type":"Point","coordinates":[73.814363,18.442297]}}
+{"_id":{"$oid":"5a0720b478597fc11004d99e"},"stop":"Non-BRTS","code":"118-7A-U-01","seq":1.0,"stage":1.0,"name":"Godown Gultekdi","location":{"type":"Point","coordinates":[73.869518,18.48945]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9a0"},"stop":"Non-BRTS","code":"118-7A-U-03","seq":3.0,"stage":2.0,"name":"Bhaji Market","location":{"type":"Point","coordinates":[73.863187,18.489469]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9a6"},"stop":"Non-BRTS","code":"120A-D-01","seq":1.0,"stage":1.0,"name":"Suvarna Fabricators","location":{"type":"Point","coordinates":[73.806407,18.747473]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9a9"},"stop":"Non-BRTS","code":"120A-D-03","seq":3.0,"stage":2.0,"name":"Chakan Mhalunge Phata","location":{"type":"Point","coordinates":[73.80859,18.755008]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9aa"},"stop":"Non-BRTS","code":"120A-D-05","seq":5.0,"stage":3.0,"name":"Cores Company","location":{"type":"Point","coordinates":[73.82135,18.759041]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9ab"},"stop":"Non-BRTS","code":"120A-D-06","seq":6.0,"stage":3.0,"name":"IBP Pump","location":{"type":"Point","coordinates":[73.826332,18.759982]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9ac"},"stop":"Non-BRTS","code":"120A-D-07","seq":7.0,"stage":3.0,"name":"Pancharatna Complex","location":{"type":"Point","coordinates":[73.835452,18.758834]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9ad"},"stop":"Non-BRTS","code":"120A-D-08","seq":8.0,"stage":4.0,"name":"Kharabwadi","location":{"type":"Point","coordinates":[73.841916,18.757487]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9af"},"stop":"Non-BRTS","code":"120A-D-11","seq":11.0,"stage":5.0,"name":"Chakan Talegaon Chowk","location":{"type":"Point","coordinates":[73.858777,18.75539]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9b0"},"stop":"Non-BRTS","code":"120A-D-10","seq":10.0,"stage":4.0,"name":"Pegra Gron Company","location":{"type":"Point","coordinates":[73.85644,18.755236]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9b2"},"stop":"Non-BRTS","code":"120A-D-12","seq":12.0,"stage":5.0,"name":"Balaji Petrol Pump","location":{"type":"Point","coordinates":[73.859207,18.742121]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9b4"},"stop":"Non-BRTS","code":"120A-D-17","seq":17.0,"stage":6.0,"name":"Kalyani Forge","location":{"type":"Point","coordinates":[73.849322,18.717353]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9b7"},"stop":"Non-BRTS","code":"120A-D-18","seq":18.0,"stage":6.0,"name":"Sandesh Model Colony","location":{"type":"Point","coordinates":[73.848747,18.716102]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9ba"},"stop":"Non-BRTS","code":"120A-D-22","seq":22.0,"stage":8.0,"name":"Indrayani Hotel","location":{"type":"Point","coordinates":[73.846607,18.687654]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9bb"},"stop":"Non-BRTS","code":"120A-D-20","seq":20.0,"stage":7.0,"name":"Gaikwadvasti Nasik Road","location":{"type":"Point","coordinates":[73.847712,18.696295]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9bc"},"stop":"Non-BRTS","code":"120A-D-23","seq":23.0,"stage":8.0,"name":"Hud Company","location":{"type":"Point","coordinates":[73.846797,18.685523]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9bd"},"stop":"Non-BRTS","code":"120A-D-24","seq":24.0,"stage":8.0,"name":"Nageshwar Vidyalay","location":{"type":"Point","coordinates":[73.848685,18.680437]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9be"},"stop":"Non-BRTS","code":"120A-D-25","seq":25.0,"stage":9.0,"name":"Moshigaon","location":{"type":"Point","coordinates":[73.849533,18.675819]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9bf"},"stop":"Non-BRTS","code":"120A-D-26","seq":26.0,"stage":9.0,"name":"Chaudhari Dhaba","location":{"type":"Point","coordinates":[73.84912,18.674341]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9c1"},"stop":"Non-BRTS","code":"120A-D-29","seq":29.0,"stage":10.0,"name":"Moshi Jakat Naka","location":{"type":"Point","coordinates":[73.848677,18.662147]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9c4"},"stop":"Non-BRTS","code":"120A-D-32","seq":32.0,"stage":10.0,"name":"Panjarpol","location":{"type":"Point","coordinates":[73.850628,18.643723]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9c6"},"stop":"Non-BRTS","code":"120A-D-34","seq":34.0,"stage":11.0,"name":"Dhawdevasti","location":{"type":"Point","coordinates":[73.850819,18.630087]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9c7"},"stop":"Non-BRTS","code":"120A-D-33","seq":33.0,"stage":11.0,"name":"Sadgurunagar","location":{"type":"Point","coordinates":[73.84985,18.633666]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9c8"},"stop":"Non-BRTS","code":"120A-D-35","seq":35.0,"stage":12.0,"name":"Bhosari Terminal","location":{"type":"Point","coordinates":[73.85158,18.62418]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9c9"},"stop":"Non-BRTS","code":"120A-U-00","seq":0.0,"stage":1.0,"name":"Bhosari Terminal","location":{"type":"Point","coordinates":[73.85144,18.62426]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9ca"},"stop":"Non-BRTS","code":"120A-U-01","seq":1.0,"stage":1.0,"name":"Dhawdevasti","location":{"type":"Point","coordinates":[73.850733,18.62995]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9cb"},"stop":"Non-BRTS","code":"120A-U-02","seq":2.0,"stage":2.0,"name":"Sadgurunagar","location":{"type":"Point","coordinates":[73.849657,18.633635]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9cc"},"stop":"Non-BRTS","code":"120A-U-03","seq":3.0,"stage":2.0,"name":"Panjarpol","location":{"type":"Point","coordinates":[73.850457,18.643754]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9cd"},"stop":"Non-BRTS","code":"120A-U-04","seq":4.0,"stage":2.0,"name":"Vakhar Mahamandal Bhosari","location":{"type":"Point","coordinates":[73.850601,18.647688]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9ce"},"stop":"Non-BRTS","code":"120A-U-05","seq":5.0,"stage":2.0,"name":"Tanna Products","location":{"type":"Point","coordinates":[73.850277,18.650517]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9cf"},"stop":"Non-BRTS","code":"120A-U-06","seq":6.0,"stage":2.0,"name":"Moshi Jakat Naka","location":{"type":"Point","coordinates":[73.848468,18.661893]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9d0"},"stop":"Non-BRTS","code":"120A-U-07","seq":7.0,"stage":3.0,"name":"Boratevasti Nasik Road","location":{"type":"Point","coordinates":[73.848778,18.665194]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9d1"},"stop":"Non-BRTS","code":"120A-U-08","seq":8.0,"stage":3.0,"name":"Bankarvasti","location":{"type":"Point","coordinates":[73.848419,18.671238]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9d2"},"stop":"Non-BRTS","code":"120A-U-09","seq":9.0,"stage":3.0,"name":"Chaudhari Dhaba","location":{"type":"Point","coordinates":[73.848953,18.674392]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9d3"},"stop":"Non-BRTS","code":"120A-U-10","seq":10.0,"stage":4.0,"name":"Moshigaon","location":{"type":"Point","coordinates":[73.849555,18.676297]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9d4"},"stop":"Non-BRTS","code":"120A-U-12","seq":12.0,"stage":4.0,"name":"Hud Company","location":{"type":"Point","coordinates":[73.846764,18.685379]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9d5"},"stop":"Non-BRTS","code":"120A-U-14","seq":14.0,"stage":5.0,"name":"Chimbli Phata","location":{"type":"Point","coordinates":[73.84758,18.69599]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9d6"},"stop":"Non-BRTS","code":"120A-U-13","seq":13.0,"stage":4.0,"name":"Indrayani Hotel","location":{"type":"Point","coordinates":[73.84643,18.687633]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9d7"},"stop":"Non-BRTS","code":"120A-U-16","seq":16.0,"stage":6.0,"name":"Kuruli Phata","location":{"type":"Point","coordinates":[73.848473,18.715336]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9d8"},"stop":"Non-BRTS","code":"120A-U-11","seq":11.0,"stage":4.0,"name":"Nageshwar Vidyalay","location":{"type":"Point","coordinates":[73.848417,18.68066]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9d9"},"stop":"Non-BRTS","code":"120A-U-15","seq":15.0,"stage":5.0,"name":"Gaikwadvasti Nasik Road","location":{"type":"Point","coordinates":[73.847905,18.699628]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9da"},"stop":"Non-BRTS","code":"120A-U-17","seq":17.0,"stage":6.0,"name":"Sandesh Model Colony","location":{"type":"Point","coordinates":[73.848854,18.716549]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9db"},"stop":"Non-BRTS","code":"120A-U-18","seq":18.0,"stage":6.0,"name":"Kalyani Forge","location":{"type":"Point","coordinates":[73.849719,18.718004]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9dc"},"stop":"Non-BRTS","code":"120A-U-20","seq":20.0,"stage":7.0,"name":"Alandi Phata","location":{"type":"Point","coordinates":[73.8563,18.731478]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9dd"},"stop":"Non-BRTS","code":"120A-U-19","seq":19.0,"stage":6.0,"name":"Spicer India Company","location":{"type":"Point","coordinates":[73.852077,18.722692]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9de"},"stop":"Non-BRTS","code":"120A-U-21","seq":21.0,"stage":7.0,"name":"Gavtevasti","location":{"type":"Point","coordinates":[73.857543,18.737338]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9df"},"stop":"Non-BRTS","code":"120A-U-24","seq":24.0,"stage":8.0,"name":"Chakan Talegaon Chowk","location":{"type":"Point","coordinates":[73.858757,18.755367]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9e0"},"stop":"Non-BRTS","code":"120A-U-23","seq":23.0,"stage":7.0,"name":"Balaji Petrol Pump","location":{"type":"Point","coordinates":[73.859234,18.742852]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9e1"},"stop":"Non-BRTS","code":"120A-U-26","seq":26.0,"stage":8.0,"name":"Ranubaimala","location":{"type":"Point","coordinates":[73.851212,18.755602]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9e2"},"stop":"Non-BRTS","code":"120A-U-22","seq":22.0,"stage":7.0,"name":"Vijay Oil Mill","location":{"type":"Point","coordinates":[73.859117,18.741397]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9e3"},"stop":"Non-BRTS","code":"120A-U-27","seq":27.0,"stage":9.0,"name":"Kharabwadi","location":{"type":"Point","coordinates":[73.841707,18.757518]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9e4"},"stop":"Non-BRTS","code":"120A-U-25","seq":25.0,"stage":8.0,"name":"Pegra Gron Company","location":{"type":"Point","coordinates":[73.856397,18.755185]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9e5"},"stop":"Non-BRTS","code":"120A-U-28","seq":28.0,"stage":9.0,"name":"Pancharatna Complex","location":{"type":"Point","coordinates":[73.835463,18.758794]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9e6"},"stop":"Non-BRTS","code":"120A-U-29","seq":29.0,"stage":9.0,"name":"IBP Pump","location":{"type":"Point","coordinates":[73.826311,18.759921]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9e7"},"stop":"Non-BRTS","code":"120A-U-30","seq":30.0,"stage":10.0,"name":"Cores Company","location":{"type":"Point","coordinates":[73.821285,18.758991]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9e8"},"stop":"Non-BRTS","code":"120A-U-31","seq":31.0,"stage":10.0,"name":"Lumax Company","location":{"type":"Point","coordinates":[73.814907,18.757617]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9e9"},"stop":"Non-BRTS","code":"120A-U-32","seq":32.0,"stage":11.0,"name":"Chakan Mhalunge Phata","location":{"type":"Point","coordinates":[73.808515,18.754942]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9ea"},"stop":"Non-BRTS","code":"120A-U-33","seq":33.0,"stage":11.0,"name":"MIDC Phata","location":{"type":"Point","coordinates":[73.80569,18.754235]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9eb"},"stop":"Non-BRTS","code":"120A-U-34","seq":34.0,"stage":11.0,"name":"Suvarna Fabricators","location":{"type":"Point","coordinates":[73.80645,18.747484]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9ec"},"stop":"Non-BRTS","code":"122A-U-00","seq":0.0,"stage":1.0,"name":"Nehrunagar Depot","location":{"type":"Point","coordinates":[73.820018,18.629823]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9ed"},"stop":"Non-BRTS","code":"120A-U-35","seq":35.0,"stage":12.0,"name":"Indoorance System Chakan Mhalunge","location":{"type":"Point","coordinates":[73.806652,18.742443]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9ef"},"stop":"Non-BRTS","code":"122A-U-02","seq":2.0,"stage":2.0,"name":"Maheshnagar","location":{"type":"Point","coordinates":[73.819213,18.626043]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9f0"},"stop":"Non-BRTS","code":"122A-U-03","seq":3.0,"stage":2.0,"name":"YCM Hospital","location":{"type":"Point","coordinates":[73.818537,18.623427]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9f1"},"stop":"Non-BRTS","code":"122A-U-04","seq":4.0,"stage":2.0,"name":"Sant Tukaramnagar","location":{"type":"Point","coordinates":[73.817808,18.620715]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9f2"},"stop":"Non-BRTS","code":"122A-U-05","seq":5.0,"stage":3.0,"name":"Vallabhnagar","location":{"type":"Point","coordinates":[73.816835,18.61363]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9fa"},"stop":"Non-BRTS","code":"122A-U-13","seq":13.0,"stage":6.0,"name":"Gopi Chal","location":{"type":"Point","coordinates":[73.838883,18.567539]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9fb"},"stop":"Non-BRTS","code":"122A-U-16","seq":16.0,"stage":7.0,"name":"Khadki Post","location":{"type":"Point","coordinates":[73.847519,18.555924]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9fd"},"stop":"Non-BRTS","code":"122A-U-15","seq":15.0,"stage":6.0,"name":"Factory Hospital","location":{"type":"Point","coordinates":[73.84543,18.55858]}}
+{"_id":{"$oid":"5a0720b478597fc11004d9fe"},"stop":"Non-BRTS","code":"122A-U-17","seq":17.0,"stage":7.0,"name":"Raja Bungalow","location":{"type":"Point","coordinates":[73.8498,18.5518]}}
+{"_id":{"$oid":"5a0720b478597fc11004da05"},"stop":"Non-BRTS","code":"122A-U-24","seq":24.0,"stage":9.0,"name":"Modern HighSchool","location":{"type":"Point","coordinates":[73.849432,18.524608]}}
+{"_id":{"$oid":"5a0720b478597fc11004da08"},"stop":"Non-BRTS","code":"122B-D-01","seq":1.0,"stage":1.0,"name":"Kalikamata Mandir","location":{"type":"Point","coordinates":[73.785267,18.628676]}}
+{"_id":{"$oid":"5a0720b478597fc11004da0c"},"stop":"Non-BRTS","code":"122B-D-06","seq":6.0,"stage":2.0,"name":"Chinchwad Station","location":{"type":"Point","coordinates":[73.794529,18.638449]}}
+{"_id":{"$oid":"5a0720b478597fc11004da0d"},"stop":"Non-BRTS","code":"122B-D-05","seq":5.0,"stage":2.0,"name":"Lokmanya Hospital","location":{"type":"Point","coordinates":[73.78964,18.636821]}}
+{"_id":{"$oid":"5a0720b478597fc11004da0e"},"stop":"Non-BRTS","code":"122B-D-08","seq":8.0,"stage":3.0,"name":"Finolex","location":{"type":"Point","coordinates":[73.801876,18.631003]}}
+{"_id":{"$oid":"5a0720b478597fc11004da0f"},"stop":"Non-BRTS","code":"122B-D-03","seq":3.0,"stage":1.0,"name":"Elpro Company","location":{"type":"Point","coordinates":[73.785411,18.632993]}}
+{"_id":{"$oid":"5a0720b478597fc11004da10"},"stop":"Non-BRTS","code":"122B-D-07","seq":7.0,"stage":2.0,"name":"Empire Estate","location":{"type":"Point","coordinates":[73.799237,18.634148]}}
+{"_id":{"$oid":"5a0720b478597fc11004da11"},"stop":"Non-BRTS","code":"122B-D-09","seq":9.0,"stage":3.0,"name":"Pimpri","location":{"type":"Point","coordinates":[73.805527,18.626747]}}
+{"_id":{"$oid":"5a0720b478597fc11004da13"},"stop":"Non-BRTS","code":"122B-D-10","seq":10.0,"stage":3.0,"name":"Mahindra Company","location":{"type":"Point","coordinates":[73.807437,18.628466]}}
+{"_id":{"$oid":"5a0720b478597fc11004da14"},"stop":"Non-BRTS","code":"122B-D-12","seq":12.0,"stage":3.0,"name":"Kamgarnagar","location":{"type":"Point","coordinates":[73.81219,18.62908]}}
+{"_id":{"$oid":"5a0720b478597fc11004da15"},"stop":"Non-BRTS","code":"122B-D-13","seq":13.0,"stage":3.0,"name":"HA Corner","location":{"type":"Point","coordinates":[73.815062,18.628665]}}
+{"_id":{"$oid":"5a0720b478597fc11004da16"},"stop":"Non-BRTS","code":"122B-D-14","seq":14.0,"stage":4.0,"name":"Nehrunagar","location":{"type":"Point","coordinates":[73.819351,18.629658]}}
+{"_id":{"$oid":"5a0720b478597fc11004da18"},"stop":"Non-BRTS","code":"122B-U-00","seq":0.0,"stage":1.0,"name":"Nehrunagar Depot","location":{"type":"Point","coordinates":[73.81994,18.62979]}}
+{"_id":{"$oid":"5a0720b478597fc11004da19"},"stop":"Non-BRTS","code":"122B-U-01","seq":1.0,"stage":2.0,"name":"Nehrunagar","location":{"type":"Point","coordinates":[73.81934,18.62961]}}
+{"_id":{"$oid":"5a0720b478597fc11004da1b"},"stop":"Non-BRTS","code":"122B-U-02","seq":2.0,"stage":2.0,"name":"HA Corner","location":{"type":"Point","coordinates":[73.81511,18.62854]}}
+{"_id":{"$oid":"5a0720b478597fc11004da1c"},"stop":"Non-BRTS","code":"122B-U-04","seq":4.0,"stage":2.0,"name":"Gandhinagar","location":{"type":"Point","coordinates":[73.80821,18.62917]}}
+{"_id":{"$oid":"5a0720b478597fc11004da1d"},"stop":"Non-BRTS","code":"122B-U-05","seq":5.0,"stage":2.0,"name":"Mahindra Company","location":{"type":"Point","coordinates":[73.80748,18.62843]}}
+{"_id":{"$oid":"5a0720b478597fc11004da1e"},"stop":"Non-BRTS","code":"122B-U-08","seq":8.0,"stage":3.0,"name":"Empire Estate","location":{"type":"Point","coordinates":[73.798515,18.634606]}}
+{"_id":{"$oid":"5a0720b478597fc11004da21"},"stop":"Non-BRTS","code":"122B-U-10","seq":10.0,"stage":4.0,"name":"Lokmanya Hospital","location":{"type":"Point","coordinates":[73.789678,18.636704]}}
+{"_id":{"$oid":"5a0720b478597fc11004da23"},"stop":"Non-BRTS","code":"122B-U-11","seq":11.0,"stage":4.0,"name":"More Prekshagruha","location":{"type":"Point","coordinates":[73.787765,18.634625]}}
+{"_id":{"$oid":"5a0720b478597fc11004da24"},"stop":"Non-BRTS","code":"122B-U-12","seq":12.0,"stage":4.0,"name":"Elpro Company","location":{"type":"Point","coordinates":[73.785652,18.633043]}}
+{"_id":{"$oid":"5a0720b478597fc11004da27"},"stop":"Non-BRTS","code":"122C-U-00","seq":0.0,"stage":1.0,"name":"Ma Na Pa Main Bus Stand","location":{"type":"Point","coordinates":[73.85435,18.52328]}}
+{"_id":{"$oid":"5a0720b478597fc11004da28"},"stop":"Non-BRTS","code":"122B-U-15","seq":15.0,"stage":5.0,"name":"Chinchwadgaon","location":{"type":"Point","coordinates":[73.783,18.62769]}}
+{"_id":{"$oid":"5a0720b478597fc11004da2a"},"stop":"Non-BRTS","code":"122C-U-03","seq":3.0,"stage":2.0,"name":"Patil Estate","location":{"type":"Point","coordinates":[73.854294,18.531145]}}
+{"_id":{"$oid":"5a0720b478597fc11004da2b"},"stop":"Non-BRTS","code":"122C-U-05","seq":5.0,"stage":3.0,"name":"Wakdewadi","location":{"type":"Point","coordinates":[73.85086,18.53985]}}
+{"_id":{"$oid":"5a0720b478597fc11004da2c"},"stop":"Non-BRTS","code":"122C-U-04","seq":4.0,"stage":2.0,"name":"Labour Office","location":{"type":"Point","coordinates":[73.851497,18.534933]}}
+{"_id":{"$oid":"5a0720b478597fc11004da2d"},"stop":"Non-BRTS","code":"122C-U-06","seq":6.0,"stage":3.0,"name":"Mariaai Gate","location":{"type":"Point","coordinates":[73.85132,18.542025]}}
+{"_id":{"$oid":"5a0720b478597fc11004da2e"},"stop":"Non-BRTS","code":"122C-U-02","seq":2.0,"stage":2.0,"name":"Lokmangal","location":{"type":"Point","coordinates":[73.85076,18.53008]}}
+{"_id":{"$oid":"5a0720b478597fc11004da2f"},"stop":"Non-BRTS","code":"122C-U-07","seq":7.0,"stage":3.0,"name":"Poultry Farm Mumbai Road","location":{"type":"Point","coordinates":[73.851676,18.546908]}}
+{"_id":{"$oid":"5a0720b478597fc11004da30"},"stop":"Non-BRTS","code":"122C-U-08","seq":8.0,"stage":3.0,"name":"Raja Bungalow","location":{"type":"Point","coordinates":[73.849524,18.551899]}}
+{"_id":{"$oid":"5a0720b478597fc11004da31"},"stop":"Non-BRTS","code":"122C-U-09","seq":9.0,"stage":4.0,"name":"Khadki Post","location":{"type":"Point","coordinates":[73.847382,18.555834]}}
+{"_id":{"$oid":"5a0720b478597fc11004da32"},"stop":"Non-BRTS","code":"122C-U-10","seq":10.0,"stage":4.0,"name":"Factory Hospital","location":{"type":"Point","coordinates":[73.845232,18.558532]}}
+{"_id":{"$oid":"5a0720b478597fc11004da33"},"stop":"Non-BRTS","code":"122C-U-11","seq":11.0,"stage":4.0,"name":"Khadki Station","location":{"type":"Point","coordinates":[73.84167,18.56259]}}
+{"_id":{"$oid":"5a0720b478597fc11004da34"},"stop":"Non-BRTS","code":"122C-U-12","seq":12.0,"stage":4.0,"name":"Gopi Chal","location":{"type":"Point","coordinates":[73.838701,18.56768]}}
+{"_id":{"$oid":"5a0720b478597fc11004da35"},"stop":"Non-BRTS","code":"122C-U-13","seq":13.0,"stage":5.0,"name":"Bopodi","location":{"type":"Point","coordinates":[73.83791,18.5705]}}
+{"_id":{"$oid":"5a0720b478597fc11004da36"},"stop":"Non-BRTS","code":"122C-U-14","seq":14.0,"stage":5.0,"name":"Dapodi","location":{"type":"Point","coordinates":[73.834854,18.578619]}}
+{"_id":{"$oid":"5a0720b478597fc11004da37"},"stop":"Non-BRTS","code":"122C-U-16","seq":16.0,"stage":6.0,"name":"Sandvik Company","location":{"type":"Point","coordinates":[73.829455,18.594317]}}
+{"_id":{"$oid":"5a0720b478597fc11004da38"},"stop":"Non-BRTS","code":"122C-U-17","seq":17.0,"stage":6.0,"name":"Alfa Laval Company","location":{"type":"Point","coordinates":[73.82757,18.59854]}}
+{"_id":{"$oid":"5a0720b478597fc11004da39"},"stop":"Non-BRTS","code":"122C-U-15","seq":15.0,"stage":6.0,"name":"Phugewadi","location":{"type":"Point","coordinates":[73.832775,18.58686]}}
+{"_id":{"$oid":"5a0720b478597fc11004da3a"},"stop":"Non-BRTS","code":"122C-U-18","seq":18.0,"stage":6.0,"name":"Marshal","location":{"type":"Point","coordinates":[73.826612,18.601053]}}
+{"_id":{"$oid":"5a0720b478597fc11004da3b"},"stop":"Non-BRTS","code":"122C-U-19","seq":19.0,"stage":7.0,"name":"Kasarwadi","location":{"type":"Point","coordinates":[73.824603,18.60413]}}
+{"_id":{"$oid":"5a0720b478597fc11004da3c"},"stop":"Non-BRTS","code":"122C-U-20","seq":20.0,"stage":7.0,"name":"Nashik Phata","location":{"type":"Point","coordinates":[73.822174,18.607256]}}
+{"_id":{"$oid":"5a0720b478597fc11004da3d"},"stop":"Non-BRTS","code":"122C-U-21","seq":21.0,"stage":8.0,"name":"Vallabhnagar","location":{"type":"Point","coordinates":[73.816591,18.614349]}}
+{"_id":{"$oid":"5a0720b478597fc11004da3e"},"stop":"Non-BRTS","code":"122C-U-22","seq":22.0,"stage":8.0,"name":"Sant Tukaramnagar","location":{"type":"Point","coordinates":[73.817669,18.620761]}}
+{"_id":{"$oid":"5a0720b478597fc11004da3f"},"stop":"Non-BRTS","code":"122C-U-23","seq":23.0,"stage":8.0,"name":"YCM Hospital","location":{"type":"Point","coordinates":[73.818344,18.623493]}}
+{"_id":{"$oid":"5a0720b478597fc11004da40"},"stop":"Non-BRTS","code":"122C-U-25","seq":25.0,"stage":10.0,"name":"Nehrunagar Depot","location":{"type":"Point","coordinates":[73.819473,18.629005]}}
+{"_id":{"$oid":"5a0720b478597fc11004da41"},"stop":"Non-BRTS","code":"122C-U-24","seq":24.0,"stage":9.0,"name":"Maheshnagar","location":{"type":"Point","coordinates":[73.81912,18.626079]}}
+{"_id":{"$oid":"5a0720b478597fc11004da42"},"stop":"Non-BRTS","code":"122C-U-26","seq":26.0,"stage":10.0,"name":"Nehrunagar","location":{"type":"Point","coordinates":[73.819138,18.629488]}}
+{"_id":{"$oid":"5a0720b478597fc11004da43"},"stop":"Non-BRTS","code":"122C-U-27","seq":27.0,"stage":10.0,"name":"HA Corner","location":{"type":"Point","coordinates":[73.81596,18.62859]}}
+{"_id":{"$oid":"5a0720b478597fc11004da44"},"stop":"Non-BRTS","code":"122C-U-28","seq":28.0,"stage":10.0,"name":"Kamgarnagar","location":{"type":"Point","coordinates":[73.81247,18.629]}}
+{"_id":{"$oid":"5a0720b478597fc11004da45"},"stop":"Non-BRTS","code":"122C-U-29","seq":29.0,"stage":10.0,"name":"Mahindra Company","location":{"type":"Point","coordinates":[73.80819,18.62918]}}
+{"_id":{"$oid":"5a0720b478597fc11004da46"},"stop":"Non-BRTS","code":"122C-U-30","seq":30.0,"stage":10.0,"name":"Pimpri","location":{"type":"Point","coordinates":[73.805095,18.626778]}}
+{"_id":{"$oid":"5a0720b478597fc11004da47"},"stop":"Non-BRTS","code":"122C-U-31","seq":31.0,"stage":11.0,"name":"Finolex","location":{"type":"Point","coordinates":[73.802162,18.630072]}}
+{"_id":{"$oid":"5a0720b478597fc11004da48"},"stop":"Non-BRTS","code":"122C-U-32","seq":32.0,"stage":11.0,"name":"Empire Estate","location":{"type":"Point","coordinates":[73.798872,18.633946]}}
+{"_id":{"$oid":"5a0720b478597fc11004da49"},"stop":"Non-BRTS","code":"122C-U-34","seq":34.0,"stage":12.0,"name":"Lokmanya Hospital","location":{"type":"Point","coordinates":[73.789696,18.636705]}}
+{"_id":{"$oid":"5a0720b478597fc11004da4a"},"stop":"Non-BRTS","code":"122C-U-33","seq":33.0,"stage":11.0,"name":"Chinchwad Station","location":{"type":"Point","coordinates":[73.794537,18.638292]}}
+{"_id":{"$oid":"5a0720b478597fc11004da4b"},"stop":"Non-BRTS","code":"122C-U-35","seq":35.0,"stage":12.0,"name":"More Prekshagruha","location":{"type":"Point","coordinates":[73.787837,18.634585]}}
+{"_id":{"$oid":"5a0720b478597fc11004da4c"},"stop":"Non-BRTS","code":"122C-U-36","seq":36.0,"stage":12.0,"name":"Elpro Company","location":{"type":"Point","coordinates":[73.785647,18.632937]}}
+{"_id":{"$oid":"5a0720b478597fc11004da4d"},"stop":"Non-BRTS","code":"122C-U-37","seq":37.0,"stage":12.0,"name":"Darshan Hall","location":{"type":"Point","coordinates":[73.78668,18.629332]}}
+{"_id":{"$oid":"5a0720b478597fc11004da4e"},"stop":"Non-BRTS","code":"122C-U-38","seq":38.0,"stage":12.0,"name":"Kalikamata Mandir","location":{"type":"Point","coordinates":[73.785463,18.62859]}}
+{"_id":{"$oid":"5a0720b478597fc11004da50"},"stop":"Non-BRTS","code":"126A-D-00","seq":0.0,"stage":1.0,"name":"Khadki Bazar","location":{"type":"Point","coordinates":[73.848465,18.566313]}}
+{"_id":{"$oid":"5a0720b478597fc11004da51"},"stop":"Non-BRTS","code":"126A-D-03","seq":3.0,"stage":2.0,"name":"Arsenal Factory Road","location":{"type":"Point","coordinates":[73.856847,18.57002]}}
+{"_id":{"$oid":"5a0720b478597fc11004da52"},"stop":"Non-BRTS","code":"126A-D-02","seq":2.0,"stage":1.0,"name":"Ammunition Factory","location":{"type":"Point","coordinates":[73.856349,18.56769]}}
+{"_id":{"$oid":"5a0720b478597fc11004da53"},"stop":"Non-BRTS","code":"126A-D-05","seq":5.0,"stage":2.0,"name":"Ordinance Club","location":{"type":"Point","coordinates":[73.86341,18.57207]}}
+{"_id":{"$oid":"5a0720b478597fc11004da54"},"stop":"Non-BRTS","code":"126A-D-01","seq":1.0,"stage":1.0,"name":"Power House Khadki","location":{"type":"Point","coordinates":[73.851403,18.564138]}}
+{"_id":{"$oid":"5a0720b478597fc11004da55"},"stop":"Non-BRTS","code":"126A-D-06","seq":6.0,"stage":2.0,"name":"Mula House","location":{"type":"Point","coordinates":[73.86702,18.57319]}}
+{"_id":{"$oid":"5a0720b478597fc11004da56"},"stop":"Non-BRTS","code":"126A-D-04","seq":4.0,"stage":2.0,"name":512.0,"location":{"type":"Point","coordinates":[73.858014,18.573259]}}
+{"_id":{"$oid":"5a0720b478597fc11004da57"},"stop":"Non-BRTS","code":"126A-D-07","seq":7.0,"stage":3.0,"name":"Mhasoba Mandir","location":{"type":"Point","coordinates":[73.86785,18.56922]}}
+{"_id":{"$oid":"5a0720b478597fc11004da58"},"stop":"Non-BRTS","code":"126A-D-08","seq":8.0,"stage":3.0,"name":"Shantinagar","location":{"type":"Point","coordinates":[73.87596,18.56872]}}
+{"_id":{"$oid":"5a0720b478597fc11004da59"},"stop":"Non-BRTS","code":"126A-D-09","seq":9.0,"stage":3.0,"name":"Sathe Biscuit","location":{"type":"Point","coordinates":[73.878847,18.570411]}}
+{"_id":{"$oid":"5a0720b478597fc11004da5a"},"stop":"Non-BRTS","code":"126A-D-11","seq":11.0,"stage":4.0,"name":"Dagadikhan","location":{"type":"Point","coordinates":[73.881811,18.580663]}}
+{"_id":{"$oid":"5a0720b478597fc11004da5b"},"stop":"Non-BRTS","code":"126A-D-10","seq":10.0,"stage":4.0,"name":"Vishrantwadi","location":{"type":"Point","coordinates":[73.878933,18.573483]}}
+{"_id":{"$oid":"5a0720b478597fc11004da5c"},"stop":"Non-BRTS","code":"126A-D-12","seq":12.0,"stage":4.0,"name":"Bhairavnagar Dhanori Road","location":{"type":"Point","coordinates":[73.884561,18.584721]}}
+{"_id":{"$oid":"5a0720b478597fc11004da5d"},"stop":"Non-BRTS","code":"126A-D-13","seq":13.0,"stage":5.0,"name":"Gokulnagar Dhanori Road","location":{"type":"Point","coordinates":[73.890528,18.59207]}}
+{"_id":{"$oid":"5a0720b478597fc11004da5e"},"stop":"Non-BRTS","code":"126A-D-14","seq":14.0,"stage":5.0,"name":"Gurudev Dattanagar","location":{"type":"Point","coordinates":[73.892415,18.593626]}}
+{"_id":{"$oid":"5a0720b478597fc11004da5f"},"stop":"Non-BRTS","code":"126A-D-15","seq":15.0,"stage":5.0,"name":"Dhanori Shala","location":{"type":"Point","coordinates":[73.894487,18.595471]}}
+{"_id":{"$oid":"5a0720b478597fc11004da60"},"stop":"Non-BRTS","code":"126A-D-17","seq":17.0,"stage":6.0,"name":"Madhavnagar Dhanori","location":{"type":"Point","coordinates":[73.901285,18.597417]}}
+{"_id":{"$oid":"5a0720b478597fc11004da61"},"stop":"Non-BRTS","code":"126A-D-18","seq":18.0,"stage":7.0,"name":"Kamalpark","location":{"type":"Point","coordinates":[73.903934,18.59759]}}
+{"_id":{"$oid":"5a0720b478597fc11004da62"},"stop":"Non-BRTS","code":"126B-U-01","seq":1.0,"stage":1.0,"name":"Madhavnagar Dhanori","location":{"type":"Point","coordinates":[73.901159,18.597293]}}
+{"_id":{"$oid":"5a0720b478597fc11004da63"},"stop":"Non-BRTS","code":"126A-D-16","seq":16.0,"stage":6.0,"name":"Dhanorigaon","location":{"type":"Point","coordinates":[73.897291,18.59679]}}
+{"_id":{"$oid":"5a0720b478597fc11004da64"},"stop":"Non-BRTS","code":"126B-U-00","seq":0.0,"stage":1.0,"name":"Kamalpark","location":{"type":"Point","coordinates":[73.904021,18.597506]}}
+{"_id":{"$oid":"5a0720b478597fc11004da65"},"stop":"Non-BRTS","code":"126B-U-02","seq":2.0,"stage":2.0,"name":"Dhanorigaon","location":{"type":"Point","coordinates":[73.897417,18.596749]}}
+{"_id":{"$oid":"5a0720b478597fc11004da66"},"stop":"Non-BRTS","code":"126B-U-03","seq":3.0,"stage":2.0,"name":"Dhanori Shala","location":{"type":"Point","coordinates":[73.894582,18.595424]}}
+{"_id":{"$oid":"5a0720b478597fc11004da67"},"stop":"Non-BRTS","code":"126B-U-07","seq":7.0,"stage":3.0,"name":"Dagadikhan","location":{"type":"Point","coordinates":[73.88186,18.580511]}}
+{"_id":{"$oid":"5a0720b478597fc11004da69"},"stop":"Non-BRTS","code":"126B-U-05","seq":5.0,"stage":3.0,"name":"Gokulnagar Dhanori Road","location":{"type":"Point","coordinates":[73.89047,18.591895]}}
+{"_id":{"$oid":"5a0720b478597fc11004da6b"},"stop":"Non-BRTS","code":"126B-U-04","seq":4.0,"stage":2.0,"name":"Gurudev Dattanagar","location":{"type":"Point","coordinates":[73.892546,18.593586]}}
+{"_id":{"$oid":"5a0720b478597fc11004da6f"},"stop":"Non-BRTS","code":"126B-U-06","seq":6.0,"stage":3.0,"name":"Bhairavnagar Dhanori Road","location":{"type":"Point","coordinates":[73.884512,18.58448]}}
+{"_id":{"$oid":"5a0720b478597fc11004da70"},"stop":"Non-BRTS","code":"126B-U-14","seq":14.0,"stage":5.0,"name":512.0,"location":{"type":"Point","coordinates":[73.857758,18.572457]}}
+{"_id":{"$oid":"5a0720b478597fc11004da73"},"stop":"Non-BRTS","code":"126B-U-19","seq":19.0,"stage":7.0,"name":"Alegaonkar Shala","location":{"type":"Point","coordinates":[73.845823,18.567777]}}
+{"_id":{"$oid":"5a0720b478597fc11004da74"},"stop":"Non-BRTS","code":"126B-U-20","seq":20.0,"stage":7.0,"name":"Manajibaug","location":{"type":"Point","coordinates":[73.84138,18.569903]}}
+{"_id":{"$oid":"5a0720b478597fc11004da75"},"stop":"Non-BRTS","code":"126B-U-21","seq":21.0,"stage":7.0,"name":"Bopodigaon","location":{"type":"Point","coordinates":[73.83817,18.571357]}}
+{"_id":{"$oid":"5a0720b478597fc11004da77"},"stop":"Non-BRTS","code":"126B-U-23","seq":23.0,"stage":7.0,"name":"Bhaurao Patil Chowk","location":{"type":"Point","coordinates":[73.83129,18.5663]}}
+{"_id":{"$oid":"5a0720b478597fc11004da79"},"stop":"Non-BRTS","code":"126B-U-25","seq":25.0,"stage":8.0,"name":"Botanical Garden","location":{"type":"Point","coordinates":[73.825802,18.562653]}}
+{"_id":{"$oid":"5a0720b478597fc11004da7a"},"stop":"Non-BRTS","code":"126B-U-26","seq":26.0,"stage":8.0,"name":"Spicer College Press","location":{"type":"Point","coordinates":[73.820838,18.56283]}}
+{"_id":{"$oid":"5a0720b478597fc11004da82"},"stop":"Non-BRTS","code":"126B-U-16","seq":16.0,"stage":6.0,"name":"Ammunition Factory","location":{"type":"Point","coordinates":[73.854915,18.565535]}}
+{"_id":{"$oid":"5a0720b478597fc11004da83"},"stop":"Non-BRTS","code":"126B-U-34","seq":34.0,"stage":11.0,"name":"Ganesh Mandir Pimplenilakh","location":{"type":"Point","coordinates":[73.795355,18.573953]}}
+{"_id":{"$oid":"5a0720b478597fc11004da84"},"stop":"Non-BRTS","code":"126B-U-35","seq":35.0,"stage":11.0,"name":"Pimplenilakh Shala","location":{"type":"Point","coordinates":[73.795029,18.572315]}}
+{"_id":{"$oid":"5a0720b478597fc11004da87"},"stop":"Non-BRTS","code":"126C-U-01","seq":1.0,"stage":1.0,"name":"Alegaonkar Shala","location":{"type":"Point","coordinates":[73.845622,18.567889]}}
+{"_id":{"$oid":"5a0720b478597fc11004da88"},"stop":"Non-BRTS","code":"126C-U-02","seq":2.0,"stage":1.0,"name":"Manajibaug","location":{"type":"Point","coordinates":[73.841721,18.569802]}}
+{"_id":{"$oid":"5a0720b478597fc11004da89"},"stop":"Non-BRTS","code":"126C-U-03","seq":3.0,"stage":1.0,"name":"Bopodigaon","location":{"type":"Point","coordinates":[73.837937,18.57156]}}
+{"_id":{"$oid":"5a0720b478597fc11004da8a"},"stop":"Non-BRTS","code":"126C-U-04","seq":4.0,"stage":1.0,"name":"Chhajed Petrol Pump","location":{"type":"Point","coordinates":[73.834681,18.573015]}}
+{"_id":{"$oid":"5a0720b478597fc11004da8b"},"stop":"Non-BRTS","code":"126C-U-05","seq":5.0,"stage":1.0,"name":"Bhaurao Patil Chowk","location":{"type":"Point","coordinates":[73.8314,18.56606]}}
+{"_id":{"$oid":"5a0720b478597fc11004da8c"},"stop":"Non-BRTS","code":"126C-U-06","seq":6.0,"stage":2.0,"name":"Dr Sayyad Dawakhana","location":{"type":"Point","coordinates":[73.831043,18.564758]}}
+{"_id":{"$oid":"5a0720b478597fc11004da8d"},"stop":"Non-BRTS","code":"126C-U-07","seq":7.0,"stage":2.0,"name":"Botanical Garden","location":{"type":"Point","coordinates":[73.825712,18.562698]}}
+{"_id":{"$oid":"5a0720b478597fc11004da8e"},"stop":"Non-BRTS","code":"126C-U-08","seq":8.0,"stage":2.0,"name":"Spicer College Press","location":{"type":"Point","coordinates":[73.821498,18.562815]}}
+{"_id":{"$oid":"5a0720b478597fc11004da8f"},"stop":"Non-BRTS","code":"126C-U-09","seq":9.0,"stage":3.0,"name":"Spicer College","location":{"type":"Point","coordinates":[73.818077,18.562826]}}
+{"_id":{"$oid":"5a0720b478597fc11004da90"},"stop":"Non-BRTS","code":"126C-U-10","seq":10.0,"stage":3.0,"name":"Bremen Chowk","location":{"type":"Point","coordinates":[73.814618,18.560652]}}
+{"_id":{"$oid":"5a0720b478597fc11004da91"},"stop":"Non-BRTS","code":"126C-U-11","seq":11.0,"stage":3.0,"name":"Bodygate","location":{"type":"Point","coordinates":[73.813126,18.563284]}}
+{"_id":{"$oid":"5a0720b478597fc11004da92"},"stop":"Non-BRTS","code":"126C-U-12","seq":12.0,"stage":4.0,"name":"Aundhgaon","location":{"type":"Point","coordinates":[73.812173,18.565572]}}
+{"_id":{"$oid":"5a0720b478597fc11004da93"},"stop":"Non-BRTS","code":"126C-U-13","seq":13.0,"stage":4.0,"name":"Sangvi Phata","location":{"type":"Point","coordinates":[73.807175,18.572723]}}
+{"_id":{"$oid":"5a0720b478597fc11004da94"},"stop":"Non-BRTS","code":"126C-U-15","seq":15.0,"stage":5.0,"name":"Rakshak Chowk","location":{"type":"Point","coordinates":[73.798612,18.581076]}}
+{"_id":{"$oid":"5a0720b478597fc11004da95"},"stop":"Non-BRTS","code":"126C-U-16","seq":16.0,"stage":5.0,"name":"Ganesh Mandir Pimplenilakh","location":{"type":"Point","coordinates":[73.79532,18.573638]}}
+{"_id":{"$oid":"5a0720b478597fc11004da96"},"stop":"Non-BRTS","code":"126C-U-17","seq":17.0,"stage":5.0,"name":"Pimplenilakh Shala","location":{"type":"Point","coordinates":[73.795045,18.572463]}}
+{"_id":{"$oid":"5a0720b478597fc11004da97"},"stop":"Non-BRTS","code":"126C-U-18","seq":18.0,"stage":6.0,"name":"Pimplenilakh","location":{"type":"Point","coordinates":[73.794225,18.571465]}}
+{"_id":{"$oid":"5a0720b478597fc11004da98"},"stop":"Non-BRTS","code":"126D-U-00","seq":0.0,"stage":1.0,"name":"Vishrantwadi","location":{"type":"Point","coordinates":[73.877206,18.574179]}}
+{"_id":{"$oid":"5a0720b478597fc11004da99"},"stop":"Non-BRTS","code":"126D-U-01","seq":1.0,"stage":1.0,"name":"Sathe Biscuit","location":{"type":"Point","coordinates":[73.878936,18.570559]}}
+{"_id":{"$oid":"5a0720b478597fc11004da9a"},"stop":"Non-BRTS","code":"126D-U-02","seq":2.0,"stage":1.0,"name":"Shantinagar","location":{"type":"Point","coordinates":[73.87588,18.5687]}}
+{"_id":{"$oid":"5a0720b478597fc11004da9b"},"stop":"Non-BRTS","code":"126D-U-03","seq":3.0,"stage":2.0,"name":"Mhasoba Mandir","location":{"type":"Point","coordinates":[73.86765,18.56904]}}
+{"_id":{"$oid":"5a0720b478597fc11004da9c"},"stop":"Non-BRTS","code":"126D-U-04","seq":4.0,"stage":2.0,"name":"Mula House","location":{"type":"Point","coordinates":[73.86714,18.57301]}}
+{"_id":{"$oid":"5a0720b478597fc11004da9e"},"stop":"Non-BRTS","code":"126D-U-06","seq":6.0,"stage":2.0,"name":512.0,"location":{"type":"Point","coordinates":[73.857809,18.572586]}}
+{"_id":{"$oid":"5a0720b478597fc11004da9f"},"stop":"Non-BRTS","code":"126D-U-07","seq":7.0,"stage":3.0,"name":"Arsenal Factory Road","location":{"type":"Point","coordinates":[73.856773,18.569687]}}
+{"_id":{"$oid":"5a0720b478597fc11004daa0"},"stop":"Non-BRTS","code":"126C-U-14","seq":14.0,"stage":5.0,"name":"Aundh Hospital","location":{"type":"Point","coordinates":[73.803269,18.576771]}}
+{"_id":{"$oid":"5a0720b478597fc11004daa1"},"stop":"Non-BRTS","code":"126D-U-08","seq":8.0,"stage":3.0,"name":"Ammunition Factory","location":{"type":"Point","coordinates":[73.856294,18.567371]}}
+{"_id":{"$oid":"5a0720b478597fc11004daa2"},"stop":"Non-BRTS","code":"126D-U-09","seq":9.0,"stage":3.0,"name":"Power House Khadki","location":{"type":"Point","coordinates":[73.851247,18.564187]}}
+{"_id":{"$oid":"5a0720b478597fc11004daa4"},"stop":"Non-BRTS","code":"126D-U-10","seq":10.0,"stage":4.0,"name":"Khadki Bazar","location":{"type":"Point","coordinates":[73.848461,18.56636]}}
+{"_id":{"$oid":"5a0720b478597fc11004daa5"},"stop":"Non-BRTS","code":"126B-U-15","seq":15.0,"stage":6.0,"name":"Arsenal Factory Road","location":{"type":"Point","coordinates":[73.85691,18.569952]}}
+{"_id":{"$oid":"5a0720b478597fc11004daa6"},"stop":"Non-BRTS","code":"126B-U-13","seq":13.0,"stage":5.0,"name":"Ordinance Club","location":{"type":"Point","coordinates":[73.86368,18.57237]}}
+{"_id":{"$oid":"5a0720b478597fc11004daa7"},"stop":"Non-BRTS","code":"130A-D-03","seq":3.0,"stage":1.0,"name":"Paramount Garden","location":{"type":"Point","coordinates":[73.87231,18.44965]}}
+{"_id":{"$oid":"5a0720b478597fc11004daa8"},"stop":"Non-BRTS","code":"130A-D-04","seq":4.0,"stage":2.0,"name":"Gokulnagar Katraj Kondhwa Road","location":{"type":"Point","coordinates":[73.875695,18.449984]}}
+{"_id":{"$oid":"5a0720b478597fc11004daa9"},"stop":"Non-BRTS","code":"130A-D-01","seq":1.0,"stage":1.0,"name":"Sundarban","location":{"type":"Point","coordinates":[73.87012,18.4491]}}
+{"_id":{"$oid":"5a0720b478597fc11004daaa"},"stop":"Non-BRTS","code":"130A-D-05","seq":5.0,"stage":2.0,"name":"Godown Katraj Kondhwa Road","location":{"type":"Point","coordinates":[73.887692,18.453659]}}
+{"_id":{"$oid":"5a0720b478597fc11004daac"},"stop":"Non-BRTS","code":"130A-U-00","seq":0.0,"stage":1.0,"name":"Yewalewadi","location":{"type":"Point","coordinates":[73.896523,18.436337]}}
+{"_id":{"$oid":"5a0720b478597fc11004daad"},"stop":"Non-BRTS","code":"130A-U-01","seq":1.0,"stage":1.0,"name":"Kondhwa Hospital","location":{"type":"Point","coordinates":[73.895345,18.439187]}}
+{"_id":{"$oid":"5a0720b478597fc11004daaf"},"stop":"Non-BRTS","code":"130A-D-07","seq":7.0,"stage":3.0,"name":"Kondhwa Hospital","location":{"type":"Point","coordinates":[73.895302,18.439268]}}
+{"_id":{"$oid":"5a0720b478597fc11004dab0"},"stop":"Non-BRTS","code":"130A-D-06","seq":6.0,"stage":3.0,"name":"Khadi Machine Katraj Kondhwa Road","location":{"type":"Point","coordinates":[73.89023,18.452577]}}
+{"_id":{"$oid":"5a0720b478597fc11004dab1"},"stop":"Non-BRTS","code":"130A-U-02","seq":2.0,"stage":2.0,"name":"Khadi Machine Katraj Kondhwa Road","location":{"type":"Point","coordinates":[73.890827,18.452362]}}
+{"_id":{"$oid":"5a0720b478597fc11004dab2"},"stop":"Non-BRTS","code":"130A-U-03","seq":3.0,"stage":2.0,"name":"Godown Katraj Kondhwa Road","location":{"type":"Point","coordinates":[73.888452,18.453388]}}
+{"_id":{"$oid":"5a0720b478597fc11004dab3"},"stop":"Non-BRTS","code":"130A-U-04","seq":4.0,"stage":3.0,"name":"Gokulnagar Katraj Kondhwa Road","location":{"type":"Point","coordinates":[73.875781,18.449916]}}
+{"_id":{"$oid":"5a0720b478597fc11004dab4"},"stop":"Non-BRTS","code":"130A-U-05","seq":5.0,"stage":3.0,"name":"Paramount Garden","location":{"type":"Point","coordinates":[73.87228,18.44968]}}
+{"_id":{"$oid":"5a0720b478597fc11004dab5"},"stop":"Non-BRTS","code":"130A-U-06","seq":6.0,"stage":3.0,"name":"Rajas Society Corner","location":{"type":"Point","coordinates":[73.863953,18.448317]}}
+{"_id":{"$oid":"5a0720b478597fc11004dab6"},"stop":"Non-BRTS","code":"130A-U-07","seq":7.0,"stage":3.0,"name":"Sundarban","location":{"type":"Point","coordinates":[73.87001,18.44902]}}
+{"_id":{"$oid":"5a0720b478597fc11004dab8"},"stop":"Non-BRTS","code":"161A-D-03","seq":3.0,"stage":1.0,"name":"Konarknagar","location":{"type":"Point","coordinates":[73.910849,18.566456]}}
+{"_id":{"$oid":"5a0720b478597fc11004dab9"},"stop":"Non-BRTS","code":"161A-D-04","seq":4.0,"stage":1.0,"name":"Corporation Bank","location":{"type":"Point","coordinates":[73.91144,18.56512]}}
+{"_id":{"$oid":"5a0720b478597fc11004daba"},"stop":"Non-BRTS","code":"161A-D-05","seq":5.0,"stage":1.0,"name":"Dattamandir Vimannagar","location":{"type":"Point","coordinates":[73.914012,18.565275]}}
+{"_id":{"$oid":"5a0720b478597fc11004dabd"},"stop":"Non-BRTS","code":"161A-D-01","seq":1.0,"stage":1.0,"name":"Konark Campus","location":{"type":"Point","coordinates":[73.9112,18.570814]}}
+{"_id":{"$oid":"5a0720b478597fc11004dabe"},"stop":"Non-BRTS","code":"161A-D-02","seq":2.0,"stage":1.0,"name":"Gangapuram Mhada","location":{"type":"Point","coordinates":[73.910939,18.567714]}}
+{"_id":{"$oid":"5a0720b478597fc11004dabf"},"stop":"Non-BRTS","code":"161A-D-06","seq":6.0,"stage":1.0,"name":"Kailas Market","location":{"type":"Point","coordinates":[73.914777,18.567815]}}
+{"_id":{"$oid":"5a0720b478597fc11004dac0"},"stop":"Non-BRTS","code":"161A-D-08","seq":8.0,"stage":2.0,"name":"Green Oaks Company","location":{"type":"Point","coordinates":[73.918214,18.564574]}}
+{"_id":{"$oid":"5a0720b478597fc11004dac1"},"stop":"Non-BRTS","code":"161A-D-09","seq":9.0,"stage":2.0,"name":"Vimannagar Corner","location":{"type":"Point","coordinates":[73.918181,18.561537]}}
+{"_id":{"$oid":"5a0720b478597fc11004dac2"},"stop":"Non-BRTS","code":"161A-D-10","seq":10.0,"stage":2.0,"name":"Vadgaon Sheri Phata","location":{"type":"Point","coordinates":[73.913036,18.559006]}}
+{"_id":{"$oid":"5a0720b478597fc11004dac3"},"stop":"Non-BRTS","code":"161A-D-12","seq":12.0,"stage":3.0,"name":"Shastrinagar Nagar Road","location":{"type":"Point","coordinates":[73.898139,18.552638]}}
+{"_id":{"$oid":"5a0720b478597fc11004dac4"},"stop":"Non-BRTS","code":"161A-D-15","seq":15.0,"stage":4.0,"name":"Yerawada","location":{"type":"Point","coordinates":[73.885453,18.545026]}}
+{"_id":{"$oid":"5a0720b478597fc11004dac5"},"stop":"Non-BRTS","code":"161A-D-16","seq":16.0,"stage":5.0,"name":"Bundgarden","location":{"type":"Point","coordinates":[73.883695,18.540804]}}
+{"_id":{"$oid":"5a0720b478597fc11004dac6"},"stop":"Non-BRTS","code":"161A-D-17","seq":17.0,"stage":5.0,"name":"Wadia College","location":{"type":"Point","coordinates":[73.88039,18.53597]}}
+{"_id":{"$oid":"5a0720b478597fc11004dac8"},"stop":"Non-BRTS","code":"161A-D-14","seq":14.0,"stage":4.0,"name":"Gunjan Corner","location":{"type":"Point","coordinates":[73.889137,18.545839]}}
+{"_id":{"$oid":"5a0720b478597fc11004dac9"},"stop":"Non-BRTS","code":"161A-D-13","seq":13.0,"stage":4.0,"name":"Wadia Bungalow","location":{"type":"Point","coordinates":[73.893193,18.549246]}}
+{"_id":{"$oid":"5a0720b478597fc11004daca"},"stop":"Non-BRTS","code":"161A-D-18","seq":18.0,"stage":5.0,"name":"Jahangir Hospital","location":{"type":"Point","coordinates":[73.876413,18.53144]}}
+{"_id":{"$oid":"5a0720b478597fc11004dacb"},"stop":"Non-BRTS","code":"161A-D-19","seq":19.0,"stage":5.0,"name":"Alankar Talkies","location":{"type":"Point","coordinates":[73.87622,18.528458]}}
+{"_id":{"$oid":"5a0720b478597fc11004dacc"},"stop":"Non-BRTS","code":"161A-D-20","seq":20.0,"stage":5.0,"name":"Incometax Office","location":{"type":"Point","coordinates":[73.876599,18.525427]}}
+{"_id":{"$oid":"5a0720b478597fc11004dacd"},"stop":"Non-BRTS","code":"161A-D-21","seq":21.0,"stage":5.0,"name":"GPO","location":{"type":"Point","coordinates":[73.876202,18.523011]}}
+{"_id":{"$oid":"5a0720b478597fc11004dace"},"stop":"Non-BRTS","code":"161A-D-22","seq":22.0,"stage":6.0,"name":"Collector Kacheri","location":{"type":"Point","coordinates":[73.871855,18.524353]}}
+{"_id":{"$oid":"5a0720b478597fc11004dacf"},"stop":"Non-BRTS","code":"161A-D-24","seq":24.0,"stage":7.0,"name":"Kumbharwada","location":{"type":"Point","coordinates":[73.858722,18.524662]}}
+{"_id":{"$oid":"5a0720b478597fc11004dad0"},"stop":"Non-BRTS","code":"161A-D-27","seq":27.0,"stage":8.0,"name":"Natraj Talkies","location":{"type":"Point","coordinates":[73.84527,18.51926]}}
+{"_id":{"$oid":"5a0720b478597fc11004dad3"},"stop":"Non-BRTS","code":"161A-D-23","seq":23.0,"stage":7.0,"name":"Gadital","location":{"type":"Point","coordinates":[73.864116,18.527258]}}
+{"_id":{"$oid":"5a0720b478597fc11004dad5"},"stop":"Non-BRTS","code":"161A-D-26","seq":26.0,"stage":8.0,"name":"Balgandharv","location":{"type":"Point","coordinates":[73.847476,18.521846]}}
+{"_id":{"$oid":"5a0720b478597fc11004dad6"},"stop":"Non-BRTS","code":"161A-D-25","seq":25.0,"stage":8.0,"name":"Ma Na Pa Dengle Pul 2","location":{"type":"Point","coordinates":[73.854711,18.523409]}}
+{"_id":{"$oid":"5a0720b478597fc11004dad8"},"stop":"Non-BRTS","code":"161A-D-32","seq":32.0,"stage":9.0,"name":"Nal Stop","location":{"type":"Point","coordinates":[73.832018,18.508895]}}
+{"_id":{"$oid":"5a0720b478597fc11004dad9"},"stop":"Non-BRTS","code":"161A-D-33","seq":33.0,"stage":10.0,"name":"SNDT College","location":{"type":"Point","coordinates":[73.828329,18.507228]}}
+{"_id":{"$oid":"5a0720b478597fc11004dadb"},"stop":"Non-BRTS","code":"161A-D-35","seq":35.0,"stage":10.0,"name":"More Vidyalay","location":{"type":"Point","coordinates":[73.819579,18.510422]}}
+{"_id":{"$oid":"5a0720b478597fc11004dadd"},"stop":"Non-BRTS","code":"161A-D-40","seq":40.0,"stage":11.0,"name":"Vanaj Corner","location":{"type":"Point","coordinates":[73.807385,18.507322]}}
+{"_id":{"$oid":"5a0720b478597fc11004dadf"},"stop":"Non-BRTS","code":"161A-D-39","seq":39.0,"stage":11.0,"name":"Pratiknagar","location":{"type":"Point","coordinates":[73.809797,18.508346]}}
+{"_id":{"$oid":"5a0720b478597fc11004dae1"},"stop":"Non-BRTS","code":"161A-D-41","seq":41.0,"stage":11.0,"name":"Vanaj Company","location":{"type":"Point","coordinates":[73.803987,18.506987]}}
+{"_id":{"$oid":"5a0720b478597fc11004dae4"},"stop":"Non-BRTS","code":"161A-U-01","seq":1.0,"stage":1.0,"name":"Bharatinagar","location":{"type":"Point","coordinates":[73.796801,18.507884]}}
+{"_id":{"$oid":"5a0720b478597fc11004dae5"},"stop":"Non-BRTS","code":"161A-U-02","seq":2.0,"stage":1.0,"name":"Kachara Depot Kothrud","location":{"type":"Point","coordinates":[73.799954,18.507548]}}
+{"_id":{"$oid":"5a0720b478597fc11004dae6"},"stop":"Non-BRTS","code":"161A-D-44","seq":44.0,"stage":12.0,"name":"Kothrud Depot","location":{"type":"Point","coordinates":[73.79494,18.507857]}}
+{"_id":{"$oid":"5a0720b478597fc11004dae7"},"stop":"Non-BRTS","code":"161A-D-42","seq":42.0,"stage":11.0,"name":"Kachara Depot Kothrud","location":{"type":"Point","coordinates":[73.799863,18.507395]}}
+{"_id":{"$oid":"5a0720b478597fc11004dae8"},"stop":"Non-BRTS","code":"161A-U-04","seq":4.0,"stage":1.0,"name":"Vanaj Corner","location":{"type":"Point","coordinates":[73.807289,18.507473]}}
+{"_id":{"$oid":"5a0720b478597fc11004dae9"},"stop":"Non-BRTS","code":"161A-U-06","seq":6.0,"stage":2.0,"name":"Jai Bhavaninagar","location":{"type":"Point","coordinates":[73.812613,18.509559]}}
+{"_id":{"$oid":"5a0720b478597fc11004daea"},"stop":"Non-BRTS","code":"161A-U-05","seq":5.0,"stage":1.0,"name":"Pratiknagar","location":{"type":"Point","coordinates":[73.809884,18.508367]}}
+{"_id":{"$oid":"5a0720b478597fc11004daeb"},"stop":"Non-BRTS","code":"161A-U-03","seq":3.0,"stage":1.0,"name":"Vanaj Company","location":{"type":"Point","coordinates":[73.804146,18.507148]}}
+{"_id":{"$oid":"5a0720b478597fc11004daec"},"stop":"Non-BRTS","code":"161A-U-07","seq":7.0,"stage":2.0,"name":"Anandnagar Kothrud","location":{"type":"Point","coordinates":[73.81457,18.50972]}}
+{"_id":{"$oid":"5a0720b478597fc11004daee"},"stop":"Non-BRTS","code":"161A-U-10","seq":10.0,"stage":2.0,"name":"Paud Phata","location":{"type":"Point","coordinates":[73.826171,18.506051]}}
+{"_id":{"$oid":"5a0720b478597fc11004daef"},"stop":"Non-BRTS","code":"161A-U-09","seq":9.0,"stage":2.0,"name":"More Vidyalay","location":{"type":"Point","coordinates":[73.820845,18.510205]}}
+{"_id":{"$oid":"5a0720b478597fc11004daf0"},"stop":"Non-BRTS","code":"161A-U-11","seq":11.0,"stage":3.0,"name":"SNDT College","location":{"type":"Point","coordinates":[73.828511,18.507301]}}
+{"_id":{"$oid":"5a0720b478597fc11004daf3"},"stop":"Non-BRTS","code":"161A-U-17","seq":17.0,"stage":4.0,"name":"Fergusson College","location":{"type":"Point","coordinates":[73.840946,18.522284]}}
+{"_id":{"$oid":"5a0720b478597fc11004daf4"},"stop":"Non-BRTS","code":"161A-U-16","seq":16.0,"stage":4.0,"name":"Goodluck Chowk","location":{"type":"Point","coordinates":[73.841565,18.517554]}}
+{"_id":{"$oid":"5a0720b478597fc11004daf5"},"stop":"Non-BRTS","code":"161A-U-18","seq":18.0,"stage":4.0,"name":"Dnyaneshwar Paduka","location":{"type":"Point","coordinates":[73.841896,18.5264]}}
+{"_id":{"$oid":"5a0720b478597fc11004daf8"},"stop":"Non-BRTS","code":"161A-U-22","seq":22.0,"stage":5.0,"name":"Ma Na Pa Dengle Pul 2","location":{"type":"Point","coordinates":[73.85551,18.52409]}}
+{"_id":{"$oid":"5a0720b478597fc11004daf9"},"stop":"Non-BRTS","code":"161A-U-20","seq":20.0,"stage":4.0,"name":"Modern HighSchool","location":{"type":"Point","coordinates":[73.849472,18.524741]}}
+{"_id":{"$oid":"5a0720b478597fc11004dafa"},"stop":"Non-BRTS","code":"161A-U-19","seq":19.0,"stage":4.0,"name":"Police Line","location":{"type":"Point","coordinates":[73.843974,18.526524]}}
+{"_id":{"$oid":"5a0720b478597fc11004dafb"},"stop":"Non-BRTS","code":"161A-U-21","seq":21.0,"stage":4.0,"name":"Sawarkar Bhavan","location":{"type":"Point","coordinates":[73.852782,18.526207]}}
+{"_id":{"$oid":"5a0720b478597fc11004dafc"},"stop":"Non-BRTS","code":"161A-U-23","seq":23.0,"stage":5.0,"name":"Kumbharwada","location":{"type":"Point","coordinates":[73.859141,18.524776]}}
+{"_id":{"$oid":"5a0720b478597fc11004dafd"},"stop":"Non-BRTS","code":"161A-U-24","seq":24.0,"stage":6.0,"name":"Gadital","location":{"type":"Point","coordinates":[73.864549,18.527127]}}
+{"_id":{"$oid":"5a0720b478597fc11004dafe"},"stop":"Non-BRTS","code":"161A-U-27","seq":27.0,"stage":7.0,"name":"Ruby Hall","location":{"type":"Point","coordinates":[73.878084,18.53315]}}
+{"_id":{"$oid":"5a0720b478597fc11004daff"},"stop":"Non-BRTS","code":"161A-U-26","seq":26.0,"stage":7.0,"name":"Pune Station","location":{"type":"Point","coordinates":[73.874137,18.528343]}}
+{"_id":{"$oid":"5a0720b478597fc11004db00"},"stop":"Non-BRTS","code":"161A-U-29","seq":29.0,"stage":8.0,"name":"Bundgarden","location":{"type":"Point","coordinates":[73.883532,18.540947]}}
+{"_id":{"$oid":"5a0720b478597fc11004db01"},"stop":"Non-BRTS","code":"161A-U-31","seq":31.0,"stage":8.0,"name":"Gunjan Corner","location":{"type":"Point","coordinates":[73.889097,18.546012]}}
+{"_id":{"$oid":"5a0720b478597fc11004db02"},"stop":"Non-BRTS","code":"161A-U-30","seq":30.0,"stage":8.0,"name":"Yerawada","location":{"type":"Point","coordinates":[73.88532,18.54537]}}
+{"_id":{"$oid":"5a0720b478597fc11004db03"},"stop":"Non-BRTS","code":"161A-U-32","seq":32.0,"stage":9.0,"name":"Wadia Bungalow","location":{"type":"Point","coordinates":[73.892987,18.549422]}}
+{"_id":{"$oid":"5a0720b478597fc11004db04"},"stop":"Non-BRTS","code":"161A-U-33","seq":33.0,"stage":9.0,"name":"Shastrinagar Nagar Road","location":{"type":"Point","coordinates":[73.898174,18.552874]}}
+{"_id":{"$oid":"5a0720b478597fc11004db05"},"stop":"Non-BRTS","code":"161A-U-25","seq":25.0,"stage":6.0,"name":"Sasoon Hospital","location":{"type":"Point","coordinates":[73.872047,18.525642]}}
+{"_id":{"$oid":"5a0720b478597fc11004db06"},"stop":"Non-BRTS","code":"161A-U-28","seq":28.0,"stage":7.0,"name":"Guruprasad Bungalow","location":{"type":"Point","coordinates":[73.880954,18.536776]}}
+{"_id":{"$oid":"5a0720b478597fc11004db07"},"stop":"Non-BRTS","code":"161A-U-34","seq":34.0,"stage":10.0,"name":"Ramwadi Jakat Naka","location":{"type":"Point","coordinates":[73.905001,18.554935]}}
+{"_id":{"$oid":"5a0720b478597fc11004db08"},"stop":"Non-BRTS","code":"161A-U-35","seq":35.0,"stage":10.0,"name":"Vadgaon Sheri Phata","location":{"type":"Point","coordinates":[73.911895,18.558902]}}
+{"_id":{"$oid":"5a0720b478597fc11004db09"},"stop":"Non-BRTS","code":"161A-U-37","seq":37.0,"stage":11.0,"name":"Green Oaks Company","location":{"type":"Point","coordinates":[73.918117,18.564704]}}
+{"_id":{"$oid":"5a0720b478597fc11004db0a"},"stop":"Non-BRTS","code":"161A-U-39","seq":39.0,"stage":11.0,"name":"Kailas Market","location":{"type":"Point","coordinates":[73.914296,18.567145]}}
+{"_id":{"$oid":"5a0720b478597fc11004db0b"},"stop":"Non-BRTS","code":"161A-U-40","seq":40.0,"stage":11.0,"name":"Dattamandir Vimannagar","location":{"type":"Point","coordinates":[73.91413,18.56525]}}
+{"_id":{"$oid":"5a0720b478597fc11004db0c"},"stop":"Non-BRTS","code":"161A-U-41","seq":41.0,"stage":11.0,"name":"Corporation Bank","location":{"type":"Point","coordinates":[73.911456,18.565117]}}
+{"_id":{"$oid":"5a0720b478597fc11004db0d"},"stop":"Non-BRTS","code":"161A-U-42","seq":42.0,"stage":11.0,"name":"Konarknagar","location":{"type":"Point","coordinates":[73.910498,18.566289]}}
+{"_id":{"$oid":"5a0720b478597fc11004db0e"},"stop":"Non-BRTS","code":"161A-U-38","seq":38.0,"stage":11.0,"name":"Baker Company","location":{"type":"Point","coordinates":[73.918528,18.567276]}}
+{"_id":{"$oid":"5a0720b478597fc11004db0f"},"stop":"Non-BRTS","code":"161A-U-43","seq":43.0,"stage":11.0,"name":"Gangapuram Mhada","location":{"type":"Point","coordinates":[73.910356,18.567285]}}
+{"_id":{"$oid":"5a0720b478597fc11004db10"},"stop":"Non-BRTS","code":"161A-U-44","seq":44.0,"stage":11.0,"name":"Konark Campus","location":{"type":"Point","coordinates":[73.9058,18.570265]}}
+{"_id":{"$oid":"5a0720b478597fc11004db11"},"stop":"Non-BRTS","code":"161A-U-36","seq":36.0,"stage":10.0,"name":"Vimannagar Corner","location":{"type":"Point","coordinates":[73.91694,18.56059]}}
+{"_id":{"$oid":"5a0720b478597fc11004db12"},"stop":"Non-BRTS","code":"161A-U-45","seq":45.0,"stage":12.0,"name":"Vimannagar","location":{"type":"Point","coordinates":[73.91154,18.57212]}}
+{"_id":{"$oid":"5a0720b478597fc11004db14"},"stop":"Non-BRTS","code":"179A-D-02","seq":2.0,"stage":2.0,"name":"Undrigaon Shala","location":{"type":"Point","coordinates":[73.915619,18.450701]}}
+{"_id":{"$oid":"5a0720b478597fc11004db15"},"stop":"Non-BRTS","code":"179A-D-03","seq":3.0,"stage":2.0,"name":"Punekarvasti","location":{"type":"Point","coordinates":[73.912417,18.460081]}}
+{"_id":{"$oid":"5a0720b478597fc11004db16"},"stop":"Non-BRTS","code":"179A-D-04","seq":4.0,"stage":2.0,"name":"Kholevasti","location":{"type":"Point","coordinates":[73.913013,18.461227]}}
+{"_id":{"$oid":"5a0720b478597fc11004db18"},"stop":"Non-BRTS","code":"179A-D-05","seq":5.0,"stage":2.0,"name":"Kadvasti Undri","location":{"type":"Point","coordinates":[73.913666,18.46207]}}
+{"_id":{"$oid":"5a0720b478597fc11004db19"},"stop":"Non-BRTS","code":"179A-D-06","seq":6.0,"stage":3.0,"name":"Vaddhara Bandhara","location":{"type":"Point","coordinates":[73.916593,18.465558]}}
+{"_id":{"$oid":"5a0720b478597fc11004db1a"},"stop":"Non-BRTS","code":"179A-D-07","seq":7.0,"stage":3.0,"name":"Mohammadwadi Shala","location":{"type":"Point","coordinates":[73.920151,18.468212]}}
+{"_id":{"$oid":"5a0720b478597fc11004db1b"},"stop":"Non-BRTS","code":"179A-D-08","seq":8.0,"stage":3.0,"name":"Mohammadwadigaon","location":{"type":"Point","coordinates":[73.921456,18.469877]}}
+{"_id":{"$oid":"5a0720b478597fc11004db1d"},"stop":"Non-BRTS","code":"179A-D-10","seq":10.0,"stage":3.0,"name":"Wadkarmala","location":{"type":"Point","coordinates":[73.927686,18.479973]}}
+{"_id":{"$oid":"5a0720b478597fc11004db1e"},"stop":"Non-BRTS","code":"179A-D-12","seq":12.0,"stage":4.0,"name":"Sayyadnagar","location":{"type":"Point","coordinates":[73.93105,18.486765]}}
+{"_id":{"$oid":"5a0720b478597fc11004db21"},"stop":"Non-BRTS","code":"179A-D-11","seq":11.0,"stage":4.0,"name":"Harihareshwar Mandir","location":{"type":"Point","coordinates":[73.929358,18.482651]}}
+{"_id":{"$oid":"5a0720b478597fc11004db22"},"stop":"Non-BRTS","code":"179A-D-18","seq":18.0,"stage":5.0,"name":"Bhaji Mandai Hadapsar","location":{"type":"Point","coordinates":[73.933588,18.501007]}}
+{"_id":{"$oid":"5a0720b478597fc11004db25"},"stop":"Non-BRTS","code":"179A-D-14","seq":14.0,"stage":4.0,"name":"Railway Crossing Sasanenagar","location":{"type":"Point","coordinates":[73.931812,18.4898]}}
+{"_id":{"$oid":"5a0720b478597fc11004db2a"},"stop":"Non-BRTS","code":"179A-U-01","seq":1.0,"stage":1.0,"name":"Bhaji Mandai Hadapsar","location":{"type":"Point","coordinates":[73.934513,18.500645]}}
+{"_id":{"$oid":"5a0720b478597fc11004db2b"},"stop":"Non-BRTS","code":"179A-U-07","seq":7.0,"stage":2.0,"name":"Sayyadnagar","location":{"type":"Point","coordinates":[73.931086,18.486615]}}
+{"_id":{"$oid":"5a0720b478597fc11004db2d"},"stop":"Non-BRTS","code":"179A-U-06","seq":6.0,"stage":2.0,"name":"Talathi Chowk","location":{"type":"Point","coordinates":[73.931445,18.487717]}}
+{"_id":{"$oid":"5a0720b478597fc11004db2e"},"stop":"Non-BRTS","code":"179A-U-08","seq":8.0,"stage":3.0,"name":"Harihareshwar Mandir","location":{"type":"Point","coordinates":[73.929342,18.48258]}}
+{"_id":{"$oid":"5a0720b478597fc11004db2f"},"stop":"Non-BRTS","code":"179A-U-09","seq":9.0,"stage":3.0,"name":"Wadkarmala","location":{"type":"Point","coordinates":[73.927735,18.479969]}}
+{"_id":{"$oid":"5a0720b478597fc11004db32"},"stop":"Non-BRTS","code":"179A-U-12","seq":12.0,"stage":3.0,"name":"Mohammadwadi Shala","location":{"type":"Point","coordinates":[73.92025,18.468258]}}
+{"_id":{"$oid":"5a0720b478597fc11004db34"},"stop":"Non-BRTS","code":"179A-U-15","seq":15.0,"stage":4.0,"name":"Kholevasti","location":{"type":"Point","coordinates":[73.912196,18.459064]}}
+{"_id":{"$oid":"5a0720b478597fc11004db35"},"stop":"Non-BRTS","code":"179A-U-17","seq":17.0,"stage":5.0,"name":"Undrigaon Shala","location":{"type":"Point","coordinates":[73.915606,18.450693]}}
+{"_id":{"$oid":"5a0720b478597fc11004db36"},"stop":"Non-BRTS","code":"179A-U-14","seq":14.0,"stage":4.0,"name":"Kadvasti Undri","location":{"type":"Point","coordinates":[73.913586,18.461854]}}
+{"_id":{"$oid":"5a0720b478597fc11004db37"},"stop":"Non-BRTS","code":"179A-U-13","seq":13.0,"stage":4.0,"name":"Vaddhara Bandhara","location":{"type":"Point","coordinates":[73.916823,18.465565]}}
+{"_id":{"$oid":"5a0720b478597fc11004db38"},"stop":"Non-BRTS","code":"179A-U-16","seq":16.0,"stage":4.0,"name":"Punekarvasti","location":{"type":"Point","coordinates":[73.913544,18.455359]}}
+{"_id":{"$oid":"5a0720b478597fc11004db39"},"stop":"Non-BRTS","code":"179A-U-19","seq":19.0,"stage":6.0,"name":"Vadachiwadi","location":{"type":"Point","coordinates":[73.918157,18.436455]}}
+{"_id":{"$oid":"5a0720b478597fc11004db3a"},"stop":"Non-BRTS","code":"179A-U-18","seq":18.0,"stage":5.0,"name":"Ghulevasti Undri Road","location":{"type":"Point","coordinates":[73.918226,18.44275]}}
+{"_id":{"$oid":"5a0720b478597fc11004db3b"},"stop":"Non-BRTS","code":"17A-D-00","seq":0.0,"stage":1.0,"name":"Narhegaon","location":{"type":"Point","coordinates":[73.82885,18.449003]}}
+{"_id":{"$oid":"5a0720b478597fc11004db40"},"stop":"Non-BRTS","code":"17A-D-01","seq":1.0,"stage":1.0,"name":"Shree Industries","location":{"type":"Point","coordinates":[73.829423,18.451133]}}
+{"_id":{"$oid":"5a0720b478597fc11004db42"},"stop":"Non-BRTS","code":"17A-D-08","seq":8.0,"stage":2.0,"name":"Gokulnagar Narhe Road","location":{"type":"Point","coordinates":[73.815068,18.459367]}}
+{"_id":{"$oid":"5a0720b478597fc11004db44"},"stop":"Non-BRTS","code":"17A-D-10","seq":10.0,"stage":3.0,"name":"Patil Colony","location":{"type":"Point","coordinates":[73.815004,18.46324]}}
+{"_id":{"$oid":"5a0720b478597fc11004db45"},"stop":"Non-BRTS","code":"17A-D-11","seq":11.0,"stage":3.0,"name":"Vadgaon Bk Phata","location":{"type":"Point","coordinates":[73.816719,18.466087]}}
+{"_id":{"$oid":"5a0720b478597fc11004db46"},"stop":"Non-BRTS","code":"17A-D-12","seq":12.0,"stage":3.0,"name":"Fun Time","location":{"type":"Point","coordinates":[73.819166,18.468323]}}
+{"_id":{"$oid":"5a0720b478597fc11004db47"},"stop":"Non-BRTS","code":"17A-D-13","seq":13.0,"stage":3.0,"name":"Indian Hume Pipe","location":{"type":"Point","coordinates":[73.820512,18.470599]}}
+{"_id":{"$oid":"5a0720b478597fc11004db49"},"stop":"Non-BRTS","code":"17A-D-14","seq":14.0,"stage":3.0,"name":"Manikbaug","location":{"type":"Point","coordinates":[73.821571,18.473267]}}
+{"_id":{"$oid":"5a0720b478597fc11004db4a"},"stop":"Non-BRTS","code":"17A-D-17","seq":17.0,"stage":4.0,"name":"Hingne","location":{"type":"Point","coordinates":[73.825058,18.480362]}}
+{"_id":{"$oid":"5a0720b478597fc11004db4b"},"stop":"Non-BRTS","code":"17A-D-16","seq":16.0,"stage":4.0,"name":"Anandnagar Sinhagad Road","location":{"type":"Point","coordinates":[73.823565,18.477597]}}
+{"_id":{"$oid":"5a0720b478597fc11004db4c"},"stop":"Non-BRTS","code":"17A-D-18","seq":18.0,"stage":4.0,"name":"Vitthalwadi Sinhagad Road","location":{"type":"Point","coordinates":[73.827497,18.483434]}}
+{"_id":{"$oid":"5a0720b478597fc11004db4d"},"stop":"Non-BRTS","code":"17A-D-21","seq":21.0,"stage":5.0,"name":"Vitthalwadi Jakat Naka","location":{"type":"Point","coordinates":[73.83261,18.49059]}}
+{"_id":{"$oid":"5a0720b478597fc11004db4e"},"stop":"Non-BRTS","code":"17A-D-19","seq":19.0,"stage":4.0,"name":"Rajaram Pul","location":{"type":"Point","coordinates":[73.828778,18.487449]}}
+{"_id":{"$oid":"5a0720b478597fc11004db4f"},"stop":"Non-BRTS","code":"17A-D-15","seq":15.0,"stage":3.0,"name":"Ganesh Park","location":{"type":"Point","coordinates":[73.822718,18.475807]}}
+{"_id":{"$oid":"5a0720b478597fc11004db50"},"stop":"Non-BRTS","code":"17A-D-20","seq":20.0,"stage":4.0,"name":"Jaidevnagar","location":{"type":"Point","coordinates":[73.830902,18.489395]}}
+{"_id":{"$oid":"5a0720b478597fc11004db51"},"stop":"Non-BRTS","code":"17A-D-22","seq":22.0,"stage":5.0,"name":"PL Deshpande Udyan","location":{"type":"Point","coordinates":[73.835222,18.493343]}}
+{"_id":{"$oid":"5a0720b478597fc11004db52"},"stop":"Non-BRTS","code":"17A-D-23","seq":23.0,"stage":5.0,"name":"Ganeshmala","location":{"type":"Point","coordinates":[73.838768,18.496414]}}
+{"_id":{"$oid":"5a0720b478597fc11004db53"},"stop":"Non-BRTS","code":"17A-D-25","seq":25.0,"stage":5.0,"name":"Panmala","location":{"type":"Point","coordinates":[73.844971,18.500738]}}
+{"_id":{"$oid":"5a0720b478597fc11004db54"},"stop":"Non-BRTS","code":"17A-D-24","seq":24.0,"stage":5.0,"name":"Parvati Jalshuddhikaran Kendra","location":{"type":"Point","coordinates":[73.840753,18.49786]}}
+{"_id":{"$oid":"5a0720b478597fc11004db55"},"stop":"Non-BRTS","code":"17A-D-26","seq":26.0,"stage":5.0,"name":"Dandekar Pul","location":{"type":"Point","coordinates":[73.84642,18.501261]}}
+{"_id":{"$oid":"5a0720b478597fc11004db57"},"stop":"Non-BRTS","code":"17A-D-27","seq":27.0,"stage":6.0,"name":"Parvati Payatha","location":{"type":"Point","coordinates":[73.852342,18.499291]}}
+{"_id":{"$oid":"5a0720b478597fc11004db58"},"stop":"Non-BRTS","code":"17A-D-29","seq":29.0,"stage":6.0,"name":"Hirabaug","location":{"type":"Point","coordinates":[73.853572,18.50478]}}
+{"_id":{"$oid":"5a0720b478597fc11004db5b"},"stop":"Non-BRTS","code":"17A-U-01","seq":1.0,"stage":2.0,"name":"Parvati Payatha","location":{"type":"Point","coordinates":[73.852398,18.499163]}}
+{"_id":{"$oid":"5a0720b478597fc11004db5c"},"stop":"Non-BRTS","code":"17A-U-03","seq":3.0,"stage":2.0,"name":"Panmala","location":{"type":"Point","coordinates":[73.845046,18.500662]}}
+{"_id":{"$oid":"5a0720b478597fc11004db5d"},"stop":"Non-BRTS","code":"17A-U-02","seq":2.0,"stage":2.0,"name":"Dandekar Pul","location":{"type":"Point","coordinates":[73.846426,18.501167]}}
+{"_id":{"$oid":"5a0720b478597fc11004db5e"},"stop":"Non-BRTS","code":"17A-U-04","seq":4.0,"stage":2.0,"name":"Parvati Jalshuddhikaran Kendra","location":{"type":"Point","coordinates":[73.840888,18.497776]}}
+{"_id":{"$oid":"5a0720b478597fc11004db5f"},"stop":"Non-BRTS","code":"17A-U-05","seq":5.0,"stage":2.0,"name":"Ganeshmala","location":{"type":"Point","coordinates":[73.837281,18.494997]}}
+{"_id":{"$oid":"5a0720b478597fc11004db60"},"stop":"Non-BRTS","code":"17A-U-06","seq":6.0,"stage":2.0,"name":"PL Deshpande Udyan","location":{"type":"Point","coordinates":[73.835387,18.493235]}}
+{"_id":{"$oid":"5a0720b478597fc11004db62"},"stop":"Non-BRTS","code":"17A-U-09","seq":9.0,"stage":3.0,"name":"Rajaram Pul","location":{"type":"Point","coordinates":[73.828988,18.487473]}}
+{"_id":{"$oid":"5a0720b478597fc11004db63"},"stop":"Non-BRTS","code":"17A-U-08","seq":8.0,"stage":3.0,"name":"Jaidevnagar","location":{"type":"Point","coordinates":[73.829896,18.488551]}}
+{"_id":{"$oid":"5a0720b478597fc11004db64"},"stop":"Non-BRTS","code":"17A-U-10","seq":10.0,"stage":3.0,"name":"Vitthalwadi Sinhagad Road","location":{"type":"Point","coordinates":[73.827858,18.484667]}}
+{"_id":{"$oid":"5a0720b478597fc11004db65"},"stop":"Non-BRTS","code":"17A-U-13","seq":13.0,"stage":4.0,"name":"Ganesh Park","location":{"type":"Point","coordinates":[73.8229,18.475779]}}
+{"_id":{"$oid":"5a0720b478597fc11004db66"},"stop":"Non-BRTS","code":"17A-U-12","seq":12.0,"stage":4.0,"name":"Anandnagar Sinhagad Road","location":{"type":"Point","coordinates":[73.823662,18.477526]}}
+{"_id":{"$oid":"5a0720b478597fc11004db67"},"stop":"Non-BRTS","code":"17A-U-15","seq":15.0,"stage":4.0,"name":"Indian Hume Pipe","location":{"type":"Point","coordinates":[73.820641,18.470573]}}
+{"_id":{"$oid":"5a0720b478597fc11004db68"},"stop":"Non-BRTS","code":"17A-U-14","seq":14.0,"stage":4.0,"name":"Manikbaug","location":{"type":"Point","coordinates":[73.821706,18.47319]}}
+{"_id":{"$oid":"5a0720b478597fc11004db69"},"stop":"Non-BRTS","code":"17A-U-16","seq":16.0,"stage":4.0,"name":"Fun Time","location":{"type":"Point","coordinates":[73.819828,18.468788]}}
+{"_id":{"$oid":"5a0720b478597fc11004db6a"},"stop":"Non-BRTS","code":"17A-U-17","seq":17.0,"stage":4.0,"name":"Vadgaon Bk Phata","location":{"type":"Point","coordinates":[73.818225,18.467097]}}
+{"_id":{"$oid":"5a0720b478597fc11004db6b"},"stop":"Non-BRTS","code":"17A-U-18","seq":18.0,"stage":5.0,"name":"Patil Colony","location":{"type":"Point","coordinates":[73.81516,18.463217]}}
+{"_id":{"$oid":"5a0720b478597fc11004db6c"},"stop":"Non-BRTS","code":"17A-U-19","seq":19.0,"stage":5.0,"name":"Dhayari Phata","location":{"type":"Point","coordinates":[73.812782,18.460484]}}
+{"_id":{"$oid":"5a0720b478597fc11004db6d"},"stop":"Non-BRTS","code":"17A-U-21","seq":21.0,"stage":5.0,"name":"Dattamandir Narhe Road","location":{"type":"Point","coordinates":[73.819872,18.45604]}}
+{"_id":{"$oid":"5a0720b478597fc11004db6e"},"stop":"Non-BRTS","code":"17A-U-11","seq":11.0,"stage":3.0,"name":"Hingne","location":{"type":"Point","coordinates":[73.82531,18.480293]}}
+{"_id":{"$oid":"5a0720b478597fc11004db6f"},"stop":"Non-BRTS","code":"17A-U-20","seq":20.0,"stage":5.0,"name":"Gokulnagar Narhe Road","location":{"type":"Point","coordinates":[73.812767,18.460248]}}
+{"_id":{"$oid":"5a0720b478597fc11004db70"},"stop":"Non-BRTS","code":"17A-U-22","seq":22.0,"stage":5.0,"name":"Surbhi","location":{"type":"Point","coordinates":[73.820417,18.454232]}}
+{"_id":{"$oid":"5a0720b478597fc11004db71"},"stop":"Non-BRTS","code":"17A-U-23","seq":23.0,"stage":6.0,"name":"Dhayareshwar Industries","location":{"type":"Point","coordinates":[73.820412,18.453802]}}
+{"_id":{"$oid":"5a0720b478597fc11004db72"},"stop":"Non-BRTS","code":"17A-U-24","seq":24.0,"stage":6.0,"name":"Bhargaon Industries","location":{"type":"Point","coordinates":[73.822233,18.45359]}}
+{"_id":{"$oid":"5a0720b478597fc11004db73"},"stop":"Non-BRTS","code":"17A-U-26","seq":26.0,"stage":6.0,"name":"JK Industries","location":{"type":"Point","coordinates":[73.828484,18.453085]}}
+{"_id":{"$oid":"5a0720b478597fc11004db74"},"stop":"Non-BRTS","code":"17A-U-27","seq":27.0,"stage":6.0,"name":"Shree Industries","location":{"type":"Point","coordinates":[73.829378,18.450957]}}
+{"_id":{"$oid":"5a0720b478597fc11004db75"},"stop":"Non-BRTS","code":"17A-U-25","seq":25.0,"stage":6.0,"name":"Manajinagar","location":{"type":"Point","coordinates":[73.82444,18.45346]}}
+{"_id":{"$oid":"5a0720b478597fc11004db77"},"stop":"Non-BRTS","code":"17B-D-01","seq":1.0,"stage":1.0,"name":"Kasba Peth Police Chowky","location":{"type":"Point","coordinates":[73.856201,18.519785]}}
+{"_id":{"$oid":"5a0720b478597fc11004db78"},"stop":"Non-BRTS","code":"17A-U-28","seq":28.0,"stage":7.0,"name":"Narhegaon","location":{"type":"Point","coordinates":[73.82889,18.449017]}}
+{"_id":{"$oid":"5a0720b478597fc11004db79"},"stop":"Non-BRTS","code":"17B-D-02","seq":2.0,"stage":2.0,"name":"Vasant Talkies","location":{"type":"Point","coordinates":[73.856278,18.51799]}}
+{"_id":{"$oid":"5a0720b478597fc11004db7a"},"stop":"Non-BRTS","code":"17B-D-03","seq":3.0,"stage":2.0,"name":"Gadikhana","location":{"type":"Point","coordinates":[73.85775,18.51225]}}
+{"_id":{"$oid":"5a0720b478597fc11004db7c"},"stop":"Non-BRTS","code":"17B-D-05","seq":5.0,"stage":2.0,"name":"Shivaji Maratha Highschool","location":{"type":"Point","coordinates":[73.858145,18.506585]}}
+{"_id":{"$oid":"5a0720b478597fc11004db7d"},"stop":"Non-BRTS","code":"17B-D-06","seq":6.0,"stage":2.0,"name":"Gokul Bhavan","location":{"type":"Point","coordinates":[73.858572,18.501475]}}
+{"_id":{"$oid":"5a0720b478597fc11004db80"},"stop":"Non-BRTS","code":"17B-U-03","seq":3.0,"stage":1.0,"name":"Shanipar","location":{"type":"Point","coordinates":[73.853802,18.512353]}}
+{"_id":{"$oid":"5a0720b478597fc11004db81"},"stop":"Non-BRTS","code":"17B-U-02","seq":2.0,"stage":1.0,"name":"Bhikardas Maruti","location":{"type":"Point","coordinates":[73.853673,18.508253]}}
+{"_id":{"$oid":"5a0720b478597fc11004db84"},"stop":"Non-BRTS","code":"17B-U-07","seq":7.0,"stage":3.0,"name":"Shaniwarwada Stand","location":{"type":"Point","coordinates":[73.855857,18.521872]}}
+{"_id":{"$oid":"5a0720b478597fc11004db88"},"stop":"Non-BRTS","code":"181B-D-01","seq":1.0,"stage":1.0,"name":"NIBM Road","location":{"type":"Point","coordinates":[73.896216,18.476869]}}
+{"_id":{"$oid":"5a0720b478597fc11004db89"},"stop":"Non-BRTS","code":"181B-D-02","seq":2.0,"stage":1.0,"name":"Jyoti English School","location":{"type":"Point","coordinates":[73.89095,18.47785]}}
+{"_id":{"$oid":"5a0720b478597fc11004db8a"},"stop":"Non-BRTS","code":"181B-D-03","seq":3.0,"stage":1.0,"name":"Kamela","location":{"type":"Point","coordinates":[73.891107,18.482576]}}
+{"_id":{"$oid":"5a0720b478597fc11004db8b"},"stop":"Non-BRTS","code":"181B-D-07","seq":7.0,"stage":2.0,"name":"Vanwadi Bazar","location":{"type":"Point","coordinates":[73.894528,18.495251]}}
+{"_id":{"$oid":"5a0720b478597fc11004db8c"},"stop":"Non-BRTS","code":"181B-D-04","seq":4.0,"stage":2.0,"name":"Lullanagar","location":{"type":"Point","coordinates":[73.889617,18.484933]}}
+{"_id":{"$oid":"5a0720b478597fc11004db8d"},"stop":"Non-BRTS","code":"181B-D-05","seq":5.0,"stage":2.0,"name":"Netajinagar","location":{"type":"Point","coordinates":[73.892839,18.488043]}}
+{"_id":{"$oid":"5a0720b478597fc11004db8e"},"stop":"Non-BRTS","code":"181B-D-06","seq":6.0,"stage":2.0,"name":"Shinde Chhatri","location":{"type":"Point","coordinates":[73.894275,18.492571]}}
+{"_id":{"$oid":"5a0720b478597fc11004db8f"},"stop":"Non-BRTS","code":"181B-D-08","seq":8.0,"stage":3.0,"name":"Vanwadi Corner","location":{"type":"Point","coordinates":[73.895263,18.499052]}}
+{"_id":{"$oid":"5a0720b478597fc11004db90"},"stop":"Non-BRTS","code":"181B-D-09","seq":9.0,"stage":3.0,"name":"Military Hospital Vanawadi","location":{"type":"Point","coordinates":[73.890816,18.501818]}}
+{"_id":{"$oid":"5a0720b478597fc11004db91"},"stop":"Non-BRTS","code":"181B-D-10","seq":10.0,"stage":3.0,"name":"Limb Center","location":{"type":"Point","coordinates":[73.888304,18.503464]}}
+{"_id":{"$oid":"5a0720b478597fc11004db92"},"stop":"Non-BRTS","code":"181B-D-12","seq":12.0,"stage":4.0,"name":"Juna Pulgate","location":{"type":"Point","coordinates":[73.879561,18.508661]}}
+{"_id":{"$oid":"5a0720b478597fc11004db93"},"stop":"Non-BRTS","code":"181B-D-11","seq":11.0,"stage":4.0,"name":"Mahatma Gandhi Stand","location":{"type":"Point","coordinates":[73.882404,18.504904]}}
+{"_id":{"$oid":"5a0720b478597fc11004db94"},"stop":"Non-BRTS","code":"181B-D-14","seq":14.0,"stage":4.0,"name":"Juna Motor Stand","location":{"type":"Point","coordinates":[73.872651,18.509223]}}
+{"_id":{"$oid":"5a0720b478597fc11004db95"},"stop":"Non-BRTS","code":"181B-D-13","seq":13.0,"stage":4.0,"name":"Chudaman Talim","location":{"type":"Point","coordinates":[73.874887,18.508302]}}
+{"_id":{"$oid":"5a0720b478597fc11004db96"},"stop":"Non-BRTS","code":"181B-D-15","seq":15.0,"stage":4.0,"name":"Kashiwadi","location":{"type":"Point","coordinates":[73.870088,18.510022]}}
+{"_id":{"$oid":"5a0720b478597fc11004db97"},"stop":"Non-BRTS","code":"181B-D-16","seq":16.0,"stage":4.0,"name":"Ramoshigate","location":{"type":"Point","coordinates":[73.868373,18.5109]}}
+{"_id":{"$oid":"5a0720b478597fc11004db98"},"stop":"Non-BRTS","code":"181B-D-17","seq":17.0,"stage":5.0,"name":"AD Camp Chowk","location":{"type":"Point","coordinates":[73.868677,18.513156]}}
+{"_id":{"$oid":"5a0720b478597fc11004db99"},"stop":"Non-BRTS","code":"181B-D-19","seq":19.0,"stage":5.0,"name":"Power House Rastapeth","location":{"type":"Point","coordinates":[73.868323,18.518964]}}
+{"_id":{"$oid":"5a0720b478597fc11004db9a"},"stop":"Non-BRTS","code":"181B-D-18","seq":18.0,"stage":5.0,"name":"Nana Peth","location":{"type":"Point","coordinates":[73.868426,18.517282]}}
+{"_id":{"$oid":"5a0720b478597fc11004db9b"},"stop":"Non-BRTS","code":"181B-D-20","seq":20.0,"stage":5.0,"name":"Apollo Talkies","location":{"type":"Point","coordinates":[73.864586,18.519502]}}
+{"_id":{"$oid":"5a0720b478597fc11004db9c"},"stop":"Non-BRTS","code":"181B-D-22","seq":22.0,"stage":6.0,"name":"Jijamatabaug","location":{"type":"Point","coordinates":[73.856738,18.518554]}}
+{"_id":{"$oid":"5a0720b478597fc11004db9e"},"stop":"Non-BRTS","code":"181B-D-26","seq":26.0,"stage":6.0,"name":"Simla Office","location":{"type":"Point","coordinates":[73.849268,18.530423]}}
+{"_id":{"$oid":"5a0720b478597fc11004dba0"},"stop":"Non-BRTS","code":"181B-D-28","seq":28.0,"stage":7.0,"name":"Na Ta Wadi","location":{"type":"Point","coordinates":[73.848875,18.534603]}}
+{"_id":{"$oid":"5a0720b478597fc11004dba1"},"stop":"Non-BRTS","code":"181B-U-00","seq":0.0,"stage":1.0,"name":"Na Ta Wadi","location":{"type":"Point","coordinates":[73.848753,18.53492]}}
+{"_id":{"$oid":"5a0720b478597fc11004dba3"},"stop":"Non-BRTS","code":"181B-U-02","seq":2.0,"stage":1.0,"name":"COEP Hostel","location":{"type":"Point","coordinates":[73.852298,18.528625]}}
+{"_id":{"$oid":"5a0720b478597fc11004dba6"},"stop":"Non-BRTS","code":"181B-U-05","seq":5.0,"stage":1.0,"name":"Kasba Peth Police Chowky","location":{"type":"Point","coordinates":[73.855914,18.520488]}}
+{"_id":{"$oid":"5a0720b478597fc11004dba7"},"stop":"Non-BRTS","code":"181B-U-06","seq":6.0,"stage":2.0,"name":"Jijamatabaug","location":{"type":"Point","coordinates":[73.856728,18.518581]}}
+{"_id":{"$oid":"5a0720b478597fc11004dba9"},"stop":"Non-BRTS","code":"181B-U-07","seq":7.0,"stage":2.0,"name":"Phadke Haud","location":{"type":"Point","coordinates":[73.860342,18.518995]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbaa"},"stop":"Non-BRTS","code":"181B-U-08","seq":8.0,"stage":2.0,"name":"Apollo Talkies","location":{"type":"Point","coordinates":[73.865063,18.519623]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbab"},"stop":"Non-BRTS","code":"181B-U-09","seq":9.0,"stage":2.0,"name":"Power House Rastapeth","location":{"type":"Point","coordinates":[73.868458,18.518872]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbac"},"stop":"Non-BRTS","code":"181B-U-10","seq":10.0,"stage":2.0,"name":"Nana Peth","location":{"type":"Point","coordinates":[73.868542,18.517433]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbad"},"stop":"Non-BRTS","code":"181B-D-21","seq":21.0,"stage":5.0,"name":"Phadke Haud","location":{"type":"Point","coordinates":[73.860655,18.519073]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbaf"},"stop":"Non-BRTS","code":"181B-U-11","seq":11.0,"stage":3.0,"name":"AD Camp Chowk","location":{"type":"Point","coordinates":[73.868769,18.513188]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbb0"},"stop":"Non-BRTS","code":"181B-U-12","seq":12.0,"stage":3.0,"name":"Ramoshigate","location":{"type":"Point","coordinates":[73.868475,18.510731]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbb1"},"stop":"Non-BRTS","code":"181B-U-13","seq":13.0,"stage":3.0,"name":"Juna Motor Stand","location":{"type":"Point","coordinates":[73.872757,18.509233]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbb2"},"stop":"Non-BRTS","code":"181B-U-14","seq":14.0,"stage":3.0,"name":"Chudaman Talim","location":{"type":"Point","coordinates":[73.874993,18.508319]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbb3"},"stop":"Non-BRTS","code":"181B-U-15","seq":15.0,"stage":3.0,"name":"Juna Pulgate","location":{"type":"Point","coordinates":[73.879426,18.507764]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbb4"},"stop":"Non-BRTS","code":"181B-U-19","seq":19.0,"stage":5.0,"name":"Vanwadi Corner","location":{"type":"Point","coordinates":[73.895472,18.499087]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbb5"},"stop":"Non-BRTS","code":"181B-U-20","seq":20.0,"stage":5.0,"name":"Vanwadi Bazar","location":{"type":"Point","coordinates":[73.894641,18.49511]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbb7"},"stop":"Non-BRTS","code":"181B-U-17","seq":17.0,"stage":4.0,"name":"Limb Center","location":{"type":"Point","coordinates":[73.887681,18.504044]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbb8"},"stop":"Non-BRTS","code":"181B-U-23","seq":23.0,"stage":6.0,"name":"Lullanagar","location":{"type":"Point","coordinates":[73.889684,18.485078]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbb9"},"stop":"Non-BRTS","code":"181B-U-24","seq":24.0,"stage":6.0,"name":"Kamela","location":{"type":"Point","coordinates":[73.891333,18.481983]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbba"},"stop":"Non-BRTS","code":"181B-U-25","seq":25.0,"stage":6.0,"name":"Jyoti English School","location":{"type":"Point","coordinates":[73.89077,18.47782]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbbb"},"stop":"Non-BRTS","code":"181B-U-26","seq":26.0,"stage":6.0,"name":"NIBM Road","location":{"type":"Point","coordinates":[73.896236,18.476886]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbbc"},"stop":"Non-BRTS","code":"181B-U-27","seq":27.0,"stage":7.0,"name":"Siddharthnagar","location":{"type":"Point","coordinates":[73.90551,18.48417]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbbf"},"stop":"Non-BRTS","code":"181B-U-18","seq":18.0,"stage":4.0,"name":"Military Hospital Vanawadi","location":{"type":"Point","coordinates":[73.89102,18.50174]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbc0"},"stop":"Non-BRTS","code":"186B-D-03","seq":3.0,"stage":1.0,"name":"Canal","location":{"type":"Point","coordinates":[73.933239,18.497424]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbc1"},"stop":"Non-BRTS","code":"186B-D-04","seq":4.0,"stage":2.0,"name":"Kale Colony","location":{"type":"Point","coordinates":[73.93293,18.49575]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbc2"},"stop":"Non-BRTS","code":"186B-D-05","seq":5.0,"stage":2.0,"name":"Shivaji Maharaj Putla Sasanenagar","location":{"type":"Point","coordinates":[73.932667,18.494739]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbc4"},"stop":"Non-BRTS","code":"186B-D-07","seq":7.0,"stage":2.0,"name":"Chintamaninagar Handewadi Road","location":{"type":"Point","coordinates":[73.931896,18.48745]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbc5"},"stop":"Non-BRTS","code":"186B-D-08","seq":8.0,"stage":3.0,"name":"Ganga Village","location":{"type":"Point","coordinates":[73.93165,18.484086]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbc6"},"stop":"Non-BRTS","code":"186B-D-09","seq":9.0,"stage":3.0,"name":"Udyognagar","location":{"type":"Point","coordinates":[73.93155,18.483272]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbc7"},"stop":"Non-BRTS","code":"186B-D-10","seq":10.0,"stage":3.0,"name":"SiddhiVinayak Vastu","location":{"type":"Point","coordinates":[73.931454,18.482514]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbc8"},"stop":"Non-BRTS","code":"186B-D-11","seq":11.0,"stage":4.0,"name":"Satavnagar","location":{"type":"Point","coordinates":[73.931381,18.476793]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbc9"},"stop":"Non-BRTS","code":"186B-D-12","seq":12.0,"stage":4.0,"name":"JSPM College Phata","location":{"type":"Point","coordinates":[73.931575,18.474199]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbca"},"stop":"Non-BRTS","code":"186B-D-13","seq":13.0,"stage":5.0,"name":"JSPM college","location":{"type":"Point","coordinates":[73.935203,18.473072]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbcb"},"stop":"Non-BRTS","code":"186B-U-00","seq":0.0,"stage":1.0,"name":"JSPM college","location":{"type":"Point","coordinates":[73.935208,18.473048]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbcc"},"stop":"Non-BRTS","code":"186B-U-01","seq":1.0,"stage":1.0,"name":"JSPM College Phata","location":{"type":"Point","coordinates":[73.931549,18.474184]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbcd"},"stop":"Non-BRTS","code":"186B-U-02","seq":2.0,"stage":2.0,"name":"Satavnagar","location":{"type":"Point","coordinates":[73.931357,18.47663]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbce"},"stop":"Non-BRTS","code":"186B-U-03","seq":3.0,"stage":2.0,"name":"SiddhiVinayak Vastu","location":{"type":"Point","coordinates":[73.931415,18.482412]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbcf"},"stop":"Non-BRTS","code":"186B-U-04","seq":4.0,"stage":2.0,"name":"Udyognagar","location":{"type":"Point","coordinates":[73.931501,18.483041]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbd0"},"stop":"Non-BRTS","code":"186B-U-05","seq":5.0,"stage":3.0,"name":"Ganga Village","location":{"type":"Point","coordinates":[73.931587,18.483717]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbd1"},"stop":"Non-BRTS","code":"186B-U-06","seq":6.0,"stage":3.0,"name":"Chintamaninagar Handewadi Road","location":{"type":"Point","coordinates":[73.931839,18.48725]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbd2"},"stop":"Non-BRTS","code":"181B-U-21","seq":21.0,"stage":5.0,"name":"Shinde Chhatri","location":{"type":"Point","coordinates":[73.894656,18.491796]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbd3"},"stop":"Non-BRTS","code":"186B-U-07","seq":7.0,"stage":3.0,"name":"Sasanenagar","location":{"type":"Point","coordinates":[73.93184,18.489793]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbd4"},"stop":"Non-BRTS","code":"181B-U-22","seq":22.0,"stage":5.0,"name":"Netajinagar","location":{"type":"Point","coordinates":[73.893201,18.488391]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbd5"},"stop":"Non-BRTS","code":"186B-D-02","seq":2.0,"stage":1.0,"name":"Bhaji Mandai Hadapsar","location":{"type":"Point","coordinates":[73.933697,18.499025]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbd6"},"stop":"Non-BRTS","code":"186B-U-08","seq":8.0,"stage":3.0,"name":"Shivaji Maharaj Putla Sasanenagar","location":{"type":"Point","coordinates":[73.932705,18.494742]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbd7"},"stop":"Non-BRTS","code":"186B-U-09","seq":9.0,"stage":4.0,"name":"Kale Colony","location":{"type":"Point","coordinates":[73.93284,18.49591]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbd9"},"stop":"Non-BRTS","code":"186B-U-10","seq":10.0,"stage":4.0,"name":"Canal","location":{"type":"Point","coordinates":[73.933238,18.497662]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbda"},"stop":"Non-BRTS","code":"186B-U-11","seq":11.0,"stage":4.0,"name":"Bhaji Mandai Hadapsar","location":{"type":"Point","coordinates":[73.933803,18.499747]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbdc"},"stop":"Non-BRTS","code":"192A-D-00","seq":0.0,"stage":1.0,"name":"Mohammadwadigaon","location":{"type":"Point","coordinates":[73.921465,18.469876]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbdd"},"stop":"Non-BRTS","code":"192A-D-01","seq":1.0,"stage":1.0,"name":"Tarwadevasti","location":{"type":"Point","coordinates":[73.92453,18.475071]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbde"},"stop":"Non-BRTS","code":"192A-D-02","seq":2.0,"stage":1.0,"name":"Wadkarmala","location":{"type":"Point","coordinates":[73.926468,18.478937]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbe0"},"stop":"Non-BRTS","code":"192A-D-04","seq":4.0,"stage":2.0,"name":"Sayyadnagar","location":{"type":"Point","coordinates":[73.931063,18.486759]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbe1"},"stop":"Non-BRTS","code":"192A-D-05","seq":5.0,"stage":2.0,"name":"Talathi Chowk","location":{"type":"Point","coordinates":[73.931562,18.487967]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbe2"},"stop":"Non-BRTS","code":"192A-D-06","seq":6.0,"stage":2.0,"name":"Railway Crossing Sasanenagar","location":{"type":"Point","coordinates":[73.931813,18.490016]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbe3"},"stop":"Non-BRTS","code":"192A-D-07","seq":7.0,"stage":2.0,"name":"Sasanenagar","location":{"type":"Point","coordinates":[73.93219,18.49282]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbe4"},"stop":"Non-BRTS","code":"192A-D-08","seq":8.0,"stage":2.0,"name":"Kanifnath Society","location":{"type":"Point","coordinates":[73.932725,18.495285]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbe5"},"stop":"Non-BRTS","code":"192A-D-09","seq":9.0,"stage":3.0,"name":"Jakat Naka Mohammadwadi","location":{"type":"Point","coordinates":[73.933362,18.498363]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbe6"},"stop":"Non-BRTS","code":"192A-D-10","seq":10.0,"stage":3.0,"name":"Bhaji Mandai Hadapsar","location":{"type":"Point","coordinates":[73.936085,18.501403]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbe8"},"stop":"Non-BRTS","code":"192A-U-00","seq":0.0,"stage":1.0,"name":"Hadapsar Gadital","location":{"type":"Point","coordinates":[73.938387,18.500613]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbe9"},"stop":"Non-BRTS","code":"192A-U-01","seq":1.0,"stage":1.0,"name":"Bhaji Mandai Hadapsar","location":{"type":"Point","coordinates":[73.936688,18.5008]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbea"},"stop":"Non-BRTS","code":"192A-U-02","seq":2.0,"stage":2.0,"name":"Jakat Naka Mohammadwadi","location":{"type":"Point","coordinates":[73.933663,18.497935]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbeb"},"stop":"Non-BRTS","code":"192A-U-03","seq":3.0,"stage":2.0,"name":"Kanifnath Society","location":{"type":"Point","coordinates":[73.932785,18.495359]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbec"},"stop":"Non-BRTS","code":"192A-U-04","seq":4.0,"stage":2.0,"name":"Sasanenagar","location":{"type":"Point","coordinates":[73.932205,18.492573]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbed"},"stop":"Non-BRTS","code":"192A-U-06","seq":6.0,"stage":2.0,"name":"Talathi Chowk","location":{"type":"Point","coordinates":[73.931368,18.487383]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbee"},"stop":"Non-BRTS","code":"192A-U-05","seq":5.0,"stage":2.0,"name":"Railway Crossing Sasanenagar","location":{"type":"Point","coordinates":[73.9319,18.490019]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbef"},"stop":"Non-BRTS","code":"192A-U-07","seq":7.0,"stage":2.0,"name":"Sayyadnagar","location":{"type":"Point","coordinates":[73.931114,18.486528]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbf0"},"stop":"Non-BRTS","code":"192A-U-09","seq":9.0,"stage":3.0,"name":"Wadkarmala","location":{"type":"Point","coordinates":[73.926467,18.478898]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbf1"},"stop":"Non-BRTS","code":"192A-U-11","seq":11.0,"stage":4.0,"name":"Mohammadwadigaon","location":{"type":"Point","coordinates":[73.921494,18.469841]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbf3"},"stop":"Non-BRTS","code":"19A-D-01","seq":1.0,"stage":1.0,"name":"COEP Hostel","location":{"type":"Point","coordinates":[73.852315,18.528593]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbf4"},"stop":"Non-BRTS","code":"192A-U-08","seq":8.0,"stage":3.0,"name":"Harihareshwar Mandir","location":{"type":"Point","coordinates":[73.929787,18.484015]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbf5"},"stop":"Non-BRTS","code":"192A-U-10","seq":10.0,"stage":3.0,"name":"Tarwadevasti","location":{"type":"Point","coordinates":[73.92353,18.475021]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbf8"},"stop":"Non-BRTS","code":"19A-D-04","seq":4.0,"stage":1.0,"name":"Kasba Peth Police Chowky","location":{"type":"Point","coordinates":[73.85616,18.51976]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbf9"},"stop":"Non-BRTS","code":"19A-D-05","seq":5.0,"stage":2.0,"name":"Vasant Talkies","location":{"type":"Point","coordinates":[73.85624,18.51746]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbfc"},"stop":"Non-BRTS","code":"19A-D-09","seq":9.0,"stage":2.0,"name":"Gokul Bhavan","location":{"type":"Point","coordinates":[73.85864,18.50154]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbfd"},"stop":"Non-BRTS","code":"19A-D-12","seq":12.0,"stage":3.0,"name":"Kirloskar Press","location":{"type":"Point","coordinates":[73.859817,18.496567]}}
+{"_id":{"$oid":"5a0720b478597fc11004dbff"},"stop":"Non-BRTS","code":"19A-D-07","seq":7.0,"stage":2.0,"name":"Shahu Chowk","location":{"type":"Point","coordinates":[73.85803,18.50906]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc00"},"stop":"Non-BRTS","code":"19A-D-08","seq":8.0,"stage":2.0,"name":"Shivaji Maratha Highschool","location":{"type":"Point","coordinates":[73.85894,18.50309]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc01"},"stop":"Non-BRTS","code":"19A-D-13","seq":13.0,"stage":3.0,"name":"Ahireshwarwadi","location":{"type":"Point","coordinates":[73.861925,18.495295]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc02"},"stop":"Non-BRTS","code":"19A-D-14","seq":14.0,"stage":3.0,"name":"Mukundnagar","location":{"type":"Point","coordinates":[73.861982,18.494296]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc03"},"stop":"Non-BRTS","code":"19A-D-17","seq":17.0,"stage":4.0,"name":"Giridhar Bhavan","location":{"type":"Point","coordinates":[73.868689,18.49284]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc04"},"stop":"Non-BRTS","code":"19A-D-18","seq":18.0,"stage":4.0,"name":"Vakhar Mahamandal Marketyard","location":{"type":"Point","coordinates":[73.86995,18.489917]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc05"},"stop":"Non-BRTS","code":"19A-D-19","seq":19.0,"stage":4.0,"name":"Godown Gultekdi","location":{"type":"Point","coordinates":[73.870546,18.487445]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc0a"},"stop":"Non-BRTS","code":"19A-U-03","seq":3.0,"stage":1.0,"name":"Giridhar Bhavan","location":{"type":"Point","coordinates":[73.868683,18.492817]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc0b"},"stop":"Non-BRTS","code":"19A-U-02","seq":2.0,"stage":1.0,"name":"Vakhar Mahamandal Marketyard","location":{"type":"Point","coordinates":[73.869848,18.49024]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc0c"},"stop":"Non-BRTS","code":"19A-U-05","seq":5.0,"stage":2.0,"name":"Maharshinagar","location":{"type":"Point","coordinates":[73.862433,18.49205]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc0d"},"stop":"Non-BRTS","code":"19A-U-06","seq":6.0,"stage":2.0,"name":"Mukundnagar","location":{"type":"Point","coordinates":[73.861967,18.494233]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc0e"},"stop":"Non-BRTS","code":"19A-U-07","seq":7.0,"stage":2.0,"name":"Ahireshwarwadi","location":{"type":"Point","coordinates":[73.861952,18.495294]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc0f"},"stop":"Non-BRTS","code":"19A-U-01","seq":1.0,"stage":1.0,"name":"Godown Gultekdi","location":{"type":"Point","coordinates":[73.870066,18.489386]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc10"},"stop":"Non-BRTS","code":"19A-U-04","seq":4.0,"stage":2.0,"name":"Sant Namdev Vidyalay","location":{"type":"Point","coordinates":[73.865433,18.492233]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc11"},"stop":"Non-BRTS","code":"19A-U-08","seq":8.0,"stage":2.0,"name":"Kirloskar Press","location":{"type":"Point","coordinates":[73.85927,18.496559]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc1a"},"stop":"Non-BRTS","code":"19A-U-13","seq":13.0,"stage":3.0,"name":"Shanipar","location":{"type":"Point","coordinates":[73.853867,18.512283]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc1d"},"stop":"Non-BRTS","code":"19B-D-00","seq":0.0,"stage":1.0,"name":"Marketyard","location":{"type":"Point","coordinates":[73.871451,18.483733]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc1e"},"stop":"Non-BRTS","code":"19B-D-03","seq":3.0,"stage":1.0,"name":"Mount Carmel School","location":{"type":"Point","coordinates":[73.884793,18.48758]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc1f"},"stop":"Non-BRTS","code":"19B-D-04","seq":4.0,"stage":2.0,"name":"Lullanagar","location":{"type":"Point","coordinates":[73.889733,18.4848]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc21"},"stop":"Non-BRTS","code":"19B-D-01","seq":1.0,"stage":1.0,"name":"Gangadham","location":{"type":"Point","coordinates":[73.872077,18.480658]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc22"},"stop":"Non-BRTS","code":"19B-D-02","seq":2.0,"stage":1.0,"name":"Defence Colony","location":{"type":"Point","coordinates":[73.877467,18.482223]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc24"},"stop":"Non-BRTS","code":"19B-D-06","seq":6.0,"stage":2.0,"name":"U Co Bank","location":{"type":"Point","coordinates":[73.890702,18.479105]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc26"},"stop":"Non-BRTS","code":"19B-D-08","seq":8.0,"stage":3.0,"name":"Kondhwa Kh","location":{"type":"Point","coordinates":[73.889033,18.4731]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc27"},"stop":"Non-BRTS","code":"19B-D-09","seq":9.0,"stage":3.0,"name":"Chaitanya Vidyalay","location":{"type":"Point","coordinates":[73.888957,18.468679]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc2b"},"stop":"Non-BRTS","code":"19B-D-16","seq":16.0,"stage":5.0,"name":"Kondhwa Hospital","location":{"type":"Point","coordinates":[73.895383,18.439067]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc2c"},"stop":"Non-BRTS","code":"19B-U-00","seq":0.0,"stage":1.0,"name":"Kondhwa Hospital","location":{"type":"Point","coordinates":[73.895303,18.43924]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc2d"},"stop":"Non-BRTS","code":"19B-U-01","seq":1.0,"stage":1.0,"name":"Lonkarvasti","location":{"type":"Point","coordinates":[73.893367,18.445283]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc2e"},"stop":"Non-BRTS","code":"19B-U-02","seq":2.0,"stage":1.0,"name":"Khadi Machine Katraj Kondhwa Road","location":{"type":"Point","coordinates":[73.890939,18.452969]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc31"},"stop":"Non-BRTS","code":"19B-D-13","seq":13.0,"stage":4.0,"name":"Suryakiran Khat Karkhana","location":{"type":"Point","coordinates":[73.890692,18.455433]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc32"},"stop":"Non-BRTS","code":"19B-U-06","seq":6.0,"stage":2.0,"name":"Kondhwa Police Station","location":{"type":"Point","coordinates":[73.889578,18.462992]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc33"},"stop":"Non-BRTS","code":"19B-U-07","seq":7.0,"stage":2.0,"name":"Chaitanya Vidyalay","location":{"type":"Point","coordinates":[73.889066,18.469038]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc34"},"stop":"Non-BRTS","code":"19B-U-08","seq":8.0,"stage":3.0,"name":"Kondhwa Kh","location":{"type":"Point","coordinates":[73.8891,18.47295]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc35"},"stop":"Non-BRTS","code":"19B-U-09","seq":9.0,"stage":3.0,"name":"Kondhwa Shala","location":{"type":"Point","coordinates":[73.889883,18.47695]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc36"},"stop":"Non-BRTS","code":"19B-D-12","seq":12.0,"stage":4.0,"name":"Ramdas Maral","location":{"type":"Point","coordinates":[73.89075,18.457267]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc37"},"stop":"Non-BRTS","code":"19B-D-14","seq":14.0,"stage":4.0,"name":"Khadi Machine Katraj Kondhwa Road","location":{"type":"Point","coordinates":[73.891083,18.452667]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc38"},"stop":"Non-BRTS","code":"19B-U-05","seq":5.0,"stage":2.0,"name":"Talab Company","location":{"type":"Point","coordinates":[73.89038,18.461397]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc39"},"stop":"Non-BRTS","code":"19B-U-12","seq":12.0,"stage":4.0,"name":"Lullanagar","location":{"type":"Point","coordinates":[73.889666,18.484897]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc3a"},"stop":"Non-BRTS","code":"19B-U-11","seq":11.0,"stage":3.0,"name":"Kamela","location":{"type":"Point","coordinates":[73.89115,18.4823]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc3b"},"stop":"Non-BRTS","code":"19B-U-10","seq":10.0,"stage":3.0,"name":"U Co Bank","location":{"type":"Point","coordinates":[73.890648,18.479095]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc3c"},"stop":"Non-BRTS","code":"19B-U-13","seq":13.0,"stage":4.0,"name":"Mount Carmel School","location":{"type":"Point","coordinates":[73.884783,18.48405]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc3d"},"stop":"Non-BRTS","code":"19B-U-15","seq":15.0,"stage":4.0,"name":"Gangadham","location":{"type":"Point","coordinates":[73.871895,18.480775]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc40"},"stop":"Non-BRTS","code":"19B-U-14","seq":14.0,"stage":4.0,"name":"Defence Colony","location":{"type":"Point","coordinates":[73.877467,18.4822]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc46"},"stop":"Non-BRTS","code":"200A-D-01","seq":1.0,"stage":1.0,"name":"Hadapsargaon","location":{"type":"Point","coordinates":[73.933067,18.501673]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc48"},"stop":"Non-BRTS","code":"200A-U-00","seq":0.0,"stage":1.0,"name":"Sadesatranali","location":{"type":"Point","coordinates":[73.948781,18.515614]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc49"},"stop":"Non-BRTS","code":"200A-U-03","seq":3.0,"stage":1.0,"name":"Sadu Nanavasti","location":{"type":"Point","coordinates":[73.939912,18.50666]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc4a"},"stop":"Non-BRTS","code":"200A-U-01","seq":1.0,"stage":1.0,"name":"Lakudvasti","location":{"type":"Point","coordinates":[73.947028,18.511808]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc4b"},"stop":"Non-BRTS","code":"200A-U-02","seq":2.0,"stage":1.0,"name":"Vitthal Mandir Hadapsar","location":{"type":"Point","coordinates":[73.941647,18.508005]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc4d"},"stop":"Non-BRTS","code":"200A-U-04","seq":4.0,"stage":2.0,"name":"Tupemala","location":{"type":"Point","coordinates":[73.93972,18.505995]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc4e"},"stop":"Non-BRTS","code":"200A-U-05","seq":5.0,"stage":2.0,"name":"Sadhana Vidyalay","location":{"type":"Point","coordinates":[73.938526,18.50572]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc4f"},"stop":"Non-BRTS","code":"200A-U-06","seq":6.0,"stage":3.0,"name":"Smashan Bhumi Rasta","location":{"type":"Point","coordinates":[73.935304,18.502715]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc50"},"stop":"Non-BRTS","code":"200A-U-07","seq":7.0,"stage":3.0,"name":"Hadapsargaon","location":{"type":"Point","coordinates":[73.930666,18.501599]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc52"},"stop":"Non-BRTS","code":"202B-D-01","seq":1.0,"stage":2.0,"name":"Golibar Maidan","location":{"type":"Point","coordinates":[73.8772,18.502411]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc55"},"stop":"Non-BRTS","code":"202B-D-03","seq":3.0,"stage":2.0,"name":"ST Vibhagiya Karyalay","location":{"type":"Point","coordinates":[73.866537,18.500407]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc59"},"stop":"Non-BRTS","code":"202B-U-01","seq":1.0,"stage":1.0,"name":"Swargate Depo","location":{"type":"Point","coordinates":[73.859687,18.500535]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc5a"},"stop":"Non-BRTS","code":"202B-U-02","seq":2.0,"stage":1.0,"name":"Ghorpade Peth","location":{"type":"Point","coordinates":[73.863851,18.49998]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc5b"},"stop":"Non-BRTS","code":"202B-U-03","seq":3.0,"stage":1.0,"name":"ST Vibhagiya Karyalay","location":{"type":"Point","coordinates":[73.866515,18.500575]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc5c"},"stop":"Non-BRTS","code":"202B-U-04","seq":4.0,"stage":1.0,"name":"Meera Society","location":{"type":"Point","coordinates":[73.872532,18.501955]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc5d"},"stop":"Non-BRTS","code":"202B-U-05","seq":5.0,"stage":2.0,"name":"Golibar Maidan","location":{"type":"Point","coordinates":[73.877189,18.50251]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc5e"},"stop":"Non-BRTS","code":"202B-D-04","seq":4.0,"stage":2.0,"name":"Ghorpade Peth","location":{"type":"Point","coordinates":[73.863814,18.499884]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc5f"},"stop":"Non-BRTS","code":"202B-U-06","seq":6.0,"stage":3.0,"name":"Mahatma Gandhi Stand","location":{"type":"Point","coordinates":[73.882175,18.506507]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc60"},"stop":"Non-BRTS","code":"20A-D-00","seq":0.0,"stage":1.0,"name":"Swargate Depo","location":{"type":"Point","coordinates":[73.861415,18.500158]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc62"},"stop":"Non-BRTS","code":"20A-D-03","seq":3.0,"stage":2.0,"name":"Parvatigaon","location":{"type":"Point","coordinates":[73.85099,18.49739]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc63"},"stop":"Non-BRTS","code":"20A-D-02","seq":2.0,"stage":1.0,"name":"Mitra Mandal Sabhagruha","location":{"type":"Point","coordinates":[73.854279,18.497306]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc64"},"stop":"Non-BRTS","code":"20A-D-06","seq":6.0,"stage":2.0,"name":"Dashbhuja Ganpati","location":{"type":"Point","coordinates":[73.84659,18.4885]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc65"},"stop":"Non-BRTS","code":"20A-D-07","seq":7.0,"stage":2.0,"name":"Chintamani Society","location":{"type":"Point","coordinates":[73.845807,18.486142]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc66"},"stop":"Non-BRTS","code":"20A-D-05","seq":5.0,"stage":2.0,"name":"Sarang Society","location":{"type":"Point","coordinates":[73.84762,18.48908]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc67"},"stop":"Non-BRTS","code":"20A-D-04","seq":4.0,"stage":2.0,"name":"Lakshminagar Corner","location":{"type":"Point","coordinates":[73.8498,18.49219]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc68"},"stop":"Non-BRTS","code":"20A-D-08","seq":8.0,"stage":3.0,"name":"Sahkarnagar","location":{"type":"Point","coordinates":[73.84541,18.485045]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc69"},"stop":"Non-BRTS","code":"20A-U-01","seq":1.0,"stage":1.0,"name":"Chintamani Society","location":{"type":"Point","coordinates":[73.8457,18.486057]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc6a"},"stop":"Non-BRTS","code":"20A-U-00","seq":0.0,"stage":1.0,"name":"Sahkarnagar","location":{"type":"Point","coordinates":[73.845351,18.485052]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc6b"},"stop":"Non-BRTS","code":"20A-U-02","seq":2.0,"stage":1.0,"name":"Dashbhuja Ganpati","location":{"type":"Point","coordinates":[73.8466,18.48845]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc6c"},"stop":"Non-BRTS","code":"20A-U-03","seq":3.0,"stage":1.0,"name":"Sarang Society","location":{"type":"Point","coordinates":[73.847229,18.48898]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc6d"},"stop":"Non-BRTS","code":"20A-U-06","seq":6.0,"stage":1.0,"name":"Pahadi Dawakhana","location":{"type":"Point","coordinates":[73.849794,18.492182]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc6e"},"stop":"Non-BRTS","code":"20A-U-05","seq":5.0,"stage":1.0,"name":"Lakshminagar Police Chowky","location":{"type":"Point","coordinates":[73.849828,18.490346]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc6f"},"stop":"Non-BRTS","code":"20A-U-08","seq":8.0,"stage":2.0,"name":"Parvatigaon","location":{"type":"Point","coordinates":[73.850685,18.497448]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc70"},"stop":"Non-BRTS","code":"20A-U-09","seq":9.0,"stage":3.0,"name":"Mitra Mandal Sabhagruha","location":{"type":"Point","coordinates":[73.854295,18.497258]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc73"},"stop":"Non-BRTS","code":"214-D-00","seq":0.0,"stage":1.0,"name":"Chintamani Dnyanpith","location":{"type":"Point","coordinates":[73.840023,18.45601]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc74"},"stop":"Non-BRTS","code":"20A-U-04","seq":4.0,"stage":1.0,"name":"Lakshminagar Corner","location":{"type":"Point","coordinates":[73.848846,18.489493]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc75"},"stop":"Non-BRTS","code":"20A-U-07","seq":7.0,"stage":1.0,"name":"Parvati Payatha","location":{"type":"Point","coordinates":[73.849895,18.495928]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc76"},"stop":"Non-BRTS","code":"214-D-01","seq":1.0,"stage":1.0,"name":"Narayaninagar","location":{"type":"Point","coordinates":[73.841423,18.460493]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc77"},"stop":"Non-BRTS","code":"214-D-02","seq":2.0,"stage":1.0,"name":"Mangdenagar","location":{"type":"Point","coordinates":[73.842188,18.46182]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc78"},"stop":"Non-BRTS","code":"214-D-04","seq":4.0,"stage":2.0,"name":"Avadhoot Society","location":{"type":"Point","coordinates":[73.84383,18.458393]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc7a"},"stop":"Non-BRTS","code":"214-D-06","seq":6.0,"stage":2.0,"name":"Nilgiri Society","location":{"type":"Point","coordinates":[73.84377,18.45601]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc7b"},"stop":"Non-BRTS","code":"214-D-07","seq":7.0,"stage":2.0,"name":"Samudri Society","location":{"type":"Point","coordinates":[73.84556,18.45604]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc7c"},"stop":"Non-BRTS","code":"214-D-05","seq":5.0,"stage":2.0,"name":"Pawan Society","location":{"type":"Point","coordinates":[73.843825,18.457118]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc7d"},"stop":"Non-BRTS","code":"214-D-09","seq":9.0,"stage":2.0,"name":"Chintamani School","location":{"type":"Point","coordinates":[73.847292,18.45633]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc7e"},"stop":"Non-BRTS","code":"214-D-10","seq":10.0,"stage":3.0,"name":"Bharati Vidyapeeth","location":{"type":"Point","coordinates":[73.852083,18.457375]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc80"},"stop":"Non-BRTS","code":"214-D-11","seq":11.0,"stage":3.0,"name":"Bharati Vidyapeeth Shala","location":{"type":"Point","coordinates":[73.85346,18.456545]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc81"},"stop":"Non-BRTS","code":"214-D-13","seq":13.0,"stage":3.0,"name":"Sarpodyan","location":{"type":"Point","coordinates":[73.85853,18.454675]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc82"},"stop":"Non-BRTS","code":"214-D-08","seq":8.0,"stage":2.0,"name":"Mahendra Market","location":{"type":"Point","coordinates":[73.84622,18.456127]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc83"},"stop":"Non-BRTS","code":"214-U-01","seq":1.0,"stage":1.0,"name":"Morebaug","location":{"type":"Point","coordinates":[73.858087,18.449829]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc85"},"stop":"Non-BRTS","code":"214-U-02","seq":2.0,"stage":1.0,"name":"Sarpodyan","location":{"type":"Point","coordinates":[73.85836,18.453916]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc87"},"stop":"Non-BRTS","code":"214-U-03","seq":3.0,"stage":1.0,"name":"Rajaram Gas","location":{"type":"Point","coordinates":[73.853654,18.454626]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc88"},"stop":"Non-BRTS","code":"214-D-14","seq":14.0,"stage":3.0,"name":"Morebaug","location":{"type":"Point","coordinates":[73.858307,18.449848]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc89"},"stop":"Non-BRTS","code":"214-U-06","seq":6.0,"stage":2.0,"name":"Chintamani School","location":{"type":"Point","coordinates":[73.84735,18.45641]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc8a"},"stop":"Non-BRTS","code":"214-U-05","seq":5.0,"stage":2.0,"name":"Bharati Vidyapeeth","location":{"type":"Point","coordinates":[73.85208,18.45738]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc8b"},"stop":"Non-BRTS","code":"214-U-08","seq":8.0,"stage":2.0,"name":"Samudri Society","location":{"type":"Point","coordinates":[73.84542,18.456]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc8c"},"stop":"Non-BRTS","code":"214-U-09","seq":9.0,"stage":2.0,"name":"Nilgiri Society","location":{"type":"Point","coordinates":[73.84375,18.45601]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc8d"},"stop":"Non-BRTS","code":"214-U-10","seq":10.0,"stage":2.0,"name":"Pawan Society","location":{"type":"Point","coordinates":[73.843713,18.456962]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc8e"},"stop":"Non-BRTS","code":"214-U-11","seq":11.0,"stage":2.0,"name":"Avadhoot Society","location":{"type":"Point","coordinates":[73.843703,18.457873]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc8f"},"stop":"Non-BRTS","code":"214-U-12","seq":12.0,"stage":3.0,"name":"Saisiddhi","location":{"type":"Point","coordinates":[73.842292,18.462685]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc90"},"stop":"Non-BRTS","code":"214-U-04","seq":4.0,"stage":1.0,"name":"Bharati Vidyapeeth Shala","location":{"type":"Point","coordinates":[73.85342,18.45651]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc91"},"stop":"Non-BRTS","code":"214-U-13","seq":13.0,"stage":3.0,"name":"Mangdenagar","location":{"type":"Point","coordinates":[73.841877,18.461228]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc92"},"stop":"Non-BRTS","code":"217A-D-00","seq":0.0,"stage":1.0,"name":"Gujarwadi","location":{"type":"Point","coordinates":[73.875474,18.426721]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc93"},"stop":"Non-BRTS","code":"214-U-15","seq":15.0,"stage":4.0,"name":"Chintamani Dnyanpith","location":{"type":"Point","coordinates":[73.840085,18.455602]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc94"},"stop":"Non-BRTS","code":"214-U-14","seq":14.0,"stage":3.0,"name":"Narayaninagar","location":{"type":"Point","coordinates":[73.841335,18.459203]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc95"},"stop":"Non-BRTS","code":"214-U-07","seq":7.0,"stage":2.0,"name":"Mahendra Market","location":{"type":"Point","coordinates":[73.846253,18.456087]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc96"},"stop":"Non-BRTS","code":"217A-D-02","seq":2.0,"stage":1.0,"name":"Aswee Trading Company","location":{"type":"Point","coordinates":[73.868601,18.434439]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc97"},"stop":"Non-BRTS","code":"217A-D-05","seq":5.0,"stage":2.0,"name":"Sai Industries","location":{"type":"Point","coordinates":[73.862965,18.43902]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc98"},"stop":"Non-BRTS","code":"217A-D-06","seq":6.0,"stage":2.0,"name":"Gujarwadi Phata","location":{"type":"Point","coordinates":[73.860563,18.438402]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc99"},"stop":"Non-BRTS","code":"217A-D-07","seq":7.0,"stage":3.0,"name":"Katraj","location":{"type":"Point","coordinates":[73.859609,18.447486]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc9a"},"stop":"Non-BRTS","code":"217A-U-00","seq":0.0,"stage":1.0,"name":"Katraj","location":{"type":"Point","coordinates":[73.858869,18.446561]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc9b"},"stop":"Non-BRTS","code":"217A-D-01","seq":1.0,"stage":1.0,"name":"Khadi Machine Gujarwadi","location":{"type":"Point","coordinates":[73.871348,18.432783]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc9c"},"stop":"Non-BRTS","code":"217A-U-02","seq":2.0,"stage":1.0,"name":"Sai Industries","location":{"type":"Point","coordinates":[73.862874,18.438926]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc9d"},"stop":"Non-BRTS","code":"217A-D-04","seq":4.0,"stage":2.0,"name":"Ajay Niwas","location":{"type":"Point","coordinates":[73.864162,18.440408]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc9e"},"stop":"Non-BRTS","code":"217A-U-04","seq":4.0,"stage":2.0,"name":"Shivshankar Super Market","location":{"type":"Point","coordinates":[73.866079,18.440571]}}
+{"_id":{"$oid":"5a0720b478597fc11004dc9f"},"stop":"Non-BRTS","code":"217A-D-03","seq":3.0,"stage":2.0,"name":"Shivshankar Super Market","location":{"type":"Point","coordinates":[73.865175,18.440706]}}
+{"_id":{"$oid":"5a0720b478597fc11004dca0"},"stop":"Non-BRTS","code":"217A-U-01","seq":1.0,"stage":1.0,"name":"Gujarwadi Phata","location":{"type":"Point","coordinates":[73.86059,18.438502]}}
+{"_id":{"$oid":"5a0720b478597fc11004dca1"},"stop":"Non-BRTS","code":"217A-U-03","seq":3.0,"stage":1.0,"name":"Ajay Niwas","location":{"type":"Point","coordinates":[73.864103,18.440451]}}
+{"_id":{"$oid":"5a0720b478597fc11004dca2"},"stop":"Non-BRTS","code":"217A-U-05","seq":5.0,"stage":2.0,"name":"Aswee Trading Company","location":{"type":"Point","coordinates":[73.868381,18.434675]}}
+{"_id":{"$oid":"5a0720b478597fc11004dca3"},"stop":"Non-BRTS","code":"217A-U-06","seq":6.0,"stage":2.0,"name":"Khadi Machine Gujarwadi","location":{"type":"Point","coordinates":[73.871488,18.432773]}}
+{"_id":{"$oid":"5a0720b478597fc11004dca4"},"stop":"Non-BRTS","code":"217A-U-07","seq":7.0,"stage":3.0,"name":"Gujarwadi","location":{"type":"Point","coordinates":[73.875555,18.426706]}}
+{"_id":{"$oid":"5a0720b478597fc11004dca6"},"stop":"Non-BRTS","code":"227A-D-04","seq":4.0,"stage":1.0,"name":"Kasba Peth Police Chowky","location":{"type":"Point","coordinates":[73.85617,18.51978]}}
+{"_id":{"$oid":"5a0720b478597fc11004dca7"},"stop":"Non-BRTS","code":"227A-D-05","seq":5.0,"stage":2.0,"name":"Vasant Talkies","location":{"type":"Point","coordinates":[73.85625,18.51748]}}
+{"_id":{"$oid":"5a0720b478597fc11004dca8"},"stop":"Non-BRTS","code":"227A-D-06","seq":6.0,"stage":2.0,"name":"Gadikhana","location":{"type":"Point","coordinates":[73.85641,18.51513]}}
+{"_id":{"$oid":"5a0720b478597fc11004dca9"},"stop":"Non-BRTS","code":"227A-D-07","seq":7.0,"stage":2.0,"name":"Shahu Chowk","location":{"type":"Point","coordinates":[73.85801,18.50904]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcaa"},"stop":"Non-BRTS","code":"227A-D-08","seq":8.0,"stage":2.0,"name":"Shivaji Maratha Highschool","location":{"type":"Point","coordinates":[73.85809,18.50678]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcab"},"stop":"Non-BRTS","code":"227A-D-09","seq":9.0,"stage":2.0,"name":"Gokul Bhavan","location":{"type":"Point","coordinates":[73.85862,18.50153]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcb0"},"stop":"Non-BRTS","code":"227A-D-14","seq":14.0,"stage":3.0,"name":"Bhaji Market","location":{"type":"Point","coordinates":[73.864092,18.489472]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcb1"},"stop":"Non-BRTS","code":"227A-D-03","seq":3.0,"stage":1.0,"name":"Ma Na Pa Nava Pul","location":{"type":"Point","coordinates":[73.85413,18.52392]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcb2"},"stop":"Non-BRTS","code":"227A-D-16","seq":16.0,"stage":4.0,"name":"Godown Gultekdi","location":{"type":"Point","coordinates":[73.869784,18.489486]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcb6"},"stop":"Non-BRTS","code":"227A-D-17","seq":17.0,"stage":5.0,"name":"Marketyard","location":{"type":"Point","coordinates":[73.871582,18.483522]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcb7"},"stop":"Non-BRTS","code":"227A-U-01","seq":1.0,"stage":1.0,"name":"Godown Gultekdi","location":{"type":"Point","coordinates":[73.869864,18.489364]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcbc"},"stop":"Non-BRTS","code":"227A-U-03","seq":3.0,"stage":2.0,"name":"Bhaji Market","location":{"type":"Point","coordinates":[73.862898,18.489431]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcbd"},"stop":"Non-BRTS","code":"227A-U-09","seq":9.0,"stage":3.0,"name":"Bhikardas Maruti","location":{"type":"Point","coordinates":[73.853712,18.508282]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcc0"},"stop":"Non-BRTS","code":"227A-U-10","seq":10.0,"stage":3.0,"name":"Shanipar","location":{"type":"Point","coordinates":[73.85378,18.511654]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcc8"},"stop":"Non-BRTS","code":"325A-D-00","seq":0.0,"stage":1.0,"name":"Masulkar Colony","location":{"type":"Point","coordinates":[73.8075,18.6341]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcc9"},"stop":"Non-BRTS","code":"325A-D-01","seq":1.0,"stage":2.0,"name":"Vastu Udyog","location":{"type":"Point","coordinates":[73.8146,18.633]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcca"},"stop":"Non-BRTS","code":"325A-D-02","seq":2.0,"stage":2.0,"name":"Rasrang Sweet Corner","location":{"type":"Point","coordinates":[73.815912,18.633133]}}
+{"_id":{"$oid":"5a0720b478597fc11004dccb"},"stop":"Non-BRTS","code":"325A-D-03","seq":3.0,"stage":2.0,"name":"Green Field Society","location":{"type":"Point","coordinates":[73.815937,18.634942]}}
+{"_id":{"$oid":"5a0720b478597fc11004dccc"},"stop":"Non-BRTS","code":"325A-D-04","seq":4.0,"stage":2.0,"name":"Swapnnagri","location":{"type":"Point","coordinates":[73.820137,18.634855]}}
+{"_id":{"$oid":"5a0720b478597fc11004dccd"},"stop":"Non-BRTS","code":"325A-D-05","seq":5.0,"stage":2.0,"name":"Zero Boys Bakery","location":{"type":"Point","coordinates":[73.820076,18.632988]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcce"},"stop":"Non-BRTS","code":"325A-D-06","seq":6.0,"stage":2.0,"name":"Nehrunagar Corner","location":{"type":"Point","coordinates":[73.819756,18.630777]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcd0"},"stop":"Non-BRTS","code":"325A-U-02","seq":2.0,"stage":1.0,"name":"Zero Boys Bakery","location":{"type":"Point","coordinates":[73.819599,18.630815]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcd1"},"stop":"Non-BRTS","code":"325A-U-03","seq":3.0,"stage":1.0,"name":"Swapnnagri","location":{"type":"Point","coordinates":[73.820297,18.635017]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcd2"},"stop":"Non-BRTS","code":"325A-U-00","seq":0.0,"stage":1.0,"name":"Nehrunagar Depot","location":{"type":"Point","coordinates":[73.819959,18.629835]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcd3"},"stop":"Non-BRTS","code":"325A-U-04","seq":4.0,"stage":1.0,"name":"Green Field Society","location":{"type":"Point","coordinates":[73.815837,18.635365]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcd4"},"stop":"Non-BRTS","code":"325A-U-01","seq":1.0,"stage":1.0,"name":"Nehrunagar Corner","location":{"type":"Point","coordinates":[73.819432,18.629778]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcd5"},"stop":"Non-BRTS","code":"325A-U-05","seq":5.0,"stage":1.0,"name":"Rasrang Sweet Corner","location":{"type":"Point","coordinates":[73.815843,18.633155]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcd7"},"stop":"Non-BRTS","code":"376F-D-01","seq":1.0,"stage":1.0,"name":"Ganpati Mandir Sambhajinagar","location":{"type":"Point","coordinates":[73.79816,18.662974]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcd8"},"stop":"Non-BRTS","code":"376F-D-02","seq":2.0,"stage":1.0,"name":"Maruti Mandir Sambhajinagar","location":{"type":"Point","coordinates":[73.798878,18.664736]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcd9"},"stop":"Non-BRTS","code":"325A-U-06","seq":6.0,"stage":2.0,"name":"Vastu Udyog","location":{"type":"Point","coordinates":[73.814663,18.63316]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcda"},"stop":"Non-BRTS","code":"325A-U-07","seq":7.0,"stage":3.0,"name":"Masulkar Colony","location":{"type":"Point","coordinates":[73.8075,18.6342]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcdb"},"stop":"Non-BRTS","code":"376F-D-03","seq":3.0,"stage":2.0,"name":"Krushnanagar Corner","location":{"type":"Point","coordinates":[73.795798,18.666538]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcdc"},"stop":"Non-BRTS","code":"376F-D-04","seq":4.0,"stage":2.0,"name":"Newale Chowk","location":{"type":"Point","coordinates":[73.80708,18.664222]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcdd"},"stop":"Non-BRTS","code":"376F-D-05","seq":5.0,"stage":2.0,"name":"Vaishnavi Collection","location":{"type":"Point","coordinates":[73.806954,18.66304]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcde"},"stop":"Non-BRTS","code":"376F-D-06","seq":6.0,"stage":2.0,"name":"Shivtejnagar Chowk","location":{"type":"Point","coordinates":[73.808118,18.662656]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcdf"},"stop":"Non-BRTS","code":"376F-D-07","seq":7.0,"stage":2.0,"name":"Shani Mandir","location":{"type":"Point","coordinates":[73.807769,18.660782]}}
+{"_id":{"$oid":"5a0720b478597fc11004dce0"},"stop":"Non-BRTS","code":"376F-D-08","seq":8.0,"stage":3.0,"name":"Mahabali Chowk","location":{"type":"Point","coordinates":[73.80755,18.65954]}}
+{"_id":{"$oid":"5a0720b478597fc11004dce1"},"stop":"Non-BRTS","code":"376F-D-11","seq":11.0,"stage":4.0,"name":"KSB Chowk","location":{"type":"Point","coordinates":[73.809849,18.651207]}}
+{"_id":{"$oid":"5a0720b478597fc11004dce2"},"stop":"Non-BRTS","code":"376F-D-12","seq":12.0,"stage":4.0,"name":"Telco Company","location":{"type":"Point","coordinates":[73.818983,18.644319]}}
+{"_id":{"$oid":"5a0720b478597fc11004dce3"},"stop":"Non-BRTS","code":"376F-D-13","seq":13.0,"stage":4.0,"name":"Telco Hostel","location":{"type":"Point","coordinates":[73.82162,18.641944]}}
+{"_id":{"$oid":"5a0720b478597fc11004dce4"},"stop":"Non-BRTS","code":"376F-D-09","seq":9.0,"stage":3.0,"name":"Bahirwade Kridangan","location":{"type":"Point","coordinates":[73.808977,18.65807]}}
+{"_id":{"$oid":"5a0720b478597fc11004dce5"},"stop":"Non-BRTS","code":"376F-D-10","seq":10.0,"stage":3.0,"name":"Shahunagar Ganesh Mandir","location":{"type":"Point","coordinates":[73.81141,18.65532]}}
+{"_id":{"$oid":"5a0720b478597fc11004dce6"},"stop":"Non-BRTS","code":"376F-D-14","seq":14.0,"stage":5.0,"name":"Yashwantnagar Telco Road","location":{"type":"Point","coordinates":[73.822101,18.6414]}}
+{"_id":{"$oid":"5a0720b478597fc11004dce7"},"stop":"Non-BRTS","code":"227A-U-00","seq":0.0,"stage":1.0,"name":"Marketyard","location":{"type":"Point","coordinates":[73.871507,18.483524]}}
+{"_id":{"$oid":"5a0720b478597fc11004dce8"},"stop":"Non-BRTS","code":"376F-D-16","seq":16.0,"stage":5.0,"name":"Zero Boys Bakery","location":{"type":"Point","coordinates":[73.819953,18.632445]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcea"},"stop":"Non-BRTS","code":"376F-U-00","seq":0.0,"stage":1.0,"name":"Nehrunagar Depot","location":{"type":"Point","coordinates":[73.82463,18.63079]}}
+{"_id":{"$oid":"5a0720b478597fc11004dceb"},"stop":"Non-BRTS","code":"376F-D-15","seq":15.0,"stage":5.0,"name":"Annasaheb Magar Stadium","location":{"type":"Point","coordinates":[73.820747,18.635633]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcec"},"stop":"Non-BRTS","code":"376F-D-17","seq":17.0,"stage":6.0,"name":"Nehrunagar","location":{"type":"Point","coordinates":[73.819957,18.629831]}}
+{"_id":{"$oid":"5a0720b478597fc11004dced"},"stop":"Non-BRTS","code":"376F-U-02","seq":2.0,"stage":2.0,"name":"Nehrunagar","location":{"type":"Point","coordinates":[73.81996,18.62981]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcee"},"stop":"Non-BRTS","code":"376F-U-03","seq":3.0,"stage":2.0,"name":"Zero Boys Bakery","location":{"type":"Point","coordinates":[73.819836,18.632612]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcf0"},"stop":"Non-BRTS","code":"376F-D-18","seq":18.0,"stage":6.0,"name":"Jyoti English School","location":{"type":"Point","coordinates":[73.823737,18.630631]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcf1"},"stop":"Non-BRTS","code":"376F-U-07","seq":7.0,"stage":3.0,"name":"Telco Company","location":{"type":"Point","coordinates":[73.818906,18.644202]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcf2"},"stop":"Non-BRTS","code":"376F-U-05","seq":5.0,"stage":3.0,"name":"Yashwantnagar Telco Road","location":{"type":"Point","coordinates":[73.821976,18.641312]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcf3"},"stop":"Non-BRTS","code":"376F-U-09","seq":9.0,"stage":4.0,"name":"Shahunagar Ganesh Mandir","location":{"type":"Point","coordinates":[73.81128,18.655683]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcf4"},"stop":"Non-BRTS","code":"376F-U-08","seq":8.0,"stage":4.0,"name":"KSB Chowk","location":{"type":"Point","coordinates":[73.809611,18.651262]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcf5"},"stop":"Non-BRTS","code":"376F-U-10","seq":10.0,"stage":4.0,"name":"Bahirwade Kridangan","location":{"type":"Point","coordinates":[73.80897,18.65806]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcf6"},"stop":"Non-BRTS","code":"376F-U-06","seq":6.0,"stage":3.0,"name":"Telco Hostel","location":{"type":"Point","coordinates":[73.821483,18.641887]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcf7"},"stop":"Non-BRTS","code":"376F-U-12","seq":12.0,"stage":5.0,"name":"Shani Mandir","location":{"type":"Point","coordinates":[73.80776,18.66079]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcf8"},"stop":"Non-BRTS","code":"376F-U-11","seq":11.0,"stage":5.0,"name":"Mahabali Chowk","location":{"type":"Point","coordinates":[73.80753,18.6596]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcf9"},"stop":"Non-BRTS","code":"376F-U-04","seq":4.0,"stage":2.0,"name":"Annasaheb Magar Stadium","location":{"type":"Point","coordinates":[73.820645,18.635725]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcfa"},"stop":"Non-BRTS","code":"376F-U-14","seq":14.0,"stage":5.0,"name":"Vaishnavi Collection","location":{"type":"Point","coordinates":[73.806952,18.663017]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcfb"},"stop":"Non-BRTS","code":"376F-U-13","seq":13.0,"stage":5.0,"name":"Shivtejnagar Chowk","location":{"type":"Point","coordinates":[73.808093,18.66266]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcfc"},"stop":"Non-BRTS","code":"376F-U-17","seq":17.0,"stage":6.0,"name":"Maruti Mandir Sambhajinagar","location":{"type":"Point","coordinates":[73.798855,18.664687]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcfd"},"stop":"Non-BRTS","code":"376F-U-15","seq":15.0,"stage":5.0,"name":"Newale Chowk","location":{"type":"Point","coordinates":[73.80694,18.66425]}}
+{"_id":{"$oid":"5a0720b478597fc11004dcfe"},"stop":"Non-BRTS","code":"376F-U-18","seq":18.0,"stage":6.0,"name":"Ganpati Mandir Sambhajinagar","location":{"type":"Point","coordinates":[73.79818,18.66295]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd01"},"stop":"Non-BRTS","code":"376F-U-16","seq":16.0,"stage":6.0,"name":"Krushnanagar Corner","location":{"type":"Point","coordinates":[73.795937,18.666632]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd03"},"stop":"Non-BRTS","code":"376F-U-19","seq":19.0,"stage":7.0,"name":"Sambhajinagar","location":{"type":"Point","coordinates":[73.796513,18.66059]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd0f"},"stop":"Non-BRTS","code":"54B-D-06","seq":6.0,"stage":2.0,"name":"Vasant Talkies","location":{"type":"Point","coordinates":[73.85627,18.517475]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd10"},"stop":"Non-BRTS","code":"54B-D-03","seq":3.0,"stage":1.0,"name":"Shivaji Maharaj Putla","location":{"type":"Point","coordinates":[73.853622,18.525956]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd11"},"stop":"Non-BRTS","code":"54B-D-01","seq":1.0,"stage":1.0,"name":"Shivajinagar","location":{"type":"Point","coordinates":[73.849256,18.532574]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd12"},"stop":"Non-BRTS","code":"54B-D-07","seq":7.0,"stage":2.0,"name":"Gadikhana","location":{"type":"Point","coordinates":[73.856367,18.515148]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd13"},"stop":"Non-BRTS","code":"54B-D-08","seq":8.0,"stage":2.0,"name":"Shahu Chowk","location":{"type":"Point","coordinates":[73.857986,18.50907]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd14"},"stop":"Non-BRTS","code":"54B-D-09","seq":9.0,"stage":2.0,"name":"Shivaji Maratha Highschool","location":{"type":"Point","coordinates":[73.858064,18.506875]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd15"},"stop":"Non-BRTS","code":"54B-D-10","seq":10.0,"stage":2.0,"name":"Gokul Bhavan","location":{"type":"Point","coordinates":[73.858598,18.501536]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd17"},"stop":"Non-BRTS","code":"54B-D-11","seq":11.0,"stage":3.0,"name":"Natraj Stand","location":{"type":"Point","coordinates":[73.85777,18.50072]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd18"},"stop":"Non-BRTS","code":"54B-U-00","seq":0.0,"stage":1.0,"name":"Natraj Stand","location":{"type":"Point","coordinates":[73.857273,18.500772]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd1a"},"stop":"Non-BRTS","code":"54B-U-02","seq":2.0,"stage":1.0,"name":"Bhikardas Maruti","location":{"type":"Point","coordinates":[73.853682,18.50865]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd1d"},"stop":"Non-BRTS","code":"54B-U-03","seq":3.0,"stage":1.0,"name":"Shanipar","location":{"type":"Point","coordinates":[73.85377,18.512275]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd1f"},"stop":"Non-BRTS","code":"54B-U-07","seq":7.0,"stage":2.0,"name":"Ma Na Pa Nava Pul","location":{"type":"Point","coordinates":[73.85407,18.52391]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd22"},"stop":"Non-BRTS","code":"54B-U-10","seq":10.0,"stage":2.0,"name":"Shivajinagar","location":{"type":"Point","coordinates":[73.849806,18.530707]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd23"},"stop":"Non-BRTS","code":"54B-U-11","seq":11.0,"stage":3.0,"name":"Na Ta Wadi","location":{"type":"Point","coordinates":[73.848852,18.534797]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd27"},"stop":"Non-BRTS","code":"58B-D-04","seq":4.0,"stage":1.0,"name":"Kasba Peth Police Chowky","location":{"type":"Point","coordinates":[73.856166,18.519794]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd28"},"stop":"Non-BRTS","code":"58B-D-03","seq":3.0,"stage":1.0,"name":"Ma Na Pa Nava Pul","location":{"type":"Point","coordinates":[73.85409,18.52402]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd29"},"stop":"Non-BRTS","code":"58B-D-06","seq":6.0,"stage":2.0,"name":"Gadikhana","location":{"type":"Point","coordinates":[73.856518,18.513525]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd2a"},"stop":"Non-BRTS","code":"58B-D-08","seq":8.0,"stage":2.0,"name":"Shivaji Maratha Highschool","location":{"type":"Point","coordinates":[73.85808,18.506848]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd2b"},"stop":"Non-BRTS","code":"58B-D-09","seq":9.0,"stage":2.0,"name":"Gokul Bhavan","location":{"type":"Point","coordinates":[73.858716,18.502027]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd2e"},"stop":"Non-BRTS","code":"58B-D-07","seq":7.0,"stage":2.0,"name":"Shahu Chowk","location":{"type":"Point","coordinates":[73.858039,18.508891]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd31"},"stop":"Non-BRTS","code":"58B-U-03","seq":3.0,"stage":1.0,"name":"Shanipar","location":{"type":"Point","coordinates":[73.853796,18.513477]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd32"},"stop":"Non-BRTS","code":"58B-U-04","seq":4.0,"stage":2.0,"name":"Appa Balawant Chowk","location":{"type":"Point","coordinates":[73.853753,18.51552]}}
+{"_id":{"$oid":"5a0720b478597fc11004dd33"},"stop":"Non-BRTS","code":"58B-U-05","seq":5.0,"stage":2.0,"name":"Dakshinmukhi Maruti","location":{"type":"Point","coordinates":[73.853902,18.518182]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd35"},"stop":"Non-BRTS","code":"58B-D-05","seq":5.0,"stage":2.0,"name":"Vasant Talkies","location":{"type":"Point","coordinates":[73.856263,18.517454]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd37"},"stop":"Non-BRTS","code":"58B-U-09","seq":9.0,"stage":2.0,"name":"Simla Office","location":{"type":"Point","coordinates":[73.849098,18.530306]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd38"},"stop":"Non-BRTS","code":"58B-U-10","seq":10.0,"stage":3.0,"name":"Police Ground","location":{"type":"Point","coordinates":[73.844133,18.530705]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd3a"},"stop":"Non-BRTS","code":"60B-D-02","seq":2.0,"stage":1.0,"name":"Bhikardas Maruti","location":{"type":"Point","coordinates":[73.853717,18.508233]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd3b"},"stop":"Non-BRTS","code":"60B-D-03","seq":3.0,"stage":1.0,"name":"Shanipar","location":{"type":"Point","coordinates":[73.853778,18.51234]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd3d"},"stop":"Non-BRTS","code":"60B-U-00","seq":0.0,"stage":1.0,"name":"Mandai Stand","location":{"type":"Point","coordinates":[73.855928,18.513322]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd3e"},"stop":"Non-BRTS","code":"60B-U-01","seq":1.0,"stage":1.0,"name":"Gadikhana","location":{"type":"Point","coordinates":[73.857796,18.51225]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd3f"},"stop":"Non-BRTS","code":"58B-U-08","seq":8.0,"stage":2.0,"name":"Shivaji Maharaj Putla","location":{"type":"Point","coordinates":[73.852866,18.526309]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd41"},"stop":"Non-BRTS","code":"60B-U-03","seq":3.0,"stage":1.0,"name":"Shivaji Maratha Highschool","location":{"type":"Point","coordinates":[73.858474,18.505968]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd42"},"stop":"Non-BRTS","code":"60B-U-04","seq":4.0,"stage":1.0,"name":"Gokul Bhavan","location":{"type":"Point","coordinates":[73.858644,18.501551]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd43"},"stop":"Non-BRTS","code":"64C-D-00","seq":0.0,"stage":1.0,"name":"Gujrat Colony","location":{"type":"Point","coordinates":[73.811874,18.505087]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd44"},"stop":"Non-BRTS","code":"64C-D-01","seq":1.0,"stage":1.0,"name":"Dhondiba Sutar Bal Udyan","location":{"type":"Point","coordinates":[73.813792,18.505604]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd46"},"stop":"Non-BRTS","code":"64C-D-02","seq":2.0,"stage":1.0,"name":"Jog Prashala","location":{"type":"Point","coordinates":[73.817711,18.505428]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd48"},"stop":"Non-BRTS","code":"64C-D-03","seq":3.0,"stage":1.0,"name":"Mayur Colony","location":{"type":"Point","coordinates":[73.818072,18.50417]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd49"},"stop":"Non-BRTS","code":"60B-U-02","seq":2.0,"stage":1.0,"name":"Shahu Chowk","location":{"type":"Point","coordinates":[73.857994,18.50909]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd4f"},"stop":"Non-BRTS","code":"64C-D-11","seq":11.0,"stage":3.0,"name":"Sahitya Parishad","location":{"type":"Point","coordinates":[73.845728,18.510895]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd51"},"stop":"Non-BRTS","code":"64C-D-14","seq":14.0,"stage":3.0,"name":"Madiwale Colony","location":{"type":"Point","coordinates":[73.852753,18.506132]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd52"},"stop":"Non-BRTS","code":"64C-D-12","seq":12.0,"stage":3.0,"name":"Maharashtra Mandal","location":{"type":"Point","coordinates":[73.847397,18.509646]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd53"},"stop":"Non-BRTS","code":"64C-D-13","seq":13.0,"stage":3.0,"name":"SP College","location":{"type":"Point","coordinates":[73.85141,18.507086]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd54"},"stop":"Non-BRTS","code":"64C-D-15","seq":15.0,"stage":3.0,"name":"Hirabaug","location":{"type":"Point","coordinates":[73.854832,18.504426]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd55"},"stop":"Non-BRTS","code":"65A-D-01","seq":1.0,"stage":1.0,"name":"Gangadham","location":{"type":"Point","coordinates":[73.87194,18.480637]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd57"},"stop":"Non-BRTS","code":"64C-D-16","seq":16.0,"stage":3.0,"name":"Swargate Corner","location":{"type":"Point","coordinates":[73.857825,18.501739]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd58"},"stop":"Non-BRTS","code":"65A-D-00","seq":0.0,"stage":1.0,"name":"Marketyard","location":{"type":"Point","coordinates":[73.871534,18.48371]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd59"},"stop":"Non-BRTS","code":"65A-D-02","seq":2.0,"stage":1.0,"name":"Zhala Complex","location":{"type":"Point","coordinates":[73.867758,18.480698]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd5a"},"stop":"Non-BRTS","code":"65A-D-03","seq":3.0,"stage":1.0,"name":"Kumar Park","location":{"type":"Point","coordinates":[73.865844,18.480772]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd5e"},"stop":"Non-BRTS","code":"65A-D-07","seq":7.0,"stage":2.0,"name":"Bharat Jyoti","location":{"type":"Point","coordinates":[73.86304,18.472781]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd5f"},"stop":"Non-BRTS","code":"65A-D-08","seq":8.0,"stage":3.0,"name":"Lower Indiranagar","location":{"type":"Point","coordinates":[73.864204,18.468631]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd6c"},"stop":"Non-BRTS","code":"65A-U-09","seq":9.0,"stage":4.0,"name":"Kumar Park","location":{"type":"Point","coordinates":[73.865683,18.48095]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd6d"},"stop":"Non-BRTS","code":"65A-U-10","seq":10.0,"stage":4.0,"name":"Zhala Complex","location":{"type":"Point","coordinates":[73.86777,18.48079]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd6e"},"stop":"Non-BRTS","code":"65A-U-11","seq":11.0,"stage":4.0,"name":"Gangadham","location":{"type":"Point","coordinates":[73.87191,18.48079]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd70"},"stop":"Non-BRTS","code":"65A-U-04","seq":4.0,"stage":3.0,"name":"Lower Indiranagar","location":{"type":"Point","coordinates":[73.864017,18.468667]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd71"},"stop":"Non-BRTS","code":"66A-D-00","seq":0.0,"stage":1.0,"name":"Shaniwarwada","location":{"type":"Point","coordinates":[73.854436,18.519621]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd72"},"stop":"Non-BRTS","code":"66A-D-02","seq":2.0,"stage":2.0,"name":"Vasant Talkies","location":{"type":"Point","coordinates":[73.856253,18.517472]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd73"},"stop":"Non-BRTS","code":"66A-D-01","seq":1.0,"stage":1.0,"name":"Kasba Peth Police Chowky","location":{"type":"Point","coordinates":[73.856185,18.518566]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd74"},"stop":"Non-BRTS","code":"66A-D-05","seq":5.0,"stage":2.0,"name":"Shivaji Maratha Highschool","location":{"type":"Point","coordinates":[73.858107,18.506742]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd75"},"stop":"Non-BRTS","code":"66A-D-04","seq":4.0,"stage":2.0,"name":"Shahu Chowk","location":{"type":"Point","coordinates":[73.858005,18.508937]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd77"},"stop":"Non-BRTS","code":"66A-D-03","seq":3.0,"stage":2.0,"name":"Gadikhana","location":{"type":"Point","coordinates":[73.856396,18.515099]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd78"},"stop":"Non-BRTS","code":"66A-D-06","seq":6.0,"stage":2.0,"name":"Gokul Bhavan","location":{"type":"Point","coordinates":[73.858637,18.501716]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd7c"},"stop":"Non-BRTS","code":"66A-D-11","seq":11.0,"stage":3.0,"name":"Bhaji Market","location":{"type":"Point","coordinates":[73.864044,18.489496]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd7d"},"stop":"Non-BRTS","code":"66A-D-13","seq":13.0,"stage":4.0,"name":"Godown Gultekdi","location":{"type":"Point","coordinates":[73.869841,18.489487]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd7e"},"stop":"Non-BRTS","code":"66A-D-12","seq":12.0,"stage":4.0,"name":"Shivaji Maharaj Putla Marketyard","location":{"type":"Point","coordinates":[73.867847,18.489253]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd80"},"stop":"Non-BRTS","code":"66A-U-00","seq":0.0,"stage":1.0,"name":"Marketyard","location":{"type":"Point","coordinates":[73.8714,18.4837]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd81"},"stop":"Non-BRTS","code":"66A-U-01","seq":1.0,"stage":1.0,"name":"Godown Gultekdi","location":{"type":"Point","coordinates":[73.869867,18.489333]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd82"},"stop":"Non-BRTS","code":"66A-U-02","seq":2.0,"stage":2.0,"name":"Shivaji Maharaj Putla Marketyard","location":{"type":"Point","coordinates":[73.868233,18.48915]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd83"},"stop":"Non-BRTS","code":"66A-U-03","seq":3.0,"stage":2.0,"name":"Bhaji Market","location":{"type":"Point","coordinates":[73.863867,18.48935]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd84"},"stop":"Non-BRTS","code":"66A-U-04","seq":4.0,"stage":2.0,"name":"Bhapkar Petrol Pump","location":{"type":"Point","coordinates":[73.859384,18.489316]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd86"},"stop":"Non-BRTS","code":"66A-U-06","seq":6.0,"stage":2.0,"name":"Lakshminarayan","location":{"type":"Point","coordinates":[73.857896,18.496397]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd87"},"stop":"Non-BRTS","code":"66A-U-07","seq":7.0,"stage":3.0,"name":"Swargate","location":{"type":"Point","coordinates":[73.858142,18.499353]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd88"},"stop":"Non-BRTS","code":"66A-U-08","seq":8.0,"stage":3.0,"name":"Sarasbaug","location":{"type":"Point","coordinates":[73.853667,18.503333]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd89"},"stop":"Non-BRTS","code":"66A-U-09","seq":9.0,"stage":3.0,"name":"Bhikardas Maruti","location":{"type":"Point","coordinates":[73.853699,18.508215]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd8a"},"stop":"Non-BRTS","code":"66A-U-10","seq":10.0,"stage":3.0,"name":"Shanipar","location":{"type":"Point","coordinates":[73.853792,18.512112]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd8b"},"stop":"Non-BRTS","code":"68P-D-00","seq":0.0,"stage":1.0,"name":"Nehru Stadium","location":{"type":"Point","coordinates":[73.85551,18.50111]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd8e"},"stop":"Non-BRTS","code":"68P-D-02","seq":2.0,"stage":1.0,"name":"Bhikardas Maruti","location":{"type":"Point","coordinates":[73.853708,18.508278]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd8f"},"stop":"Non-BRTS","code":"68P-D-03","seq":3.0,"stage":2.0,"name":"Shanipar","location":{"type":"Point","coordinates":[73.853783,18.512343]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd90"},"stop":"Non-BRTS","code":"68P-D-01","seq":1.0,"stage":1.0,"name":"Sarasbaug","location":{"type":"Point","coordinates":[73.853721,18.503399]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd91"},"stop":"Non-BRTS","code":"66A-U-13","seq":13.0,"stage":5.0,"name":"Shaniwarwada","location":{"type":"Point","coordinates":[73.854472,18.519554]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd92"},"stop":"Non-BRTS","code":"68P-D-04","seq":4.0,"stage":2.0,"name":"Common Wealth","location":{"type":"Point","coordinates":[73.853914,18.514537]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd93"},"stop":"Non-BRTS","code":"68P-D-05","seq":5.0,"stage":2.0,"name":"Gokhale Hall","location":{"type":"Point","coordinates":[73.849759,18.514155]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd94"},"stop":"Non-BRTS","code":"68P-D-06","seq":6.0,"stage":2.0,"name":"Vijay Talkies","location":{"type":"Point","coordinates":[73.846957,18.513824]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd97"},"stop":"Non-BRTS","code":"68P-D-07","seq":7.0,"stage":2.0,"name":"Kulkarni Petrol Pump","location":{"type":"Point","coordinates":[73.844665,18.513155]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd9c"},"stop":"Non-BRTS","code":"68P-D-15","seq":15.0,"stage":4.0,"name":"Ideal Colony","location":{"type":"Point","coordinates":[73.817161,18.51017]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd9d"},"stop":"Non-BRTS","code":"68P-D-14","seq":14.0,"stage":4.0,"name":"More Vidyalay","location":{"type":"Point","coordinates":[73.820596,18.510214]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd9e"},"stop":"Non-BRTS","code":"68P-D-17","seq":17.0,"stage":5.0,"name":"Jai Bhavaninagar","location":{"type":"Point","coordinates":[73.812037,18.509345]}}
+{"_id":{"$oid":"5a0720b578597fc11004dd9f"},"stop":"Non-BRTS","code":"68P-D-19","seq":19.0,"stage":5.0,"name":"Vanaj Corner","location":{"type":"Point","coordinates":[73.807525,18.507369]}}
+{"_id":{"$oid":"5a0720b578597fc11004dda0"},"stop":"Non-BRTS","code":"68P-D-18","seq":18.0,"stage":5.0,"name":"Pratiknagar","location":{"type":"Point","coordinates":[73.810186,18.508289]}}
+{"_id":{"$oid":"5a0720b578597fc11004dda1"},"stop":"Non-BRTS","code":"68P-D-20","seq":20.0,"stage":5.0,"name":"Vanaj Company","location":{"type":"Point","coordinates":[73.804084,18.507007]}}
+{"_id":{"$oid":"5a0720b578597fc11004dda2"},"stop":"Non-BRTS","code":"68P-D-21","seq":21.0,"stage":5.0,"name":"Kachara Depot Kothrud","location":{"type":"Point","coordinates":[73.799756,18.507451]}}
+{"_id":{"$oid":"5a0720b578597fc11004dda3"},"stop":"Non-BRTS","code":"68P-D-16","seq":16.0,"stage":4.0,"name":"Anandnagar Kothrud","location":{"type":"Point","coordinates":[73.814432,18.509627]}}
+{"_id":{"$oid":"5a0720b578597fc11004dda5"},"stop":"Non-BRTS","code":"68P-U-01","seq":1.0,"stage":1.0,"name":"Bharatinagar","location":{"type":"Point","coordinates":[73.797093,18.507834]}}
+{"_id":{"$oid":"5a0720b578597fc11004dda6"},"stop":"Non-BRTS","code":"68P-D-22","seq":22.0,"stage":5.0,"name":"Bharatinagar","location":{"type":"Point","coordinates":[73.797007,18.507737]}}
+{"_id":{"$oid":"5a0720b578597fc11004dda7"},"stop":"Non-BRTS","code":"68P-D-23","seq":23.0,"stage":6.0,"name":"Kothrud Depot","location":{"type":"Point","coordinates":[73.794907,18.507906]}}
+{"_id":{"$oid":"5a0720b578597fc11004dda8"},"stop":"Non-BRTS","code":"68P-U-02","seq":2.0,"stage":1.0,"name":"Kachara Depot Kothrud","location":{"type":"Point","coordinates":[73.799295,18.507627]}}
+{"_id":{"$oid":"5a0720b578597fc11004dda9"},"stop":"Non-BRTS","code":"68P-U-04","seq":4.0,"stage":1.0,"name":"Vanaj Corner","location":{"type":"Point","coordinates":[73.807842,18.50756]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddaa"},"stop":"Non-BRTS","code":"68P-U-07","seq":7.0,"stage":2.0,"name":"Anandnagar Kothrud","location":{"type":"Point","coordinates":[73.814756,18.509825]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddab"},"stop":"Non-BRTS","code":"68P-U-03","seq":3.0,"stage":1.0,"name":"Vanaj Company","location":{"type":"Point","coordinates":[73.803948,18.507101]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddac"},"stop":"Non-BRTS","code":"68P-U-05","seq":5.0,"stage":1.0,"name":"Pratiknagar","location":{"type":"Point","coordinates":[73.810187,18.508408]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddad"},"stop":"Non-BRTS","code":"68P-U-06","seq":6.0,"stage":2.0,"name":"Jai Bhavaninagar","location":{"type":"Point","coordinates":[73.812426,18.509544]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddae"},"stop":"Non-BRTS","code":"68P-U-09","seq":9.0,"stage":2.0,"name":"More Vidyalay","location":{"type":"Point","coordinates":[73.820654,18.510349]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddaf"},"stop":"Non-BRTS","code":"68P-U-08","seq":8.0,"stage":2.0,"name":"Ideal Colony","location":{"type":"Point","coordinates":[73.817492,18.510847]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddb4"},"stop":"Non-BRTS","code":"68P-U-16","seq":16.0,"stage":4.0,"name":"Kulkarni Petrol Pump","location":{"type":"Point","coordinates":[73.844768,18.51284]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddb6"},"stop":"Non-BRTS","code":"68P-U-18","seq":18.0,"stage":4.0,"name":"Sadashiv Peth Haud","location":{"type":"Point","coordinates":[73.846824,18.513125]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddb7"},"stop":"Non-BRTS","code":"68P-U-17","seq":17.0,"stage":4.0,"name":"Chitrashala","location":{"type":"Point","coordinates":[73.845353,18.51291]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddb8"},"stop":"Non-BRTS","code":"68P-U-19","seq":19.0,"stage":4.0,"name":"Vishrambaugwada","location":{"type":"Point","coordinates":[73.852227,18.513741]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddba"},"stop":"Non-BRTS","code":"68P-U-23","seq":23.0,"stage":5.0,"name":"Shivaji Maratha Highschool","location":{"type":"Point","coordinates":[73.85804,18.50672]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddbb"},"stop":"Non-BRTS","code":"68P-U-21","seq":21.0,"stage":5.0,"name":"Gadikhana","location":{"type":"Point","coordinates":[73.855738,18.513429]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddbc"},"stop":"Non-BRTS","code":"68P-U-24","seq":24.0,"stage":5.0,"name":"Gokul Bhavan","location":{"type":"Point","coordinates":[73.85869,18.50164]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddbd"},"stop":"Non-BRTS","code":"68P-U-22","seq":22.0,"stage":5.0,"name":"Shahu Chowk","location":{"type":"Point","coordinates":[73.858025,18.509029]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddbe"},"stop":"Non-BRTS","code":"72A-D-00","seq":0.0,"stage":1.0,"name":"Swargate","location":{"type":"Point","coordinates":[73.859475,18.500441]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddbf"},"stop":"Non-BRTS","code":"68P-U-25","seq":25.0,"stage":6.0,"name":"Nehru Stadium","location":{"type":"Point","coordinates":[73.85552,18.50111]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddc0"},"stop":"Non-BRTS","code":"72A-D-01","seq":1.0,"stage":1.0,"name":"Lakshminarayan","location":{"type":"Point","coordinates":[73.858215,18.496895]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddc1"},"stop":"Non-BRTS","code":"72A-D-02","seq":2.0,"stage":1.0,"name":"ST Colony","location":{"type":"Point","coordinates":[73.857955,18.49301]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddc2"},"stop":"Non-BRTS","code":"68P-U-20","seq":20.0,"stage":5.0,"name":"Mandai Stand","location":{"type":"Point","coordinates":[73.85558,18.51343]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddc3"},"stop":"Non-BRTS","code":"72A-D-03","seq":3.0,"stage":1.0,"name":"Bhapkar Petrol Pump","location":{"type":"Point","coordinates":[73.857645,18.489664]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddc4"},"stop":"Non-BRTS","code":"72A-D-04","seq":4.0,"stage":1.0,"name":"Pushp Mangal","location":{"type":"Point","coordinates":[73.858172,18.486695]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddc5"},"stop":"Non-BRTS","code":"72A-D-05","seq":5.0,"stage":1.0,"name":"ESI Hospital","location":{"type":"Point","coordinates":[73.859681,18.48435]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddc6"},"stop":"Non-BRTS","code":"72A-D-06","seq":6.0,"stage":2.0,"name":"Vasantbaug","location":{"type":"Point","coordinates":[73.861017,18.48175]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddc7"},"stop":"Non-BRTS","code":"72A-D-07","seq":7.0,"stage":2.0,"name":"Kothari","location":{"type":"Point","coordinates":[73.86174,18.478359]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddc8"},"stop":"Non-BRTS","code":"72A-D-08","seq":8.0,"stage":2.0,"name":"Bibvewadi","location":{"type":"Point","coordinates":[73.862498,18.475449]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddc9"},"stop":"Non-BRTS","code":"72A-D-09","seq":9.0,"stage":2.0,"name":"Bharat Jyoti","location":{"type":"Point","coordinates":[73.862992,18.472837]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddca"},"stop":"Non-BRTS","code":"72A-D-11","seq":11.0,"stage":3.0,"name":"Chintamaninagar","location":{"type":"Point","coordinates":[73.864654,18.465587]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddcb"},"stop":"Non-BRTS","code":"72A-D-10","seq":10.0,"stage":3.0,"name":"Lower Indiranagar","location":{"type":"Point","coordinates":[73.864231,18.468439]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddcc"},"stop":"Non-BRTS","code":"72A-U-00","seq":0.0,"stage":1.0,"name":"Upper Depot","location":{"type":"Point","coordinates":[73.871687,18.460809]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddcd"},"stop":"Non-BRTS","code":"72A-U-01","seq":1.0,"stage":2.0,"name":"Upper Indiranagar","location":{"type":"Point","coordinates":[73.867344,18.46096]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddce"},"stop":"Non-BRTS","code":"72A-D-13","seq":13.0,"stage":4.0,"name":"Upper Indiranagar","location":{"type":"Point","coordinates":[73.867392,18.460993]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddcf"},"stop":"Non-BRTS","code":"72A-D-12","seq":12.0,"stage":3.0,"name":"State Bank Colony","location":{"type":"Point","coordinates":[73.864975,18.463557]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddd0"},"stop":"Non-BRTS","code":"72A-U-02","seq":2.0,"stage":2.0,"name":"State Bank Colony","location":{"type":"Point","coordinates":[73.865011,18.463002]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddd1"},"stop":"Non-BRTS","code":"72A-U-03","seq":3.0,"stage":2.0,"name":"Chintamaninagar","location":{"type":"Point","coordinates":[73.864528,18.46581]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddd2"},"stop":"Non-BRTS","code":"72A-U-04","seq":4.0,"stage":3.0,"name":"Lower Indiranagar","location":{"type":"Point","coordinates":[73.864111,18.468629]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddd3"},"stop":"Non-BRTS","code":"72A-U-05","seq":5.0,"stage":3.0,"name":"Bharat Jyoti","location":{"type":"Point","coordinates":[73.863133,18.472217]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddd4"},"stop":"Non-BRTS","code":"72A-D-14","seq":14.0,"stage":5.0,"name":"Upper Depot","location":{"type":"Point","coordinates":[73.8717,18.46095]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddd5"},"stop":"Non-BRTS","code":"72A-U-06","seq":6.0,"stage":3.0,"name":"Bibvewadi","location":{"type":"Point","coordinates":[73.862367,18.47535]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddd6"},"stop":"Non-BRTS","code":"72A-U-07","seq":7.0,"stage":3.0,"name":"Kothari","location":{"type":"Point","coordinates":[73.86167,18.478267]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddd7"},"stop":"Non-BRTS","code":"72A-U-08","seq":8.0,"stage":4.0,"name":"Vasantbaug","location":{"type":"Point","coordinates":[73.860767,18.4818]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddd8"},"stop":"Non-BRTS","code":"72A-U-09","seq":9.0,"stage":4.0,"name":"ESI Hospital","location":{"type":"Point","coordinates":[73.859583,18.484262]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddda"},"stop":"Non-BRTS","code":"72A-U-11","seq":11.0,"stage":4.0,"name":"Bhapkar Petrol Pump","location":{"type":"Point","coordinates":[73.85765,18.48971]}}
+{"_id":{"$oid":"5a0720b578597fc11004dddb"},"stop":"Non-BRTS","code":"72A-U-12","seq":12.0,"stage":4.0,"name":"ST Colony","location":{"type":"Point","coordinates":[73.857798,18.49361]}}
+{"_id":{"$oid":"5a0720b578597fc11004dddc"},"stop":"Non-BRTS","code":"72A-U-10","seq":10.0,"stage":4.0,"name":"Pushp Mangal","location":{"type":"Point","coordinates":[73.85812,18.48646]}}
+{"_id":{"$oid":"5a0720b578597fc11004dde5"},"stop":"Non-BRTS","code":"79C-D-10","seq":10.0,"stage":3.0,"name":"Jai Bhavaninagar","location":{"type":"Point","coordinates":[73.81254,18.5094]}}
+{"_id":{"$oid":"5a0720b578597fc11004dde6"},"stop":"Non-BRTS","code":"79C-D-11","seq":11.0,"stage":3.0,"name":"Pratiknagar","location":{"type":"Point","coordinates":[73.810682,18.508578]}}
+{"_id":{"$oid":"5a0720b578597fc11004dde8"},"stop":"Non-BRTS","code":"79C-D-12","seq":12.0,"stage":3.0,"name":"Vanaj Corner","location":{"type":"Point","coordinates":[73.807329,18.507316]}}
+{"_id":{"$oid":"5a0720b578597fc11004dde9"},"stop":"Non-BRTS","code":"79C-D-09","seq":9.0,"stage":2.0,"name":"Anandnagar Kothrud","location":{"type":"Point","coordinates":[73.814116,18.509526]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddea"},"stop":"Non-BRTS","code":"79C-D-07","seq":7.0,"stage":2.0,"name":"More Vidyalay","location":{"type":"Point","coordinates":[73.820972,18.510182]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddeb"},"stop":"Non-BRTS","code":"79C-D-16","seq":16.0,"stage":4.0,"name":"Kothrud Depot","location":{"type":"Point","coordinates":[73.795018,18.507906]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddec"},"stop":"Non-BRTS","code":"79C-U-00","seq":0.0,"stage":1.0,"name":"Kothrud Depot","location":{"type":"Point","coordinates":[73.795703,18.507977]}}
+{"_id":{"$oid":"5a0720b578597fc11004dded"},"stop":"Non-BRTS","code":"79C-D-15","seq":15.0,"stage":3.0,"name":"Bharatinagar","location":{"type":"Point","coordinates":[73.796761,18.507788]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddee"},"stop":"Non-BRTS","code":"79C-U-01","seq":1.0,"stage":1.0,"name":"Bharatinagar","location":{"type":"Point","coordinates":[73.797117,18.507865]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddef"},"stop":"Non-BRTS","code":"79C-D-14","seq":14.0,"stage":3.0,"name":"Kachara Depot Kothrud","location":{"type":"Point","coordinates":[73.79935,18.507433]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddf0"},"stop":"Non-BRTS","code":"79C-U-02","seq":2.0,"stage":1.0,"name":"Kachara Depot Kothrud","location":{"type":"Point","coordinates":[73.799303,18.50763]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddf1"},"stop":"Non-BRTS","code":"79C-U-04","seq":4.0,"stage":1.0,"name":"Vanaj Corner","location":{"type":"Point","coordinates":[73.807952,18.507611]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddf2"},"stop":"Non-BRTS","code":"79C-U-03","seq":3.0,"stage":1.0,"name":"Vanaj Company","location":{"type":"Point","coordinates":[73.804309,18.507184]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddf3"},"stop":"Non-BRTS","code":"79C-D-13","seq":13.0,"stage":3.0,"name":"Vanaj Company","location":{"type":"Point","coordinates":[73.80432,18.507015]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddf4"},"stop":"Non-BRTS","code":"79C-U-05","seq":5.0,"stage":1.0,"name":"Pratiknagar","location":{"type":"Point","coordinates":[73.809822,18.508387]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddf5"},"stop":"Non-BRTS","code":"79C-U-06","seq":6.0,"stage":2.0,"name":"Jai Bhavaninagar","location":{"type":"Point","coordinates":[73.81273,18.509563]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddf6"},"stop":"Non-BRTS","code":"79C-U-07","seq":7.0,"stage":2.0,"name":"Anandnagar Kothrud","location":{"type":"Point","coordinates":[73.814898,18.509852]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddf8"},"stop":"Non-BRTS","code":"79C-U-09","seq":9.0,"stage":2.0,"name":"More Vidyalay","location":{"type":"Point","coordinates":[73.82005,18.51074]}}
+{"_id":{"$oid":"5a0720b578597fc11004ddfb"},"stop":"Non-BRTS","code":"79C-U-14","seq":14.0,"stage":3.0,"name":"Garware College","location":{"type":"Point","coordinates":[73.838716,18.512424]}}
+{"_id":{"$oid":"5a0720b578597fc11004de10"},"stop":"Non-BRTS","code":"79D-U-00","seq":19.0,"stage":1.0,"name":"Deccan Gymkhana","location":{"type":"Point","coordinates":[73.842918,18.516741]}}
+{"_id":{"$oid":"5a0720b578597fc11004de19"},"stop":"Non-BRTS","code":"79D-U-08","seq":27.0,"stage":2.0,"name":"Karve Putala","location":{"type":"Point","coordinates":[73.81508,18.501907]}}
+{"_id":{"$oid":"5a0720b578597fc11004de1a"},"stop":"Non-BRTS","code":"79D-U-07","seq":26.0,"stage":2.0,"name":"Maruti Mandir Kothrud","location":{"type":"Point","coordinates":[73.820338,18.503598]}}
+{"_id":{"$oid":"5a0720b578597fc11004de22"},"stop":"Non-BRTS","code":"79D-U-16","seq":35.0,"stage":5.0,"name":"Malwadi","location":{"type":"Point","coordinates":[73.80098,18.48033]}}
+{"_id":{"$oid":"5a0720b578597fc11004de25"},"stop":"Non-BRTS","code":"79D-U-18","seq":37.0,"stage":6.0,"name":"Warje Malwadi","location":{"type":"Point","coordinates":[73.79573,18.47575]}}
+{"_id":{"$oid":"5a0720b578597fc11004de2a"},"stop":"Non-BRTS","code":"80B-D-05","seq":5.0,"stage":2.0,"name":"Karvenagar","location":{"type":"Point","coordinates":[73.814559,18.489365]}}
+{"_id":{"$oid":"5a0720b578597fc11004de2d"},"stop":"Non-BRTS","code":"80B-D-08","seq":8.0,"stage":3.0,"name":"Kothrud Stand","location":{"type":"Point","coordinates":[73.813835,18.499583]}}
+{"_id":{"$oid":"5a0720b578597fc11004de33"},"stop":"Non-BRTS","code":"80B-D-11","seq":11.0,"stage":3.0,"name":"Paud Phata","location":{"type":"Point","coordinates":[73.824295,18.505422]}}
+{"_id":{"$oid":"5a0720b578597fc11004de34"},"stop":"Non-BRTS","code":"80B-D-17","seq":17.0,"stage":5.0,"name":"Goodluck Chowk","location":{"type":"Point","coordinates":[73.84148,18.51808]}}
+{"_id":{"$oid":"5a0720b578597fc11004de35"},"stop":"Non-BRTS","code":"80B-D-18","seq":18.0,"stage":5.0,"name":"Fergusson College","location":{"type":"Point","coordinates":[73.84093,18.5228]}}
+{"_id":{"$oid":"5a0720b578597fc11004de36"},"stop":"Non-BRTS","code":"80B-D-15","seq":15.0,"stage":4.0,"name":"Garware College","location":{"type":"Point","coordinates":[73.838403,18.512112]}}
+{"_id":{"$oid":"5a0720b578597fc11004de37"},"stop":"Non-BRTS","code":"80B-D-16","seq":16.0,"stage":4.0,"name":"Deccan Corner","location":{"type":"Point","coordinates":[73.841853,18.513955]}}
+{"_id":{"$oid":"5a0720b578597fc11004de38"},"stop":"Non-BRTS","code":"80B-D-19","seq":19.0,"stage":5.0,"name":"Dnyaneshwar Paduka","location":{"type":"Point","coordinates":[73.84188,18.52641]}}
+{"_id":{"$oid":"5a0720b578597fc11004de39"},"stop":"Non-BRTS","code":"80B-D-20","seq":20.0,"stage":5.0,"name":"Police Line","location":{"type":"Point","coordinates":[73.84385,18.52654]}}
+{"_id":{"$oid":"5a0720b578597fc11004de3a"},"stop":"Non-BRTS","code":"80B-D-21","seq":21.0,"stage":5.0,"name":"Modern HighSchool","location":{"type":"Point","coordinates":[73.849232,18.525129]}}
+{"_id":{"$oid":"5a0720b578597fc11004de3b"},"stop":"Non-BRTS","code":"80B-D-22","seq":22.0,"stage":5.0,"name":"Sawarkar Bhavan","location":{"type":"Point","coordinates":[73.85003,18.52228]}}
+{"_id":{"$oid":"5a0720b578597fc11004de3c"},"stop":"Non-BRTS","code":"80B-D-14","seq":14.0,"stage":4.0,"name":"Sonal Hall","location":{"type":"Point","coordinates":[73.834854,18.510405]}}
+{"_id":{"$oid":"5a0720b578597fc11004de3d"},"stop":"Non-BRTS","code":"80B-D-23","seq":23.0,"stage":6.0,"name":"Ma Na Pa Congress Bhavan","location":{"type":"Point","coordinates":[73.85367,18.52283]}}
+{"_id":{"$oid":"5a0720b578597fc11004de3e"},"stop":"Non-BRTS","code":"80B-U-01","seq":1.0,"stage":1.0,"name":"Balgandharv","location":{"type":"Point","coordinates":[73.849654,18.52226]}}
+{"_id":{"$oid":"5a0720b578597fc11004de3f"},"stop":"Non-BRTS","code":"80B-U-00","seq":0.0,"stage":1.0,"name":"Ma Na Pa Congress Bhavan","location":{"type":"Point","coordinates":[73.85312,18.5226]}}
+{"_id":{"$oid":"5a0720b578597fc11004de40"},"stop":"Non-BRTS","code":"80B-U-02","seq":2.0,"stage":1.0,"name":"Natraj Talkies","location":{"type":"Point","coordinates":[73.845172,18.519105]}}
+{"_id":{"$oid":"5a0720b578597fc11004de41"},"stop":"Non-BRTS","code":"80B-U-06","seq":6.0,"stage":2.0,"name":"Sonal Hall","location":{"type":"Point","coordinates":[73.834959,18.510452]}}
+{"_id":{"$oid":"5a0720b578597fc11004de42"},"stop":"Non-BRTS","code":"80B-U-04","seq":4.0,"stage":2.0,"name":"Deccan Corner","location":{"type":"Point","coordinates":[73.841372,18.513532]}}
+{"_id":{"$oid":"5a0720b578597fc11004de43"},"stop":"Non-BRTS","code":"80B-U-07","seq":7.0,"stage":2.0,"name":"Nal Stop","location":{"type":"Point","coordinates":[73.831963,18.50902]}}
+{"_id":{"$oid":"5a0720b578597fc11004de46"},"stop":"Non-BRTS","code":"80B-U-03","seq":3.0,"stage":2.0,"name":"Deccan Gymkhana","location":{"type":"Point","coordinates":[73.842819,18.516495]}}
+{"_id":{"$oid":"5a0720b578597fc11004de47"},"stop":"Non-BRTS","code":"80B-U-12","seq":12.0,"stage":4.0,"name":"Kothrud Stand","location":{"type":"Point","coordinates":[73.813683,18.499856]}}
+{"_id":{"$oid":"5a0720b578597fc11004de4a"},"stop":"Non-BRTS","code":"80B-U-11","seq":11.0,"stage":3.0,"name":"Karve Putala","location":{"type":"Point","coordinates":[73.816177,18.502256]}}
+{"_id":{"$oid":"5a0720b578597fc11004de4b"},"stop":"Non-BRTS","code":"80B-U-10","seq":10.0,"stage":3.0,"name":"Maruti Mandir Kothrud","location":{"type":"Point","coordinates":[73.820365,18.503652]}}
+{"_id":{"$oid":"5a0720b578597fc11004de51"},"stop":"Non-BRTS","code":"80B-U-19","seq":19.0,"stage":5.0,"name":"Navin Highway","location":{"type":"Point","coordinates":[73.805061,18.480297]}}
+{"_id":{"$oid":"5a0720b578597fc11004de52"},"stop":"Non-BRTS","code":"80B-U-20","seq":20.0,"stage":6.0,"name":"Popularnagar","location":{"type":"Point","coordinates":[73.798642,18.485062]}}
+{"_id":{"$oid":"5a0720b578597fc11004de53"},"stop":"Non-BRTS","code":"85A-U-00","seq":0.0,"stage":1.0,"name":"Khothrud Stand","location":{"type":"Point","coordinates":[73.8138,18.49953]}}
+{"_id":{"$oid":"5a0720b578597fc11004de54"},"stop":"Non-BRTS","code":"85A-U-01","seq":1.0,"stage":1.0,"name":"Gandhi Bhavan Phata","location":{"type":"Point","coordinates":[73.81319,18.49482]}}
+{"_id":{"$oid":"5a0720b578597fc11004de55"},"stop":"Non-BRTS","code":"85A-U-02","seq":2.0,"stage":1.0,"name":"Vadacha Stop","location":{"type":"Point","coordinates":[73.815223,18.490355]}}
+{"_id":{"$oid":"5a0720b578597fc11004de56"},"stop":"Non-BRTS","code":"85A-U-03","seq":3.0,"stage":2.0,"name":"Karvenagar","location":{"type":"Point","coordinates":[73.814383,18.489242]}}
+{"_id":{"$oid":"5a0720b578597fc11004de57"},"stop":"Non-BRTS","code":"85A-U-04","seq":4.0,"stage":2.0,"name":"Galinde Path","location":{"type":"Point","coordinates":[73.810454,18.484728]}}
+{"_id":{"$oid":"5a0720b578597fc11004de58"},"stop":"Non-BRTS","code":"85A-U-05","seq":5.0,"stage":2.0,"name":"Tapodham","location":{"type":"Point","coordinates":[73.807959,18.482147]}}
+{"_id":{"$oid":"5a0720b578597fc11004de59"},"stop":"Non-BRTS","code":"85A-U-06","seq":6.0,"stage":2.0,"name":"Warjegaon","location":{"type":"Point","coordinates":[73.803859,18.480193]}}
+{"_id":{"$oid":"5a0720b578597fc11004de5a"},"stop":"Non-BRTS","code":"85A-U-07","seq":7.0,"stage":3.0,"name":"Malwadi","location":{"type":"Point","coordinates":[73.801004,18.480367]}}
+{"_id":{"$oid":"5a0720b578597fc11004de5b"},"stop":"Non-BRTS","code":"85A-U-08","seq":8.0,"stage":3.0,"name":"Dnyanesh Society","location":{"type":"Point","coordinates":[73.798237,18.47795]}}
+{"_id":{"$oid":"5a0720b578597fc11004de5c"},"stop":"Non-BRTS","code":"85A-U-09","seq":9.0,"stage":3.0,"name":"Ganpati Matha","location":{"type":"Point","coordinates":[73.7958,18.4758]}}
+{"_id":{"$oid":"5a0720b578597fc11004de5d"},"stop":"Non-BRTS","code":"85A-U-10","seq":10.0,"stage":4.0,"name":"Dhangar Baba","location":{"type":"Point","coordinates":[73.794888,18.475052]}}
+{"_id":{"$oid":"5a0720b578597fc11004de5e"},"stop":"Non-BRTS","code":"85A-U-11","seq":11.0,"stage":4.0,"name":"Dudhanevasti","location":{"type":"Point","coordinates":[73.793125,18.473375]}}
+{"_id":{"$oid":"5a0720b578597fc11004de5f"},"stop":"Non-BRTS","code":"85A-U-13","seq":13.0,"stage":4.0,"name":"Deshmukhwadi","location":{"type":"Point","coordinates":[73.786781,18.469156]}}
+{"_id":{"$oid":"5a0720b578597fc11004de60"},"stop":"Non-BRTS","code":"85A-U-14","seq":14.0,"stage":4.0,"name":"Ingalevasti","location":{"type":"Point","coordinates":[73.776744,18.465504]}}
+{"_id":{"$oid":"5a0720b578597fc11004de61"},"stop":"Non-BRTS","code":"85A-U-16","seq":16.0,"stage":5.0,"name":"Uttamnagar","location":{"type":"Point","coordinates":[73.77224,18.460409]}}
+{"_id":{"$oid":"5a0720b578597fc11004de62"},"stop":"Non-BRTS","code":"85A-U-17","seq":17.0,"stage":5.0,"name":"Bhimnagar","location":{"type":"Point","coordinates":[73.770874,18.458168]}}
+{"_id":{"$oid":"5a0720b578597fc11004de63"},"stop":"Non-BRTS","code":"85A-U-15","seq":15.0,"stage":4.0,"name":"Ahire Gate","location":{"type":"Point","coordinates":[73.773228,18.461742]}}
+{"_id":{"$oid":"5a0720b578597fc11004de64"},"stop":"Non-BRTS","code":"85A-U-12","seq":12.0,"stage":4.0,"name":"Shiwne","location":{"type":"Point","coordinates":[73.790398,18.47122]}}
+{"_id":{"$oid":"5a0720b578597fc11004de65"},"stop":"Non-BRTS","code":"85A-U-18","seq":18.0,"stage":5.0,"name":"Kondhwa Dhawde","location":{"type":"Point","coordinates":[73.769966,18.457079]}}
+{"_id":{"$oid":"5a0720b578597fc11004de66"},"stop":"Non-BRTS","code":"85A-U-22","seq":22.0,"stage":7.0,"name":"MES Canteen NDA","location":{"type":"Point","coordinates":[73.753157,18.453583]}}
+{"_id":{"$oid":"5a0720b578597fc11004de67"},"stop":"Non-BRTS","code":"85A-U-20","seq":20.0,"stage":6.0,"name":"Peacock Garden","location":{"type":"Point","coordinates":[73.74946,18.43916]}}
+{"_id":{"$oid":"5a0720b578597fc11004de68"},"stop":"Non-BRTS","code":"85A-U-23","seq":23.0,"stage":8.0,"name":"Garisson Engineering","location":{"type":"Point","coordinates":[73.752618,18.45024]}}
+{"_id":{"$oid":"5a0720b578597fc11004de69"},"stop":"Non-BRTS","code":"85A-U-19","seq":19.0,"stage":6.0,"name":"Kondhwagate","location":{"type":"Point","coordinates":[73.76741,18.4555]}}
+{"_id":{"$oid":"5a0720b578597fc11004de6a"},"stop":"Non-BRTS","code":"85A-U-21","seq":21.0,"stage":6.0,"name":"Gate Number 10","location":{"type":"Point","coordinates":[73.76358,18.45016]}}
+{"_id":{"$oid":"5a0720b578597fc11004de6b"},"stop":"Non-BRTS","code":"85A-U-24","seq":24.0,"stage":8.0,"name":"D2 Circle","location":{"type":"Point","coordinates":[73.75116,18.45032]}}
+{"_id":{"$oid":"5a0720b578597fc11004de6c"},"stop":"Non-BRTS","code":"85A-U-28","seq":28.0,"stage":10.0,"name":"Ahiregaon","location":{"type":"Point","coordinates":[73.732117,18.455339]}}
+{"_id":{"$oid":"5a0720b578597fc11004de6d"},"stop":"Non-BRTS","code":"85A-U-26","seq":26.0,"stage":9.0,"name":"Servants Quarters","location":{"type":"Point","coordinates":[73.747393,18.451532]}}
+{"_id":{"$oid":"5a0720b578597fc11004de6e"},"stop":"Non-BRTS","code":"85B-D-00","seq":0.0,"stage":1.0,"name":"Warje Malwadi","location":{"type":"Point","coordinates":[73.79575,18.47575]}}
+{"_id":{"$oid":"5a0720b578597fc11004de6f"},"stop":"Non-BRTS","code":"85B-D-01","seq":1.0,"stage":1.0,"name":"Dnyanesh Society","location":{"type":"Point","coordinates":[73.798271,18.478001]}}
+{"_id":{"$oid":"5a0720b578597fc11004de70"},"stop":"Non-BRTS","code":"85A-U-27","seq":27.0,"stage":9.0,"name":"Ahiregaon Phata","location":{"type":"Point","coordinates":[73.744655,18.454912]}}
+{"_id":{"$oid":"5a0720b578597fc11004de71"},"stop":"Non-BRTS","code":"85A-U-25","seq":25.0,"stage":8.0,"name":"Bungalow Number 158","location":{"type":"Point","coordinates":[73.74986,18.45039]}}
+{"_id":{"$oid":"5a0720b578597fc11004de72"},"stop":"Non-BRTS","code":"85B-D-02","seq":2.0,"stage":2.0,"name":"Malwadi","location":{"type":"Point","coordinates":[73.800964,18.480232]}}
+{"_id":{"$oid":"5a0720b578597fc11004de74"},"stop":"Non-BRTS","code":"85B-D-07","seq":7.0,"stage":3.0,"name":"Vadacha Stop","location":{"type":"Point","coordinates":[73.815231,18.491224]}}
+{"_id":{"$oid":"5a0720b578597fc11004de75"},"stop":"Non-BRTS","code":"85B-D-04","seq":4.0,"stage":2.0,"name":"Tapodham","location":{"type":"Point","coordinates":[73.807773,18.482019]}}
+{"_id":{"$oid":"5a0720b578597fc11004de76"},"stop":"Non-BRTS","code":"85B-D-05","seq":5.0,"stage":2.0,"name":"Galinde Path","location":{"type":"Point","coordinates":[73.810453,18.484448]}}
+{"_id":{"$oid":"5a0720b578597fc11004de77"},"stop":"Non-BRTS","code":"85B-D-08","seq":8.0,"stage":3.0,"name":"Gandhi Bhavan Phata","location":{"type":"Point","coordinates":[73.813293,18.495405]}}
+{"_id":{"$oid":"5a0720b578597fc11004de78"},"stop":"Non-BRTS","code":"85B-D-09","seq":9.0,"stage":4.0,"name":"Khothrud Stand","location":{"type":"Point","coordinates":[73.813507,18.499723]}}
+{"_id":{"$oid":"5a0720b578597fc11004de79"},"stop":"Non-BRTS","code":"85B-D-03","seq":3.0,"stage":2.0,"name":"Warjegaon","location":{"type":"Point","coordinates":[73.805295,18.480375]}}

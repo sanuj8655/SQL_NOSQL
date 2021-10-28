@@ -1,0 +1,339 @@
+// SELECT * FROM emp WHERE deptno = 10;
+
+db.emp.aggregate([
+    {$match : {deptno : 10}}
+])
+
+// SELECT ename, job, sal FROM emp
+db.emp.aggregate([
+    {$project : {ename : 1, job : 1, sal : 1}}
+])
+
+
+// SELECT ename, job, sal FROM emp WHERE deptno = 10;
+db.emp.aggregate([
+    {$match : {deptno : 10}},
+    {$project : {ename : 1, job : 1, sal : 1}}
+])
+
+
+
+// SELECT * FROM emp ORDER BY sal DESC LIMIT 3, 2;
+
+db.emp.aggregate([
+    {$sort : {sal : -1}},
+    {$skip : 3},
+    {$limit : 2}
+])
+
+
+// SELECT job, SUM(sal) FROM emp GROUP BY job
+
+db.emp.aggregate([
+
+    {
+        $group : {
+            _id : '$job',
+            total : {$sum : '$sal'}    
+        }
+
+    }
+
+])
+
+
+
+// SELECT job, SUM(sal), AVG(sal), MAX(sal), MIN(sal), COUNT(empno) FROM emp GROUP BY job;
+
+db.emp.aggregate([
+
+    {
+        $group : {
+
+            _id : '$job',
+            total : {$sum : '$sal'},
+            average : {$avg : '$sal'},
+            maximum : {$max : '$sal'},
+            minimum : {$min : '$sal'}
+
+        }
+    }
+
+])
+
+
+db.emp.aggregate([
+
+    {
+        $addFields : {
+            one : 1
+        }
+    },
+
+    {
+
+        $group : {
+
+            _id : '$job',
+            total : {$sum : '$sal'},
+            average : {$avg : '$sal'},
+            maximum : {$max : '$sal'},
+            minimum : {$min : '$sal'},
+            count : {$sum : '$one'}
+
+        } 
+
+    }
+
+])
+
+
+
+// SELECT deptno, job, COUNT(empno), SUM(sal) FROM emp GROUP BY deptno, job;
+
+
+db.emp.aggregate([
+
+    {
+        $addFields : {
+            one : 1
+        }
+    },
+    
+    {
+        $group : {
+            _id : {dept : '$deptno', job : '$job'},
+            sum : {$sum : '$sal'},
+            count : {$sum : '$one'}
+        }
+    } 
+
+])
+
+
+
+// SELECT job, SUM(sal) FROM emp WHERE deptno IN (10, 20) GROUP BY job;
+
+db.emp.aggregate([
+    { 
+        $match: {
+            deptno : {
+                $in : [10, 20]
+            }
+        }
+    },
+    { 
+        $group : {
+            _id : '$job',
+            sum : {
+                $sum : '$sal'
+            }
+        }
+    }
+])
+
+
+
+// SELECT job, AVG(sal) FROM emp GROUP BY job HAVING AVG(sal) >= 2700;
+
+db.emp.aggregate([
+
+    {
+        $group : {
+            _id :'$job',
+            average : {
+                $avg : '$sal'}
+        }
+    },
+
+    {
+        $match : {average : {$gte : 2700}}
+    }
+
+])
+
+
+// SELECT job, SUM(sal + IFNULL(comm,0)) FROM emp GROUP BY job;
+
+db.emp.aggregate([
+    {
+        $addFields : {
+            commissions : {
+                $ifNull : ['$comm', 0.0]
+            }
+        }
+    },
+    {
+        $addFields : {
+            income : {
+                $add : ['$sal', '$commissions']
+            }
+        }
+    },
+
+    {
+        $group : {
+            _id : '$job',
+            total : {
+                $sum : '$income'
+            }
+        }
+    }
+
+])
+
+
+
+// display all jobs for each dept.
+//	output:
+//		10:	MANAGER, PRESIDENT, CLERK
+//		20: MANAGER, ANALYST, CLERK
+//		30: MANAGER, SALESMAN, CLERK
+
+db.emp.aggregate([
+    {
+        $group : {
+            _id : '$deptno',
+            jobs : {$push : '$job'}
+        }
+    }
+])
+
+
+
+db.emp.aggregate([
+    {
+        $group : {
+            _id : '$deptno',
+            jobs : {$addToSet : '$job'}
+        }
+    }
+])
+
+
+// display all emps (empno) for each job.
+
+db.emp.aggregate([
+    {
+        $addFields : {
+            one : 1
+        }
+    },
+    
+    {
+        $group : {
+            _id : '$job',
+            empno : {
+                $sum : '$one'
+            }
+        }
+    }
+])
+
+
+// SELECT d.*, e.* FROM emp e LEFT JOIN dept d ON e.deptno = d._id;
+
+db.emp.aggregate([
+    {
+        $lookup :{
+            from : 'dept',
+            foreignField : '_id',
+            localField : 'deptno', 
+            as : 'depts'
+        }
+    },
+    
+])
+
+
+// SELECT d.dname, e.ename FROM dept d LEFT JOIN emp e ON e.deptno = d._id;
+
+db.emp.aggregate([
+    {
+        $lookup :{
+            from : 'dept',
+            foreignField : '_id',
+            localField : 'deptno', 
+            as : 'depts'
+        }
+    },
+    {
+        $project : {_id : 0, 'depts.dname' : 1, ename : 1 }
+    }
+])
+
+// SELECT d.*, e.* FROM dept d LEFT JOIN emp e ON e.deptno = d._id;
+
+db.dept.aggregate([
+    {
+        $lookup : {
+            from : 'emp',
+            foreignField : 'deptno',
+            localField : '_id',
+            as : 'emps'
+        }
+    }
+
+])
+
+
+// display all depts which doesn't have emps.
+
+db.dept.aggregate([
+    {
+        $lookup : {
+            from : 'emp',
+            foreignField : 'deptno',
+            localField : '_id',
+            as : 'emps'
+        }
+    },
+    {
+        $addFields : {
+            cnt : {$size : '$emps'}
+        }
+    },
+    {
+        $match : {cnt : 1}
+    }
+
+])
+
+
+// display ename and his manager name -- self join.
+
+db.emp.aggregate([
+    {
+        $lookup : {
+            from : 'emp',
+            foreignField : '_id',
+            localField : 'mgr',
+            as : 'emp2'
+        }
+    },
+
+    {
+        $project : {
+            _id : 0,
+            ename : 1, 
+            'emp2.ename' : 1
+        }
+    }
+])
+
+
+// CREATE TABLE deptemps AS SELECT e.*, d.dname, d.loc FROM emps e INNER JOIN depts d ON e.deptno = d._id;
+
+db.dept.aggregate([
+    {
+        $lookup: {
+            localField: '_id',
+            from: 'emp',
+            foreignField: 'deptno',
+            as: 'emps'
+        }
+    },
+    {
+        $out: 'deptemps'
+    }
+    ])

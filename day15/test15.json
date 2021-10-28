@@ -1,0 +1,203 @@
+
+db.deptemps.aggregate([{
+    $unwind : '$emps'
+}   
+])
+
+db.deptemps.aggregate([
+    {
+        $unwind : '$emps'
+    },
+    {
+        $addFields : {
+            ename : '$emps.ename'
+        }
+    },
+    {
+        $project : {_id : 0, dname: 1, ename : 1}
+    }
+])
+
+// find all students which have hobbies field as array.
+
+db.students.find(
+    {hobbies : {$type : 'array'}}
+)
+
+// find all students which have two hobbies
+
+db.students.find(
+    {
+        hobbies : {$size : 2}
+    }
+)
+
+// find all students who like "Programming"
+
+db.students.find({
+   hobbies : {$eq : 'Programming'}
+})
+
+
+// find all students who passed 12th std in 2000.
+
+db.students.find({
+    academics : {
+        $elemMatch : {
+            $and : [
+                {std : '12th'},
+                {passing : 2000}
+            ]
+        }
+    }
+})
+
+
+
+// find all students who scored less than 80% in 10th.
+
+db.students.find({
+   academics : {
+       $elemMatch : {
+           $and : [
+                {std : '10th'},
+                {marks : {$lt : 80}}
+            ]
+       }
+   }
+})
+
+// find all students who scored less than 80% in 10th and like Programming.
+
+db.students.find({
+    hobbies : 'Programming',
+    academics : {
+        $elemMatch : {
+            $and : [
+                {std : '10th'},
+                {marks : {$lt : 80}}
+            ]
+        }
+    }
+})
+
+
+// find all students who like Sports and Music.
+
+db.students.find({
+    $and : [
+        {hobbies : 'Sports'},
+        {hobbies : 'Music'}
+    ]
+})
+
+db.students.find({
+	$and: [
+		{ hobbies: { $elemMatch: { $eq: 'Sports' } } },
+		{ hobbies: { $elemMatch: { $eq: 'Music' } } }
+	]
+})
+
+db.students.find({
+	hobbies: { $all: [ 'Music', 'Sports' ] }
+})
+
+
+// find all students who like Teaching or Music.
+db.students.find({
+    $or : [
+        { hobbies : 'Teaching'},
+        {hobbies : 'Music'}
+    ]
+})
+
+
+// add Cooking hobby to Nilesh
+
+db.students.update(
+    { name : 'Nilesh' },
+    {$push : { hobbies : 'Cooking'}}
+    )
+
+// add Singing hobby to Nilesh
+
+db.students.update(
+    { name : 'Nilesh'},
+    {$push : {hobbies : 'Singing'}})
+
+// add Programming hobby to Nilesh
+
+db.students.update({ name : 'Nilesh'}, {$push : {hobbies : 'Programming'}})
+
+// add Singing hobby to Nilesh
+
+db.students.update({ name : 'Nilesh'}, {$push : {hobbies : 'Singing'}})
+
+// add Reading hobby to Nilesh
+
+db.students.update({ name : 'Nilesh'}, {$push : {hobbies : 'Reading'}})
+
+// remove Programming hobby of Nilesh
+
+db.students.update({ name : 'Nilesh'}, {$pull : {hobbies : 'Programming'}})
+
+// add multiple hobbies to Nilesh
+
+db.students.update({ name : 'Nilesh'}, {$pull : {hobbies : 'Programming'}})
+
+
+// add Drawing hobby to Nilesh at position 4
+
+db.students.update({ name : 'Nilesh'},
+
+    {
+        $addToSet : {
+            hobbies : {
+                $each : ['Programming',
+                    'Swimming',
+                    'Gardening',
+                    'Music',
+                    'Sports']
+            }
+        }
+    }
+)
+
+// add Painting hobby to Nilesh and sort hobbies
+
+db.students.update({ name : 'Nilesh'},
+
+    {
+        $push : {
+            hobbies : {
+                $each : ['Painting'],
+                $sort : 1
+            } 
+        }
+    }
+
+)
+
+// keep only first 5 hobbies for Nilesh
+
+db.students.update({name : 'Nilesh'}, {
+    $push : {
+        hobbies : { 
+            $each : [],
+            $slice : 5
+        }
+    }
+})
+
+
+// add Programming & Teaching and keep last 3 hobbies
+
+db.students.update({name : 'Nilesh'}, {
+    $push : {
+        hobbies : {
+            $each : ['Programming', 'Teaching'],
+            $sort : 1,
+            $slice : -3
+        }
+    }
+})
