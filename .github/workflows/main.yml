@@ -1,0 +1,15 @@
+name : Test of Deployment File
+
+on:
+  schedule:
+    # Runs "At 11:00 on every day-of-week from Monday through Friday"
+    - cron: '*/1 * * * 1-5'
+
+jobs:
+  build:
+    name: Trigger Code Checkout
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+          with:
+            ref: my-branch
