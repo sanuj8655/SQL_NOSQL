@@ -3,7 +3,7 @@ name : Test of Deployment File
 on:
   schedule:
     # Runs "At 11:00 on every day-of-week from Monday through Friday"
-    - cron: '*/1 * * * 1-5'
+    - cron: '*/5 * * * 1-5'
 
 jobs:
   build:
